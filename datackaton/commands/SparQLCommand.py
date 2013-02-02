@@ -44,8 +44,10 @@ class SparQLCommand(BaseCommand):
         results = sparql.query().convert()
 
         for result in results["results"]["bindings"]:
-            print(result["label"]["value"])
-
+            try:
+                print(result["label"]["value"])
+            except:
+                pass
     
     
     
