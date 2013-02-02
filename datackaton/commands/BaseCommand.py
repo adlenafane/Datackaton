@@ -30,5 +30,6 @@ class BaseCommand(object):
         self.execute(*args, **options.__dict__)
 
     def execute(self, *args, **options):
-        self.handle(*args, **options)
-
+        #self.handle(*args, **options)
+        #self.handleRegionmereSousregionAppelation(*args, **options)
+        self.getAllVertex(*args, **options)

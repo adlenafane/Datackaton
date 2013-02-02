@@ -1,0 +1,6906 @@
+(dp1
+S'ann\xc3\xa9e'
+p2
+c__builtin__
+set
+p3
+((lp4
+V1961
+p5
+aV1927-07-22
+p6
+aV19842004
+p7
+aV1948
+p8
+aV1949
+p9
+aV1947-10-15
+p10
+aV1942
+p11
+aV1943
+p12
+aV1940
+p13
+aV1941
+p14
+aV1946
+p15
+aV1947
+p16
+aV1944
+p17
+aV1945
+p18
+aV1937-02-16
+p19
+aV2011
+p20
+aV2010
+p21
+aV2011-04-06
+p22
+aV1955
+p23
+aV1954
+p24
+aV1957
+p25
+aV1956
+p26
+aV1951
+p27
+aV1950
+p28
+aV1952
+p29
+aV1959
+p30
+aVTxakoli de Getaria1989
+p31
+aVTxakoli de Biscaye1994
+p32
+aV1966-11-02
+p33
+aVmai 1994
+p34
+aV1922
+p35
+aV1986-01-01
+p36
+aV2009-05-28
+p37
+aVoctobre 2000
+p38
+aV1852
+p39
+aVTxakoli d'Alava 2001
+p40
+aV1935-07-30
+p41
+aV?
+aV1954-08-10
+p42
+aV1933
+p43
+aV1937
+p44
+aV1936
+p45
+aV1935
+p46
+aV1984-11-21
+p47
+aV1939
+p48
+aV1938
+p49
+aVnovembre 2006
+p50
+aV1993-01-30
+p51
+aV25.0
+p52
+aV1842
+p53
+aV1999-09-23
+p54
+aV1560.0
+p55
+aV2011-05-19
+p56
+aV1948-09-28
+p57
+aV1872
+p58
+aV1959-12-28
+p59
+aV1908
+p60
+aV1909
+p61
+aV1904
+p62
+aV1986
+p63
+aV1987
+p64
+aV1984
+p65
+aV1985
+p66
+aV1982
+p67
+aV1983
+p68
+aV1980
+p69
+aV1981
+p70
+aV1937-07-11
+p71
+aV1988
+p72
+aV1989
+p73
+aV1981-03-05
+p74
+aV19921994
+p75
+aV1863
+p76
+aV2005-08-25
+p77
+aV1868
+p78
+aV1913
+p79
+aVet 2007 pour le dernier
+p80
+aV1991
+p81
+aV1990
+p82
+aV1993
+p83
+aV1992
+p84
+aV1995
+p85
+aV1994
+p86
+aV1997
+p87
+aV1996
+p88
+aV1999
+p89
+aV1998
+p90
+aV1936-09-11
+p91
+aV1936-05-31
+p92
+aVfévrier 1997
+p93
+aV1975-02-07
+p94
+aV1605
+p95
+aV30.0
+p96
+aV1981-11-18
+p97
+aV1816
+p98
+aV1968
+p99
+aV1969
+p100
+aV1964
+p101
+aV1965
+p102
+aV1966
+p103
+aV1967
+p104
+aV1960
+p105
+aV1937-07-31
+p106
+aV1962
+p107
+aV1963
+p108
+aV1756
+p109
+aVParis 1992 - 1994 - 1998
+p110
+aVaoût 2009
+p111
+aVsemestre 2006
+p112
+aVLa première labellisation a lieu en 1967 avec la récolte 1966
+p113
+aV2009
+p114
+aV1979
+p115
+aV1978
+p116
+aV1977
+p117
+aV1976
+p118
+aV1975
+p119
+aV1974
+p120
+aV1973-07-27
+p121
+aV1972
+p122
+aV1971
+p123
+aV1970
+p124
+aV2002
+p125
+aV2003
+p126
+aV2000
+p127
+aV2001
+p128
+aV2006
+p129
+aV2007
+p130
+aV2004
+p131
+aV2005
+p132
+aV2008
+p133
+aV1973
+p134
+atRp135
+sS'nom'
+p136
+g3
+((lp137
+VWiebelsberg
+p138
+aVLanguedoc-Roussillon
+p139
+aVBanyuls
+p140
+aVLinglois
+p141
+aVCollioure
+p142
+aVSteinklotz
+p143
+aVCombaz
+p144
+aVRangen
+p145
+aVDalsheimer Hubacker
+p146
+aVCosters Del Segre
+p147
+aVFigari
+p148
+aVMoenchberg
+p149
+aVColumbia Valley
+p150
+aVDelpal
+p151
+aVVignobles de Grèce
+p152
+aVAlella
+p153
+aVArmagnac
+p154
+aVMonts Santa Cruz
+p155
+aVRand
+p156
+aVCampo de Borja
+p157
+aVCoteaux-d'aix-en-provence
+p158
+aVMandelberg
+p159
+aVVallée de la Loire
+p160
+aVAlsace grand cru
+p161
+aVLoupiac
+p162
+aVCôte chalonnaise
+p163
+aVMargaux
+p164
+aVZala
+p165
+aVCôtes-du-tarn
+p166
+aVDuijker
+p167
+aVRasteau
+p168
+aVPinot-noir d'Alsace
+p169
+aVSeyssel
+p170
+aVCilaos
+p171
+aVhttp://fr.dbpedia.org/resource/Aigle
+p172
+aVValençay
+p173
+aVFronton
+p174
+aVChablais vaudois
+p175
+aVPérigord
+p176
+aVSaint-joseph
+p177
+aVBrouilly
+p178
+aVPilleboue
+p179
+aVSaussignac
+p180
+aVSaering
+p181
+aVCôtes-de-saint-mont
+p182
+aVBlaye
+p183
+aVCrémant d'Alsace
+p184
+aVCôtes-de-gascogne
+p185
+aVPhilippe Séguier
+p186
+aVKaefferkopf
+p187
+aVSaint-Gervais
+p188
+aVBaco
+p189
+aVSylvaner d'Alsace
+p190
+aVEngelberg
+p191
+aVChasselas d'Alsace
+p192
+aVMâconnais
+p193
+aVGigondas
+p194
+aVPouilly-fuissé
+p195
+aVVallée de Sonoma
+p196
+aVQuincy
+p197
+aVFitou
+p198
+aVParvulesco
+p199
+aVFloc de Gascogne
+p200
+aVSchoenenbourg
+p201
+aVColumbia Gorge
+p202
+aVSomontano
+p203
+aVCadillac
+p204
+aVSteingrubler
+p205
+aVCharentais
+p206
+aVColli Piacentini
+p207
+aVProvence
+p208
+aVSteinert
+p209
+aVBordeaux-supérieur
+p210
+aVSud-Ouest
+p211
+aVBrézème
+p212
+aVSavennières
+p213
+aVCôtes-de-montestruc
+p214
+aVAulas
+p215
+aVKirchberg-de-barr
+p216
+aVFrankstein
+p217
+aVVinsobres
+p218
+aVSporen
+p219
+aVhttp://fr.dbpedia.org/resource/Marcel_Lachiver
+p220
+aVCôtes-de-montravel
+p221
+aVCalvi
+p222
+aVVinho verde
+p223
+aVCôte de Beaune
+p224
+aVCoteaux-du-Layon Chaume
+p225
+aVComté-tolosan
+p226
+aVPorto-vecchio
+p227
+aVRégnié
+p228
+aVVin de pays des Alpilles
+p229
+aVCôtes-du-condomois
+p230
+aVEger
+p231
+aVEdelzwicker
+p232
+aVPays nantais
+p233
+aVListrac-médoc
+p234
+aVManicle
+p235
+aVAlsace
+p236
+aVFroehn
+p237
+aVhttp://fr.dbpedia.org/resource/Jules_Guyot
+p238
+aVSonnenglanz
+p239
+aVIrouléguy
+p240
+aVDalla Rosa
+p241
+aVGuy Lavignac
+p242
+aVFronsac
+p243
+aVHajós-Baja
+p244
+aVKanzlerberg
+p245
+aVBergerac
+p246
+aVBarsac
+p247
+aVLavilledieu
+p248
+aVVignobles du Portugal
+p249
+aVSaint-georges-saint-émilion
+p250
+aVClairette de Bellegarde
+p251
+aVEntre-deux-Mers
+p252
+aVBonnezeaux
+p253
+aVRivesaltes
+p254
+aVhttp://fr.dbpedia.org/resource/Saint-Triphon
+p255
+aVButel
+p256
+aVGewurztraminer d'Alsace
+p257
+aVBroadbent
+p258
+aVPessey
+p259
+aVhttp://fr.dbpedia.org/resource/Lavey-Morcles
+p260
+aVKunság
+p261
+aVHatschbourg
+p262
+aVJura
+p263
+aVFlorimont
+p264
+aVCrémant de Bordeaux
+p265
+aVMorgon
+p266
+aVCariñena
+p267
+aVCôtes du Rhône méridionales
+p268
+aVCoteaux-de-peyriac
+p269
+aVCabardès
+p270
+aVhttp://fr.dbpedia.org/resource/Villeneuve_(Vaud)
+p271
+aVReuilly
+p272
+aVCour-cheverny
+p273
+aVRousset-les-vignes
+p274
+aVSaint-drézéry
+p275
+aVFanet
+p276
+aVMaury
+p277
+aVVignoble de Catalogne
+p278
+aVJullien
+p279
+aVEtyek-Buda
+p280
+aVAltenberg-de-bergheim
+p281
+aVVignoble d'Andalousie
+p282
+aVGeisberg
+p283
+aVCognac
+p284
+aVVin de pays du Var
+p285
+aVValais
+p286
+aVCérons
+p287
+aVKitterlé
+p288
+aVCsongrád
+p289
+aVBourgogne
+p290
+aVSaint-nicolas-de-bourgueil
+p291
+aVSainte-foy-bordeaux
+p292
+aVJ.-L Riol
+p293
+aVCôtes-de-duras
+p294
+aVBerthault
+p295
+aVMinho
+p296
+aVPessac-léognan
+p297
+aVKlevener de Heiligenstein
+p298
+aVCôtes-de-millau
+p299
+aVMuscat de Mireval
+p300
+aVMarckrain
+p301
+aVMédoc
+p302
+aVCôte-de-brouilly
+p303
+aVEntraygues-et-du-fel
+p304
+aVCoteaux-de-coiffy
+p305
+aVThézac-perricard
+p306
+aVVignoble du Pays Basque
+p307
+aVSauternais
+p308
+aVMastrojanni
+p309
+aVBourgueil
+p310
+aVMenetou-salon
+p311
+aVSourbadère
+p312
+aVRieu
+p313
+aVGilbert
+p314
+aVCôtes-de-bordeaux-saint-macaire
+p315
+aVCoteaux-du-littoral-audois IGP
+p316
+aVCalatayud
+p317
+aVEstaing
+p318
+aVSartène
+p319
+aVPremières-côtes-de-bordeaux
+p320
+aVVignoble de Bergerac
+p321
+aVGoldert
+p322
+aVMarkham
+p323
+aVCoteaux-du-giennois
+p324
+aVBeaujolais-villages
+p325
+aVBordeaux
+p326
+aVProuteau
+p327
+aVDominé
+p328
+aVPomerol
+p329
+aVCornas
+p330
+aVhttp://fr.dbpedia.org/resource/Saint-Maurice_(Valais)
+p331
+aVVignoble de Provence
+p332
+aVSaint-pantaléon-les-vignes
+p333
+aVFurstentum
+p334
+aVVignoble du Bugey
+p335
+aVBordeaux-côtes-de-francs
+p336
+aVÁszár-Neszmély
+p337
+aVCôtes-de-castillon
+p338
+aVZotzenberg
+p339
+aVSancerre
+p340
+aVCôte-chalonnaise
+p341
+aVMonbazillac
+p342
+aVCoteaux-et-terrasses-de-montauban
+p343
+aVVillány
+p344
+aVHengst
+p345
+aVCoteaux-flaviens
+p346
+aVChénas
+p347
+aVLaudun
+p348
+aVVignoble du Beaujolais
+p349
+aVBalatonboglár
+p350
+aVPannonhalma
+p351
+aVSauternes
+p352
+aVPfersigberg
+p353
+aVVignoble du Sud-Ouest
+p354
+aVRosacker
+p355
+aVBasse-Bourgogne
+p356
+aVAnjou
+p357
+aVPays-d'oc
+p358
+aVRouzeau
+p359
+aVLachivier
+p360
+aVVorbourg
+p361
+aVCôtes-de-thongue
+p362
+aVTemecula Valley
+p363
+aVOllwiller
+p364
+aVCité-de-carcassonne
+p365
+aVLalande-de-pomerol
+p366
+aVTursan
+p367
+aVAgenais
+p368
+aVCôtes-de-bourg
+p369
+aVBalatonfüred-Csopak
+p370
+aVMoselle
+p371
+aVVallée du Haut Douro
+p372
+aVBrand
+p373
+aVDézaley
+p374
+aVKastelberg
+p375
+aVMoulin-à-vent
+p376
+aVCoteaux-de-chalosse
+p377
+aVCorbières-boutenac
+p378
+aVBruderthal
+p379
+aVRueda
+p380
+aVFleurie AOC
+p381
+aVDiois
+p382
+aVVirieu-le-grand
+p383
+aVCousteaux
+p384
+aVLussac-saint-émilion
+p385
+aVPfingstberg
+p386
+aVDanvers
+p387
+aVCôte-rôtie
+p388
+aVWineck-schlossberg
+p389
+aVDufor
+p390
+aVLefebvre
+p391
+aVLampre
+p392
+aVChaumarat
+p393
+aVBeaujolais nouveau
+p394
+aVGraves
+p395
+aVVignoble de Castille et León
+p396
+aVCheverny
+p397
+aVVignoble de Corse
+p398
+aVSommerberg
+p399
+aVGraves-de-vayres
+p400
+aVKirchberg-de-ribeauvillé
+p401
+aVCôtes du Rhône
+p402
+aVMuscat de Beaumes-de-Venise
+p403
+aVKayser
+p404
+aVGaillac-premières-côtes
+p405
+aVRoussette du Bugey
+p406
+aVLuberon AOC
+p407
+aVHuetz de Lemps
+p408
+aVBeaujolais
+p409
+aVMuscat du Cap-Corse
+p410
+aVPraelatenberg
+p411
+aVLa-clape
+p412
+aVVignoble de Bordeaux
+p413
+aVVentoux
+p414
+aVMadiran
+p415
+aVDuyker
+p416
+aVCassis
+p417
+aVSainte-croix-du-mont
+p418
+aVHaut-Balaton
+p419
+aVMarcillac
+p420
+aVChâteauneuf-du-pape
+p421
+aVCôtes-du-marmandais
+p422
+aVRosette
+p423
+aVGalluccio
+p424
+aVVin de pays des Hautes-Alpes
+p425
+aVCoteaux-champenois
+p426
+aVLorraine
+p427
+aVSomló
+p428
+aVVallée de Napa
+p429
+aVSavoie
+p430
+aVPic-saint-loup
+p431
+aVBigorre
+p432
+aVCoteaux-du-quercy
+p433
+aVRoudié
+p434
+aVMór
+p435
+aVCôtes-de-provence
+p436
+aVEichberg
+p437
+aVValtellina
+p438
+aVSaumur
+p439
+aVJasnières
+p440
+aVPacherenc-du-vic-bilh
+p441
+aVLachiver
+p442
+aVSaint-amour
+p443
+aVSaint-émilion
+p444
+aVCrozes-hermitage
+p445
+aVEntre-deux-mers
+p446
+aVGraves-supérieures
+p447
+aVViré-clessé
+p448
+aVCalamin
+p449
+aVSable-de-camargue
+p450
+aVCôtes-de-bordeaux
+p451
+aVCoteaux-du-layon
+p452
+aVDelamain
+p453
+aVhttp://fr.dbpedia.org/resource/Aigle_(Vaud)
+p454
+aVVallée du Rhône
+p455
+aVBuzet
+p456
+aVPaul Strang
+p457
+aVPouilly-fumé
+p458
+aVHeiniger
+p459
+aVOsterberg
+p460
+aVTouraine
+p461
+aVCoteaux-du-cap-corse
+p462
+aVLebèque
+p463
+aVBrulhois
+p464
+aVVouvray
+p465
+aVde Monza
+p466
+aVSempé
+p467
+aVCorbières
+p468
+aVCôtes-de-blaye
+p469
+aVPopulorum
+p470
+aVBlayais et Bourgeais
+p471
+aVhttp://fr.dbpedia.org/resource/Pierre_Casamayor
+p472
+aVMuenchberg
+p473
+aVOz Clarke
+p474
+aVBlin
+p475
+aVCoteaux-du-lyonnais
+p476
+aVHartmann
+p477
+aVCévennes
+p478
+aVCôtes du Rhône septentrionales
+p479
+aVSaint-estèphe
+p480
+aVKessler
+p481
+aVQuarts-de-chaume
+p482
+aVFerrand
+p483
+aVSidi Brahim
+p484
+aVSaumur brut
+p485
+aVSeillan
+p486
+aVPierrevert AOC
+p487
+aVSaint-chinian
+p488
+aVAltenberg-de-bergbieten
+p489
+aVCannard
+p490
+aVPouilly-sur-loire
+p491
+aVSpiegel
+p492
+aVCorse
+p493
+aVSéguret
+p494
+aVLirac
+p495
+aVMuller
+p496
+aVPuisseguin-saint-émilion
+p497
+aVWinzenberg
+p498
+aVEnjalbert
+p499
+aVCasamayor
+p500
+aVGaillac
+p501
+aVTokay Tokaj
+p502
+aVMuscat d'Alsace
+p503
+aVStolz
+p504
+aVSaint-péray
+p505
+aVTerroirs-landais
+p506
+aVCentre
+p507
+aVJurançon
+p508
+aVRed Hills Lake County
+p509
+aVDurivault
+p510
+aVBéarn
+p511
+aVChusclan
+p512
+aVChampagne
+p513
+aVCostières-de-nîmes
+p514
+aVCerdon
+p515
+aVMontagnieu
+p516
+aVAjaccio
+p517
+aVDaguin
+p518
+aVDethier
+p519
+aVméridionales
+p520
+aVStrang
+p521
+aVMambourg
+p522
+aVMontagne-saint-émilion
+p523
+aVSchlossberg
+p524
+aVRutherford
+p525
+aVNeal
+p526
+aVPinot-gris d'Alsace
+p527
+aVGloeckelberg
+p528
+aVMarron
+p529
+aVRiesling d'Alsace
+p530
+aVVistrenque
+p531
+aVPriorat
+p532
+aVCondrieu
+p533
+aVJuliénas
+p534
+aVLa Côte
+p535
+aVTavel
+p536
+aVVin de pays du Gard
+p537
+aVBeaumes-de-venise
+p538
+aVPatrimonio
+p539
+aVMinervois
+p540
+aVSamalens
+p541
+aVRosé des Riceys
+p542
+aVZinnkoepflé
+p543
+aVHermitage
+p544
+aVHaut-montravel
+p545
+aVPinot d'Alsace
+p546
+aVLes-baux-de-provence
+p547
+aVChiroubles
+p548
+aVPauillac
+p549
+aVBadacsony
+p550
+aVCôte de Nuits
+p551
+aVBandol AOC
+p552
+aVVignobles d'Arménie
+p553
+aVChinon
+p554
+aVLibournais
+p555
+aVCanon-fronsac
+p556
+aVPécharmant
+p557
+aVFernand Cousteaux, Robert Plageoles
+p558
+aVVan Leewen
+p559
+aVTerrasses-de-béziers
+p560
+aVCoteaux-des-baronnies
+p561
+aVAguardentes da Lourinhã
+p562
+aVBugey
+p563
+aVSeigneurie
+p564
+aVVin de Pays d'Ariège
+p565
+aVAltenberg-de-wolxheim
+p566
+aVMontravel
+p567
+aVVin de pays des Alpes-de-Haute-Provence
+p568
+aVCatalogne
+p569
+aVVin de pays des Bouches-du-Rhône
+p570
+aVHaut-médoc
+p571
+aVCahors
+p572
+aVMoulis-en-médoc
+p573
+aVCairanne
+p574
+aVPage
+p575
+aVBükk
+p576
+aVGirard
+p577
+aVCollectif
+p578
+aVCôtes-du-roussillon villages
+p579
+aVVacqueyras
+p580
+aVMadeira
+p581
+aVSaint-julien
+p582
+aVGarde
+p583
+atRp584
+sS'appellations'
+p585
+g3
+((lp586
+Valpilles
+p587
+aVcoteaux-d'aix-en-provence
+p588
+aVhttp://fr.dbpedia.org/resource/Granja_Amareleja_(IPR)
+p589
+aVmaury
+p590
+aValsace grand cru Brand
+p591
+aVcrémant de Bordeaux
+p592
+aVgraves
+p593
+aVsaint-bris
+p594
+aVEszencia
+p595
+aVcoteaux-bourguignons
+p596
+aVchevalier-montrachet
+p597
+aVpouilly-fumé
+p598
+aVcostières-de-nîmes
+p599
+aVcôtes-du-rhône villages
+p600
+aVColumbia Valley
+p601
+aVestaing
+p602
+aVMontsant
+p603
+aVhttp://fr.dbpedia.org/resource/Bairrada_(DOC)
+p604
+aVMontilla-Moriles
+p605
+aVcalamin
+p606
+aVlanguedoc
+p607
+aVles-baux-de-provence
+p608
+aVcoteaux-du-giennois
+p609
+aVcoteaux-du-vendômois
+p610
+aVcoteaux-et-terrasses-de-montauban
+p611
+aVhttp://fr.dbpedia.org/resource/Tavira_(DOC)
+p612
+aVanjou-coteaux-de-la-loire
+p613
+aVreuilly
+p614
+aVcour-cheverny
+p615
+aVvinsobres
+p616
+aVcollines-rhodaniennes
+p617
+aVjuliénas
+p618
+aVcoteaux-du-loir
+p619
+aVbas-armagnac,
+p620
+aVcôtes-du-roussillon villages
+p621
+aVCoteaux du Layon
+p622
+aVCilaos
+p623
+aVclos-de-vougeot
+p624
+aVhttp://fr.dbpedia.org/resource/Crémant_d'Alsace
+p625
+aVgigondas
+p626
+aVhttp://fr.dbpedia.org/resource/Porto_(DOC)
+p627
+aVpays-d'hérault
+p628
+aVbonnes-mares
+p629
+aVtursan
+p630
+aVhttp://fr.dbpedia.org/resource/Evora_(IPR)
+p631
+aVsaint-véran
+p632
+aVmuscat de Mireval
+p633
+aVcriots-bâtard-montrachet
+p634
+aVsavennières
+p635
+aVCôtes-du-vivarais
+p636
+aVchassagne-montrachet
+p637
+aVMálaga
+p638
+aVcoteaux-du-littoral-audois
+p639
+aValoxe-corton
+p640
+aVhttp://fr.dbpedia.org/resource/Ribatejano_(VR)
+p641
+aVhttp://fr.dbpedia.org/resource/Vin_de_Savoie_(AOC)
+p642
+aVSonoma Valley
+p643
+aVhttp://fr.dbpedia.org/resource/Ribatejo_(DOC)
+p644
+aVmazis-chambertin
+p645
+aVvolnay
+p646
+aVvin de marque
+p647
+aVirouléguy
+p648
+aVcôte-roannaise
+p649
+aVlimoux
+p650
+aVcharentais
+p651
+aVprincipauté-d'orange
+p652
+aVpauillac
+p653
+aVcôtes-du-tarn
+p654
+aVpouilly-sur-loire
+p655
+aVventoux
+p656
+aVVillányi Cabernet Franc, Villányi Cabernet Sauvignon
+p657
+aVlavilledieu
+p658
+aVentre-deux-mers
+p659
+aVvougeot et vougeot premier cru
+p660
+aVhttp://fr.dbpedia.org/resource/Dão_(DOC)
+p661
+aVbienvenues-bâtard-montrachet
+p662
+aVhttp://fr.dbpedia.org/resource/Chamusca_(IPR)
+p663
+aVpécharmant
+p664
+aVjurançon
+p665
+aVhttp://fr.dbpedia.org/resource/Empordà_(DO)
+p666
+aVtavel
+p667
+aVhttp://fr.dbpedia.org/resource/Côtes-du-rhône_villages_(AOC)
+p668
+aVblagny
+p669
+aVclos-saint-denis
+p670
+aVsaint-estèphe
+p671
+aVauxey-duresses
+p672
+aVbellet, ou vin de bellet
+p673
+aVhttp://fr.dbpedia.org/resource/Estremadura_(VR)
+p674
+aVhttp://fr.dbpedia.org/resource/Bourgogne_(AOC)
+p675
+aVpuisseguin-saint-émilion
+p676
+aVpouilly-loché
+p677
+aVpernand-vergelesses
+p678
+aVmontrachet
+p679
+aVhttp://fr.dbpedia.org/resource/Comtés-rhodaniens
+p680
+aValsace grand cru Steinklotz
+p681
+aVcoteaux-flaviens
+p682
+aVhttp://fr.dbpedia.org/resource/Graciosa_(IPR)
+p683
+aVaigues
+p684
+aVhaut-montravel
+p685
+aVcoteaux-de-l'aubance
+p686
+aVpérigord
+p687
+aVcrémant de Die
+p688
+aVmuscat de Rivesaltes
+p689
+aVManzanilla-Sanlucar de Barrameda
+p690
+aVcorbières-boutenac
+p691
+aVPriorat
+p692
+aVhttp://fr.dbpedia.org/resource/Biscoitos_(IPR)
+p693
+aValsace grand cru Kaefferkopf
+p694
+aVCondado de Helva
+p695
+aValsace grand cru Goldert
+p696
+aVaude
+p697
+aValsace grand cru Zotzenberg
+p698
+aVéchezeaux
+p699
+aVgaillac
+p700
+aVCoteaux-du-Layon Chaume
+p701
+aVcôtes-d'auvergne
+p702
+aVMavodaphni, Hymette, Lindos, Vino Santo, Archanes, muscat de Samos
+p703
+aVentraygues-et-du-fel
+p704
+aVhttp://fr.dbpedia.org/resource/Sainte-croix-du-mont_(AOC)
+p705
+aVbanyuls et banyuls grand cru
+p706
+aVl'étoile
+p707
+aVthézac-perricard
+p708
+aVhttp://fr.dbpedia.org/resource/Etc.
+p709
+aVhttp://fr.dbpedia.org/resource/Bugey_(AOC)
+p710
+aVhttp://fr.dbpedia.org/resource/Beiras_(VR)
+p711
+aVnuits-saint-georges et nuits-saint-georges premier cru
+p712
+aVAszú 4 puttonyos
+p713
+aValsace grand cru Moenchberg
+p714
+aVbouches-du-rhône
+p715
+aVbuzet
+p716
+aVgivry
+p717
+aVcôtes-du-roussillon
+p718
+aValsace grand cru Kitterlé
+p719
+aVajaccio
+p720
+aVcadillac
+p721
+aValsace grand cru Vorbourg
+p722
+aVhttp://fr.dbpedia.org/resource/Vinho_verde_(DOC)
+p723
+aVhttp://fr.dbpedia.org/resource/Beira_Interior_(DOC)
+p724
+aValsace grand cru Schoenenbourg
+p725
+aVfaugères
+p726
+aVsauternes
+p727
+aValsace grand cru Altenberg de Wolxheim
+p728
+aVhttp://fr.dbpedia.org/resource/Cova_de_Beira_(IPR)
+p729
+aVbigorre
+p730
+aValsace grand cru Spiegel
+p731
+aVblaye
+p732
+aVcoteaux-de-peyrac
+p733
+aVluberon
+p734
+aVcharlemagne
+p735
+aValsace grand cru Altenberg de Bergheim
+p736
+aVmadiran
+p737
+aVla-romanée
+p738
+aVclairette de Die
+p739
+aVvin de Corse, ajaccio, patrimonio, calvi, coteaux-du-cap-corse, figari, porto-vecchio, sartène, muscat du Cap-Corse et île-de-beauté
+p740
+aVlatricières-chambertin
+p741
+aVorléans
+p742
+aVhttp://fr.dbpedia.org/resource/Petit-chablis
+p743
+aVAszú 5 puttonyos
+p744
+aValsace grand cru Mandelberg
+p745
+aVrosette
+p746
+aVcôtes-de-castillon
+p747
+aVsancerre
+p748
+aValsace grand cru Kastelberg
+p749
+aVhttp://fr.dbpedia.org/resource/Pessac-léognan_(AOC)
+p750
+aVsaumur et cabernet-de-saumur
+p751
+aVPorto
+p752
+aVtouraine
+p753
+aVBrulhois
+p754
+aVhttp://fr.dbpedia.org/resource/Valpaços_(IPR)
+p755
+aVentre-deux-mers, graves-de-vayres, premières-côtes-de-bordeaux, cadillac-côtes-de-bordeaux, cadillac, loupiac, sainte-croix-du-mont, bordeaux-haut-benauge, côtes-de-bordeaux-saint-macaire et sainte-foy-bordeaux
+p756
+aVpetit-chablis
+p757
+aVEmpordà
+p758
+aVhttp://fr.dbpedia.org/resource/Transmontano_(VR)
+p759
+aVlirac
+p760
+aVhttp://fr.dbpedia.org/resource/Portimão_(DOC)
+p761
+aVcôtes-du-forez
+p762
+aVhttp://fr.dbpedia.org/resource/Pays-d'oc_(IGP)
+p763
+aVclairette de Bellegarde
+p764
+aVsantenay
+p765
+aValsace grand cru Hatschbourg
+p766
+aVmuscadet-côtes-de-grandlieu
+p767
+aVIPR
+p768
+aVdézaley
+p769
+aVhttp://fr.dbpedia.org/resource/Varosa_(IPR)
+p770
+aValsace grand cru Rosacker
+p771
+aVtouraine-noble-joué
+p772
+aValsace grand cru Sonnenglanz
+p773
+aVhttp://fr.dbpedia.org/resource/Algarve_(VR)
+p774
+aVcoteaux-de-miramont
+p775
+aVroussette du Bugey
+p776
+aVhttp://fr.dbpedia.org/resource/Lafões_(IPR)
+p777
+aVchâteauneuf-du-pape, condrieu, côte-rôtie, côtes-du-rhône, saint-joseph, crozes-hermitage, gigondas, tavel, etc.
+p778
+aVquincy
+p779
+aVcôtes-de-blaye
+p780
+aVseyssel
+p781
+aValsace grand cru Osterberg
+p782
+aVchambertin-clos-de-bèze
+p783
+aVcôtes-du-condomois
+p784
+aValsace grand cru Steingrubler
+p785
+aVMinho
+p786
+aVbourgogne
+p787
+aVla-tâche
+p788
+aVcoteaux-de-chalosse
+p789
+aVblaye, côtes-de-blaye, blaye-côtes-de-bordeaux et côtes-de-bourg
+p790
+aVcrémant de Loire
+p791
+aVbugey et
+p792
+aVhttp://fr.dbpedia.org/resource/Colares_(DOC)
+p793
+aVhttp://fr.dbpedia.org/resource/Açores_(VR)
+p794
+aVchiroubles
+p795
+aVAszú 3 puttonyos
+p796
+aVhttp://fr.dbpedia.org/resource/Côtes-du-rhône_(AOC)
+p797
+aVchâteaumeillant
+p798
+aVcharmes-chambertin
+p799
+aVhttp://fr.dbpedia.org/resource/Trás-os-Montes_(DOC)
+p800
+aVConca de Barbera
+p801
+aVviré-clessé
+p802
+aVcôte-de-brouilly
+p803
+aVcoteaux-du-lyonnais
+p804
+aVcoteaux-varois-en-provence
+p805
+aVcornas
+p806
+aVhttp://fr.dbpedia.org/resource/Torres_Vedras_(DOC)
+p807
+aVhttp://fr.dbpedia.org/resource/Priorat_(DO)
+p808
+aVgraves-supérieures
+p809
+aVhttp://fr.dbpedia.org/resource/Planalto_Mirandes_(IPR)
+p810
+aVagenais
+p811
+aVbourgueil
+p812
+aVtouraine-amboise
+p813
+aVmuscat de Saint-Jean-de-Minervois
+p814
+aVsaint-romain
+p815
+aVquarts-de-chaume
+p816
+aVvalençay
+p817
+aVchambolle-musigny
+p818
+aValsace grand cru Praelatenberg
+p819
+aVhttp://fr.dbpedia.org/resource/Terra_Alta_(DO)
+p820
+aVchablis grand cru
+p821
+aValsace grand cru Geisberg
+p822
+aVbourgogne-aligoté
+p823
+aVsaint-joseph
+p824
+aValsace grand cru Winzenberg
+p825
+aValsace grand cru Frankstein
+p826
+aVcôtes-du-jura
+p827
+aValsace grand cru Wiebelsberg
+p828
+aVRibera del Duero
+p829
+aVou vin de Frontignan
+p830
+aVhttp://fr.dbpedia.org/resource/Alenquer_(DOC)
+p831
+aVbeaune
+p832
+aVsaint-amour
+p833
+aVlussac-saint-émilion
+p834
+aVcoteaux-de-die
+p835
+aVhttp://fr.dbpedia.org/resource/Languedoc_(AOC)
+p836
+aValsace grand cru Ollwiller
+p837
+aVsaint-péray
+p838
+aVcôte-rôtie
+p839
+aVchâteau-chalon
+p840
+aValsace grand cru Rangen
+p841
+aVsaint-georges-saint-émilion
+p842
+aVmontlouis-sur-loire
+p843
+aVcahors
+p844
+aVcôtes-de-bordeaux
+p845
+aVchâteauneuf-du-pape
+p846
+aVmargaux
+p847
+aVChablais
+p848
+aVCité-de-carcassonne
+p849
+aVTxakoli
+p850
+aVhttp://fr.dbpedia.org/resource/Graves-supérieures_(AOC)
+p851
+aVbeaujolais et beaujolais-villages
+p852
+aVcoteaux-champenois
+p853
+aVfixin
+p854
+aVcoteaux-de-saumur
+p855
+aVhttp://fr.dbpedia.org/resource/Encostas_da_Nave_(IPR)
+p856
+aVcrémant du Jura
+p857
+aVhttp://fr.dbpedia.org/resource/Alsace_(AOC)
+p858
+aVbugey
+p859
+aVTarragona
+p860
+aValsace grand cru Hengst
+p861
+aVhttp://fr.dbpedia.org/resource/Muscat_de_Setúbal_(DOC)
+p862
+aVhttp://fr.dbpedia.org/resource/Saint-chinian_(AOC)
+p863
+aVhttp://fr.dbpedia.org/resource/Arruda_(IPR)
+p864
+aVmaranges
+p865
+aVgaillac-premières-côtes
+p866
+aVbourgogne et 83 autres appellations
+p867
+aVcôtes-de-provence, coteaux-varois-en-provence, coteaux-d\u2019aix-en-provence, coteaux-des-baux-de-provence, pierrevert, bandol, bellet, cassis et palette
+p868
+aVLanguedoc
+p869
+aValsace grand cru Pfingstberg
+p870
+aVfronsac
+p871
+aVCôtes-de-thongue
+p872
+aVmorgon
+p873
+aVhaut-médoc
+p874
+aVTemecula Valley
+p875
+aVcôtes-de-saint-mont
+p876
+aVgrignan-les-adhémar
+p877
+aVchablis
+p878
+aVlistrac-médoc
+p879
+aValsace grand cru Marckrain
+p880
+aVpays-d'oc
+p881
+aVbéarn
+p882
+aVbordeaux
+p883
+aVpierrevert
+p884
+aVbergerac, montravel, monbazillac, buzet, fronton, cahors, gaillac, madiran, pacherenc-du-vic-bilh, côtes-de-gascogne, jurançon, etc.
+p885
+aVhttp://fr.dbpedia.org/resource/Chaves_(IPR)
+p886
+aVminervois
+p887
+aVcheverny
+p888
+aVmenetou-salon
+p889
+aVSzamorodni doux
+p890
+aValsace grand cru Kanzlerberg
+p891
+aVgraves-de-vayres
+p892
+aVchâtillion-en-diois
+p893
+aVhttp://fr.dbpedia.org/resource/Almeirim_(IPR)
+p894
+aVhttp://fr.dbpedia.org/resource/Vinhos_regionais
+p895
+aVhttp://fr.dbpedia.org/resource/Bucelas_(DOC)
+p896
+aVladoix
+p897
+aVhttp://fr.dbpedia.org/resource/Moura_(IPR)
+p898
+aVhttp://fr.dbpedia.org/resource/Catalunya_(DO)
+p899
+aVcôtes-de-meuse
+p900
+aVcôte-de-nuits-villages
+p901
+aVhttp://fr.dbpedia.org/resource/Pauillac_(AOC)
+p902
+aVmoulin-à-vent
+p903
+aVanjou-villages-brissac
+p904
+aVbeaujolais, beaujolais-villages, brouilly, chénas, chiroubles, côte-de-brouilly, fleurie, juliénas, morgon, moulin-à-vent, régnié et saint-amour
+p905
+aVDouro
+p906
+aVclos-des-lambrays
+p907
+aVhttp://fr.dbpedia.org/resource/Arruda_(DOC)
+p908
+aVla-grande-rue
+p909
+aVAOC cabardès
+p910
+aVfleurie
+p911
+aVcôtes-de-duras
+p912
+aVNeszmélyi Chardonnay, Neszmélyi F\u0171szeres Tramini
+p913
+aVanjou-villages
+p914
+aValsace grand cru Saering
+p915
+aVvin de Corse, ou corse
+p916
+aVhttp://fr.dbpedia.org/resource/Alentejano_(VR)
+p917
+aVterroirs-landais
+p918
+aVsainte-croix-du-mont
+p919
+aVanjou, cabernet-d'anjou et rosé-d'anjou
+p920
+aVcévennes
+p921
+aVcoteaux-du-languedoc
+p922
+aVou frontignan
+p923
+aVbourgogne-passe-tout-grains
+p924
+aVpalette
+p925
+aVbordeaux-côtes-de-francs
+p926
+aVsaint-émilion grand cru
+p927
+aVhttp://fr.dbpedia.org/resource/Côtes-de-bordeaux
+p928
+aVmonbazillac
+p929
+aVhttp://fr.dbpedia.org/resource/Carcavelos_(DOC)
+p930
+aVcrémant de Bourgogne
+p931
+aVarmagnac-ténarèze,
+p932
+aVchampagne
+p933
+aValsace grand cru et
+p934
+aVhttp://fr.dbpedia.org/resource/Bordeaux_(AOC)
+p935
+aVhttp://fr.dbpedia.org/resource/Lourinhã_(DOC)
+p936
+aVchapelle-chambertin
+p937
+aVhttp://fr.dbpedia.org/resource/Côtes-du-roussillon
+p938
+aVhttp://fr.dbpedia.org/resource/Seyssel_(AOC)
+p939
+aVvin du Thouarsais
+p940
+aVhttp://fr.dbpedia.org/resource/Saint-julien_(AOC)
+p941
+aVDalsheimer Hubacker Großes Gewächs
+p942
+aVmontagny
+p943
+aVSaumur brut
+p944
+aVvosne-romanée
+p945
+aValsace grand cru Florimont
+p946
+aVcorton-charlemagne
+p947
+aVhttp://fr.dbpedia.org/resource/Pinhel_(IPR)
+p948
+aVhttp://fr.dbpedia.org/resource/Duriense_(VR)
+p949
+aVcôtes-de-gascogne
+p950
+aVbeaujolais-villages
+p951
+aVCognac ; Eau-de-vie des Charentes ; Eau-de-vie de Cognac
+p952
+aVromanée-saint-vivant
+p953
+aVhttp://fr.dbpedia.org/resource/Castelo_Rodrigo_(IPR)
+p954
+aVfloc de Gascogne
+p955
+aVColumbia Gorge
+p956
+aValsace grand cru Schlossberg
+p957
+aVurfé
+p958
+aVclairette du Languedoc
+p959
+aV68
+p960
+aVmédoc
+p961
+aVchâteau-grillet
+p962
+aVmarcillac
+p963
+aValsace grand cru Gloeckelberg
+p964
+aVclos-de-la-roche
+p965
+aVcrozes-ermitage
+p966
+aVlalande-de-pomerol
+p967
+aVhttp://fr.dbpedia.org/resource/Montsant_(DO)
+p968
+aVhttp://fr.dbpedia.org/resource/Madère_(DOC)
+p969
+aVCoteaux-des-baronnies
+p970
+aVhttp://fr.dbpedia.org/resource/Alcobaça_(IPR)
+p971
+aValpes-de-haute-provence
+p972
+aVsaint-chinian
+p973
+aVbâtard-montrachet
+p974
+aVirancy
+p975
+aVpremières-côtes-de-bordeaux
+p976
+aVhttp://fr.dbpedia.org/resource/Margaux_(AOC)
+p977
+aVhttp://fr.dbpedia.org/resource/Alenquer_(IPR)
+p978
+aVbeaujolais
+p979
+aVroussette de Savoie
+p980
+aVsaint-aubin
+p981
+aVhttp://fr.dbpedia.org/resource/Anjou_(AOC)
+p982
+aVcoteaux-de-coiffy
+p983
+aVSable-de-camargue
+p984
+aVbarsac
+p985
+aValsace grand cru Muenchberg
+p986
+aVcollioure
+p987
+aVhttp://fr.dbpedia.org/resource/Alella_(DO)
+p988
+aVhttp://fr.dbpedia.org/resource/Chablis_(AOC)
+p989
+aVcanon-fronsac
+p990
+aVcorton
+p991
+aVpommard
+p992
+aVChinon
+p993
+aVloupiac
+p994
+aVrasteau
+p995
+aVChablis premier cru et
+p996
+aVromanée-conti
+p997
+aVAszú 6 puttonyos
+p998
+aVSaint-sardos
+p999
+aVrivesaltes
+p1000
+aVhttp://fr.dbpedia.org/resource/Santarém_(IPR)
+p1001
+aVpomerol
+p1002
+aVhttp://fr.dbpedia.org/resource/Pla_de_Bages_(DO)
+p1003
+aValsace grand cru Steinert
+p1004
+aVPenedès
+p1005
+aVgriotte-chambertin
+p1006
+aVcôtes-de-bourg
+p1007
+aVbarsac et sauternes
+p1008
+aVrichebourg
+p1009
+aVbourgogne-mousseux
+p1010
+aVsainte-foy-bordeaux
+p1011
+aVruchottes-chambertin
+p1012
+aVbordeaux-supérieur
+p1013
+aVfronsac, canon-fronsac, pomerol, lalande-de-pomerol, néac, saint-émilion, saint-émilion grand cru, montagne-saint-émilion, saint-georges-saint-émilion, lussac-saint-émilion, puisseguin-saint-émilion, francs-côtes-de-bordeaux et castillon-côtes-de-bordeaux
+p1014
+aVgros-plant-du-pays-nantais
+p1015
+aVmuscat de Lunel
+p1016
+aValsace grand cru Furstentum
+p1017
+aVhaut-poitou
+p1018
+aVmercurey
+p1019
+aVarbois
+p1020
+aValsace grand cru Sommerberg
+p1021
+aVcôtes-de-montravel
+p1022
+aVhttp://fr.dbpedia.org/resource/Douro_(DOC)
+p1023
+aVvin de Savoie ou savoie
+p1024
+aVrully
+p1025
+aVorléans-cléry
+p1026
+aVhttp://fr.dbpedia.org/resource/Costers_del_Segre_(DO)
+p1027
+aVFine du Jura
+p1028
+aVHautes-alpes
+p1029
+aVcôte-de-beaune
+p1030
+aVbeaumes-de-venise
+p1031
+aVchambertin
+p1032
+aVsavigny-lès-beaune
+p1033
+aVhttp://fr.dbpedia.org/resource/Chablis_grand_cru
+p1034
+aVSanta Cruz Mountains
+p1035
+aVmusigny
+p1036
+aVsaussignac
+p1037
+aVcrémant d'Alsace
+p1038
+aVfiefs-vendéens
+p1039
+aVhttp://fr.dbpedia.org/resource/Lagos_(DOC)
+p1040
+aVrégnié
+p1041
+aVDOC
+p1042
+aVsaumur-champigny
+p1043
+aVpouilly-vinzelles
+p1044
+aVbergerac et côtes-de-bergerac
+p1045
+aVgevrey-chambertin
+p1046
+aVchénas
+p1047
+aVmeursault
+p1048
+aVcoteaux-du-quercy
+p1049
+aVmarsannay
+p1050
+aValsace grand cru Zinnkoepflé
+p1051
+aVmonthélie
+p1052
+aVmontagne-saint-émilion
+p1053
+aVpessac-léognan
+p1054
+aVhttp://fr.dbpedia.org/resource/Penedès_(DO)
+p1055
+aVmâcon\u000a\u000amâcon + nom de la commune
+p1056
+aVhermitage, ermitage ou
+p1057
+aVRed Hills Lake County
+p1058
+aVhttp://fr.dbpedia.org/resource/Alentejo_(DOC)
+p1059
+aVcondrieu
+p1060
+aV51
+p1061
+aValsace grand cru Kirchberg de Ribeauvillé
+p1062
+aVmuscadet
+p1063
+aVgraves et
+p1064
+aValsace grand cru Pfersigberg
+p1065
+aVbandol
+p1066
+aVpouilly-fuissé
+p1067
+aVhttp://fr.dbpedia.org/resource/Óbidos_(DOC)
+p1068
+aValsace grand cru Wineck-Schlossberg
+p1069
+aVNapa Valley
+p1070
+aVcomté-tolosan
+p1071
+aVbonnezeaux
+p1072
+aVhttp://fr.dbpedia.org/resource/Tarragona_(DO)
+p1073
+aVbergerac, côtes-de-bergerac, montravel, haut-montravel, côtes-de-montravel, monbazillac, pécharmant, rosette, saussignac et VDP du Périgord
+p1074
+aVhttp://fr.dbpedia.org/resource/Tomar_(IPR)
+p1075
+aVmalepère
+p1076
+aVmuscadet-sèvre-et-maine
+p1077
+aVchorey-lès-beaune
+p1078
+aValsace grand cru Froehn
+p1079
+aVfronton
+p1080
+aVsaint-nicolas-de-bourgueil
+p1081
+aVcôtes-de-bordeaux-saint-macaire
+p1082
+aVmuscadet-coteaux-de-la-loire
+p1083
+aVVin de liqueur
+p1084
+aVmontravel
+p1085
+aVpyrénées-orientales
+p1086
+aVbouzeron
+p1087
+aValpes-maritimes
+p1088
+aVhttp://fr.dbpedia.org/resource/Cartaxo_(IPR)
+p1089
+aVLa Côte
+p1090
+aVhttp://fr.dbpedia.org/resource/Terras_Madeirenses_(VR)
+p1091
+aVhttp://fr.dbpedia.org/resource/Conca_de_Barberà_(DO)
+p1092
+aValsace grand cru Bruderthal
+p1093
+aVhttp://fr.dbpedia.org/resource/Encostas_de_Aire_(DOC)
+p1094
+aVhttp://fr.dbpedia.org/resource/Lagoa_(DOC)
+p1095
+aValsace grand cru Eichberg
+p1096
+aVrosé des Riceys
+p1097
+aVarmagnac,
+p1098
+aVhttp://fr.dbpedia.org/resource/Távora-Varosa_(DOC)
+p1099
+aVhttp://fr.dbpedia.org/resource/Roussette_de_Savoie_(AOC)
+p1100
+aVgard
+p1101
+aVAszú eszencia
+p1102
+aVrosé de Loire
+p1103
+aVhttp://fr.dbpedia.org/resource/Muscat_de_Rivesaltes
+p1104
+aVmazoyères-chambertin
+p1105
+aVfitou
+p1106
+aVhttp://fr.dbpedia.org/resource/Arrábida_(IPR)
+p1107
+aVvar
+p1108
+aValsace grand cru Sporen
+p1109
+aVcoteaux-d'ancenis
+p1110
+aVmoselle
+p1111
+aVmorey-saint-denis
+p1112
+aVmâcon
+p1113
+aValsace
+p1114
+aVbrouilly
+p1115
+aValsace grand cru Mambourg
+p1116
+aVchampagne, coteaux-champenois, rosé des Riceys, haute-marne et coteaux-de-coiffy
+p1117
+aVmacvin du Jura
+p1118
+aVcrozes-hermitage ou
+p1119
+aVvaucluse
+p1120
+aVXérès
+p1121
+aVjasnières
+p1122
+aVvacqueyras
+p1123
+aValsace grand cru altenberg de Bergbieten
+p1124
+aVmuscat de Beaumes-de-Venise
+p1125
+aVcôtes-de-montestruc
+p1126
+aVpacherenc-du-vic-bilh
+p1127
+aVmédoc, haut-médoc, saint-estèphe, pauillac, saint-julien, listrac-médoc, moulis-en-médoc et margaux
+p1128
+aVsaint-émilion
+p1129
+aVvistrenque
+p1130
+aVvin de Savoie, abymes, apremont, roussette de Savoie, crépy, seyssel, etc.
+p1131
+aVcassis
+p1132
+aVhttp://fr.dbpedia.org/resource/Minho_(VR)
+p1133
+aVcôtes-de-provence
+p1134
+aVclos-de-tart
+p1135
+aVcôtes-du-jura, arbois, l'étoile et château-chalon
+p1136
+aValsace grand cru Engelberg
+p1137
+aVsaint-julien
+p1138
+aVcôtes-du-rhône
+p1139
+aVhttp://fr.dbpedia.org/resource/Périgord_(VDP)
+p1140
+aVcôtes-du-marmandais
+p1141
+aVet blanche-armagnac
+p1142
+aVsaint-pourçain
+p1143
+aVcôte-de-beaune-villages
+p1144
+aVhttp://fr.dbpedia.org/resource/Coruche_(IPR)
+p1145
+aVhaut-armagnac
+p1146
+aVhttp://fr.dbpedia.org/resource/Terras_do_Sado_(VR)
+p1147
+aVcérons
+p1148
+aVgrands-échezeaux
+p1149
+aVvinho verde et vinho verde avec nom de sous-région
+p1150
+aVpuligny-montrachet
+p1151
+aVhttp://fr.dbpedia.org/resource/Roussette_du_Bugey
+p1152
+aVl'hermitage
+p1153
+aVcôtes-de-toul
+p1154
+aValsace grand cru Kessler
+p1155
+aVmuscat de frontignan
+p1156
+aVvouvray
+p1157
+aValsace grand cru Kirchberg de Barr
+p1158
+aVmuscat du Cap-Corse
+p1159
+aVcoteaux-de-la-cabrerisse
+p1160
+aVcorbières
+p1161
+aVcôtes-de-millau
+p1162
+aVpatrimonio
+p1163
+aVhttp://fr.dbpedia.org/resource/Sauternes_(AOC)
+p1164
+aVhttp://fr.dbpedia.org/resource/Pico_(IPR)
+p1165
+aVhttp://fr.dbpedia.org/resource/Cérons_(AOC)
+p1166
+aVmoulis ou moulis-en-médoc
+p1167
+aVhttp://fr.dbpedia.org/resource/Palmela_(DOC)
+p1168
+aVSzamorodni
+p1169
+aVain, allobrogie et
+p1170
+atRp1171
+sS'climat'
+p1172
+g3
+((lp1173
+VOcéanique
+p1174
+aVtempéré océanique dégradé avec influences montagnarde et méditerranéenne
+p1175
+aVtempéré méditerranéen sous influence de la tramontane
+p1176
+aVtempéré méditerranéen avec influence du mistral
+p1177
+aVméditerranéen
+p1178
+aVtempéré continental avec influence montagnarde
+p1179
+aVméditerranéen à tendance océanique
+p1180
+aVtempéré océanique à légère tendance continentale
+p1181
+aVContinental
+p1182
+aVméditerranéen à tendance continentale
+p1183
+aVtropical humide sous influence montagnarde
+p1184
+aVocéanique vrai à océanique dégradé par les influences montagnarde et méditerranéenne
+p1185
+aVtempéré méditerranéen sous influence alpine
+p1186
+aVtempéré océanique à tendance continentale
+p1187
+aVtempéré océanique dégradé avec influence montagnarde
+p1188
+aVtempéré continental à influence montagnarde
+p1189
+aVméditerranéen sous influence maritime
+p1190
+aVcontinental
+p1191
+aVtempéré océanique dégradé avec influence montagnarde et méditerranéenne
+p1192
+aVocéanique
+p1193
+aVocéanique à influence continentale
+p1194
+aVtempéré océanique à tendance montagnarde
+p1195
+aVméditerranéen sous influence du mistral
+p1196
+aVtempéré méditerranéen sous influence océanique
+p1197
+aVtempéré méditerranéen avec légère influence montagnarde
+p1198
+aVContinental à influence montagnarde
+p1199
+aVconfluence des tempéré, océanique et montagnarde
+p1200
+aVtempéré méditerranéen sous influence du mistral et de la tramontane
+p1201
+aVtempéré méditerranéen sous influence du mistral
+p1202
+aVtempéré océanique dégradé sous influence continentale
+p1203
+aVtempéré essentiellement océanique
+p1204
+aValpin  avec influence méditerranéenne
+p1205
+aVtempéré océanique sous influence continentale
+p1206
+aVhttp://fr.dbpedia.org/resource/Climat_océanique
+p1207
+aVTempéré à légère tendance continentale
+p1208
+aVtempéré méditerranéen sous influence montagnarde
+p1209
+aVtempéré méditerranéen avec légères influences du mistral et de la montagne
+p1210
+aVtempéré océanique dégradé sous influence montagnarde
+p1211
+aVtempéré océanique dégradé à tendance méditerranéenne
+p1212
+aVtempéré méditerranéen avec influence du marin et du cers
+p1213
+aVclimat océanique dégradé par des influences continentale et montagnarde
+p1214
+aVtempéré océanique dégradé par des influences continentale et montagnarde
+p1215
+aVtempéré méditerranéen à influence continentale
+p1216
+aVtempéré méditerranéen dégradé avec influence continentale
+p1217
+aVtempéré méditerranéen avec influences montagnarde ou continentale
+p1218
+aVtempéré océanique dégradé
+p1219
+aVtempéré méditerranéen, relativement abrité du mistral par le massif des dentelles de Montmirail
+p1220
+aVocéanique à tendance continentale
+p1221
+aVhttp://fr.dbpedia.org/resource/Climat_de_la_Haute-Marne
+p1222
+aVtempéré méditerranéen avec influence montagnarde
+p1223
+aVtempéré méditerranéen avec influence des Alpes
+p1224
+aVhttp://fr.dbpedia.org/resource/Climat_tempéré
+p1225
+aVhttp://fr.dbpedia.org/resource/Climat_méditerranéen
+p1226
+aVtempéré océanique à tendances méditerranéenne et montagnarde
+p1227
+aVtempéré océanique dégradé avec influence méditerranéenne
+p1228
+aVhttp://fr.dbpedia.org/resource/Climat_montagnard
+p1229
+aVtempéré méditerranéen, protégé du mistral par le relief
+p1230
+aVtempéré océanique dégradé à tendance continentale
+p1231
+aVhttp://fr.dbpedia.org/resource/Climat_continental
+p1232
+atRp1233
+sS'c\xc3\xa9pages'
+p1234
+g3
+((lp1235
+Vhttp://fr.dbpedia.org/resource/Cserszegi_f\u0171szeres
+p1236
+aVmauzac B, chenin B, gamay N, pinot noir N, cabernet franc N, cabernet sauvignon N, fer servadou N , négret de Banhars N, merlot N, jurançon noir N et abouriou N
+p1237
+aVhttp://fr.dbpedia.org/resource/Leányka
+p1238
+aVhttp://fr.dbpedia.org/resource/Zefír
+p1239
+aVhttp://fr.dbpedia.org/resource/Savatiano
+p1240
+aVhttp://fr.dbpedia.org/resource/Moscatel
+p1241
+aVhttp://fr.dbpedia.org/resource/Roditis
+p1242
+aVfer servadou  N
+p1243
+aVhttp://fr.dbpedia.org/resource/Tinta_cão
+p1244
+aVmondeuse N, altesse B et chardonnay B
+p1245
+aVhttp://fr.dbpedia.org/resource/Garanoir
+p1246
+aVsyrah N, grenache N,  et mourvèdre N
+p1247
+aVsauvignon et sauvignon gris
+p1248
+aVgrenache N, mourvèdre N, syrah N et carignan N
+p1249
+aVcolombard B et ugni blanc B
+p1250
+aVpinot gris G
+p1251
+aVcépages blancs
+p1252
+aVhttp://fr.dbpedia.org/resource/Furmint
+p1253
+aVmerlot N
+p1254
+aVhttp://fr.dbpedia.org/resource/Zweigelt
+p1255
+aVpiquepoul blanc B
+p1256
+aVhttp://fr.dbpedia.org/resource/Viognier
+p1257
+aVhttp://fr.dbpedia.org/resource/Verdelho_rouge
+p1258
+aVchasselas
+p1259
+aVcabernet franc N, cabernet sauvignon N et chenin blanc B
+p1260
+aVsyrah N
+p1261
+aVgamay noir à jus blanc N, pinot noir N, meunier N, chardonnay B, gamaret N, pinot gris G, auxerrois B, pinot blanc B, aligoté B, arbane B et petit meslier B
+p1262
+aVhttp://fr.dbpedia.org/resource/Tempranillo
+p1263
+aVhttp://fr.dbpedia.org/resource/Malvoisie_(cépage)
+p1264
+aVpinot poir N, pinot meunier N et chardonnay B
+p1265
+aVmuscat blanc à petits grains B et Muscat rouge à petits grains N
+p1266
+aVgrenache, cinsault, syrah, cabernet sauvignon et carignan
+p1267
+aVsauvignon B
+p1268
+aVgamay, pinot noir, négrette et chenin blanc
+p1269
+aVPetit verdot N , Cabernet franc N, Cabernet Sauvignon N, Grenache noir N, Merlot N, Marselan N, Syrah N
+p1270
+aVugni blanc B, clairette B, rolle B, bourboulenc B, chasan B et chardonnay B, grenache N, cinsault N, syrah N, carignan N, merlot N, cabernet sauvignon et caladoc N
+p1271
+aVGrenache, ull de llebre, cabernet, monastrell, trepat, samsô, pinot noir et syrah pour les vins rouges
+p1272
+aVchardonnay B, sauvignon blanc B, marsanne B et roussanne B
+p1273
+aVhttp://fr.dbpedia.org/resource/Pinot_noir_(cépage)
+p1274
+aVhttp://fr.dbpedia.org/resource/Terrantez
+p1275
+aVmerlot N, cabernet sauvignon N, cabernet franc N et malbec N
+p1276
+aVpinot noir , chardonnay et pinot blanc
+p1277
+aVcabernet franc, cabernet sauvignon, grolleau, pineau d'Aunis, gamay et côt
+p1278
+aVcabernet franc N, cabernet sauvignon N, gamay N, grolleau B, chenin B ou junot de Loire, chardonnay B et sauvignon B
+p1279
+aVhttp://fr.dbpedia.org/resource/Zala_gyöngye
+p1280
+aVhttp://fr.dbpedia.org/resource/Touriga_nacional
+p1281
+aVhttp://fr.dbpedia.org/resource/Agiorgitiko
+p1282
+aV32
+p1283
+aVriesling B, sylvaner B, pinot noir N, gewurztraminer Rs, pinot blanc B, muscat blanc à petits grains B, pinot gris G et klevener de Heiligenstein Rs
+p1284
+aV34
+p1285
+aVblancs :
+p1286
+aVhttp://fr.dbpedia.org/resource/Falanghina
+p1287
+aVcabernet franc N, cabernet sauvignon N et tannat N, raffiat de Moncade B, petit manseng B et gros manseng B
+p1288
+aVnégrette N, cabernet franc N, syrah N et tannat N
+p1289
+aVcabernet sauvignon N
+p1290
+aVhttp://fr.dbpedia.org/resource/Petit_verdot
+p1291
+aVhttp://fr.dbpedia.org/resource/Esganoso_de_Castelo_de_Paiva
+p1292
+aVcabernet-sauvignon, syrah, barbera, malbec, zinfandel, petit verdot, sauvignon blanc, grenache et d'autres.
+p1293
+aVcabernet-franc, pinot poir, gamay, pineau d'Aunis, chenin blanc et chardonnay
+p1294
+aVhttp://fr.dbpedia.org/resource/Rabo_de_Ovelha
+p1295
+aVgrenache N, cinsault N, carignan N, syrah N, cabernet-sauvignon N, cabernet-franc N et merlot N
+p1296
+aVpinot noir N, gamay N et sauvignon B
+p1297
+aVmauzac B
+p1298
+aVpinot noir et pinot gris  et chardonnay
+p1299
+aVriesling B, pinot gris G et gewurztraminer Rs
+p1300
+aVrouges et rosés :
+p1301
+aVVins blancs : arrufiac, Camaralet de Lasseube, chardonnay, chenin, courbu, gros manseng, mauzac, ondenc, petit Courbu, petit manseng, pinot gris, sauvignon , sémillon, et viognier.\u000aVins rouges et rosés : cabernet franc, cabernet sauvignon, cot, fer, gamay, merlot, petit verdot, pinot noir, syrah, tannat, tempranillo.
+p1302
+aVhttp://fr.dbpedia.org/resource/Chasselas_(cépage)
+p1303
+aVgrenache N, syrah N, mourvèdre N, cinsault N et carignan N
+p1304
+aVmerlot N, tannat N, cabernet franc N, cabernet sauvignon N, malbec N et fer servadou N
+p1305
+aVhttp://fr.dbpedia.org/resource/Chardonnay_(cépage)
+p1306
+aVmerlot N et cabernet franc N
+p1307
+aVcabernet franc R, cabernet sauvignon R, merlot R, cinsault R, grenache R, pinot noir R et gamay R
+p1308
+aVhttp://fr.dbpedia.org/resource/Dinka
+p1309
+aVgrenache N, clairette B, syrah N, mourvèdre N, cinsault N, picpoul N, terret noir, muscardin N, counoise N, roussanne B, picardan B, vaccarèse N, bourboulenc B
+p1310
+aVhttp://fr.dbpedia.org/resource/Branco-Escola
+p1311
+aVsémillon, sauvignon et muscadelle
+p1312
+aVhttp://fr.dbpedia.org/resource/Fernão_Pires
+p1313
+aVgamay N, auxerrois B et pinot noir N
+p1314
+aVhttp://fr.dbpedia.org/resource/Tinta_negra_mole
+p1315
+aVchardonnay B, aligoté B, clairette B, grenache blanc B, grenache gris G, roussanne B, pinot gris G, ugni blanc B
+p1316
+aVnégrette N
+p1317
+aVcabernet franc N, cabernet sauvignon N, côt N et merlot N
+p1318
+aVromorantin B
+p1319
+aVhttp://fr.dbpedia.org/resource/Chardonnay
+p1320
+aVhttp://fr.dbpedia.org/resource/Assyrtiko
+p1321
+aVAlvarinho, Arinto, Avesso, Azal blanc, Batoca, Loureiro et Trajadura
+p1322
+aVViognier B , Chardonnay B, Chenin B, Clairette B, Grenache blanc B, Marsanne B, Muscat à petits grains B, Muscat d\u2019Alexandrie B, Roussanne B, Sauvignon B, Ugni blanc B
+p1323
+aVsyrah N, grenache N, mourvèdre N, grenache blanc B, , vermentino B, clairette B, marsanne B, roussanne B et bourboulenc B, ugni blanc B, viognier
+p1324
+aVpinot noir  et chardonnay
+p1325
+aVcabernet franc N, cabernet sauvignon N, grenache N, merlot N et syrah N
+p1326
+aVhttp://fr.dbpedia.org/resource/Welschriesling
+p1327
+aVmerlot N, sauvignon B et sémillon B
+p1328
+aVmarsanne B et roussanne B
+p1329
+aVcabernet sauvignon N, cabernet franc N, côt N, fer servadou N, mérille N et merlot N, chenin B, ondenc B, muscadelle B, sauvignon B, sémillon B et ugni blanc B
+p1330
+aVgamay N, pinot noir N et chardonnay B
+p1331
+aVriesling B
+p1332
+aVhttp://fr.dbpedia.org/resource/Arany_sárfehér
+p1333
+aVcabernet franc N, merlot N, côt N, tannat N et gamay N
+p1334
+aVhttp://fr.dbpedia.org/resource/Nebbiolo
+p1335
+aVhttp://fr.dbpedia.org/resource/Touriga_francesa
+p1336
+aVhttp://fr.dbpedia.org/resource/Pedro_Ximénez
+p1337
+aVsyrah N, fer servadou N, gamay N, cabernet sauvignon N, mauzac B et chenin B
+p1338
+aVhttp://fr.dbpedia.org/resource/Brancelho
+p1339
+aVgrenache N, mourvèdre N, syrah N, carignan N et grenache blanc B
+p1340
+aVzalema, palomino, Garrido Fino, Muscat d'Alexandrie et Pedro ximénez
+p1341
+aVgrenache N, mourvèdre N, cinsault N, tibouren N, syrah N, clairette B, vermentino  B et ugni blanc B
+p1342
+aVhttp://fr.dbpedia.org/resource/Portugais_bleu
+p1343
+aVbraquet N, fuella nera N, grassen N, mourvaison N, mourvèdre N, grenache N, carignan N, cinsault N, carignan N, alicante N, vermentino B, roussanne B, clairette B, bourboulenc B, chardonnay B
+p1344
+aVgamay, cabernet franc, cabernet sauvignon et chenin blanc
+p1345
+aVhttp://fr.dbpedia.org/resource/Cabernet_Sauvignon
+p1346
+aVhttp://fr.dbpedia.org/resource/Tinta_cao
+p1347
+aVcabernet sauvignon N, merlot N, cabernet franc N, carménère N, côt N et petit verdot N
+p1348
+aVRouges : Pinot Noir, Gamay, Merlot, Garamet, Garanoir, Syrah, Humagne Rouge et Cornalin.
+p1349
+aVCépages pour les vins blancs
+p1350
+aVhttp://fr.dbpedia.org/resource/Blaufränkisch
+p1351
+aVugni blanc B, colombard B et folle blanche B
+p1352
+aVhttp://fr.dbpedia.org/resource/Pinot_meunier
+p1353
+aVRouges: Cabernet Sauvignon, Merlot, Syrah, Tempranillo, Grenache et Mazuela .\u000aBlancs: Macabeu, Chardonnay, Muscat d'Alexandrie.
+p1354
+aVsyrah N, roussanne B, marsanne B et viognier B
+p1355
+aVcabernet franc N
+p1356
+aVhttp://fr.dbpedia.org/resource/Grenache
+p1357
+aVhttp://fr.dbpedia.org/resource/Syrah
+p1358
+aVhttp://fr.dbpedia.org/resource/Espadeiro
+p1359
+aVsauvignon B, pinot noir N et pinot gris G
+p1360
+aVgrenache N, syrah N, mourvèdre N et carignan N
+p1361
+aVchardonnay B et pinot noir N
+p1362
+aVhttp://fr.dbpedia.org/resource/Cortese
+p1363
+aVgrenache blanc, bourboulenc et rolle , ugni blanc, chardonnay
+p1364
+aVmarsanne, roussanne, bourboulenc, clairette, grenache blanc et viognier.
+p1365
+aVCépages pour les vins gris et rosés
+p1366
+aVmuscadelle B, sauvignon B, sémillon B, cabernet franc N, cabernet sauvignon N, côt N et merlot N
+p1367
+aVTxakoli de Getaria : Hondarribi zuri , Hondarribi Zuri Zerratia , Izkiriota , Riesling et Chardonnay  ; pour le rosé et le rouge, le Hondarribi beltza
+p1368
+aVgrenache N, mourvèdre N et carignan N
+p1369
+aVfolle noire N, braquet N et rolle  B
+p1370
+aVAlvarinho, Arinto, Avesso, Azal blanc, Azal rouge, Batoca, Borracal, Brancelho, Cabernet Sauvignon, Chardonnay, Espadeiro, Loureiro, Merlot, Padreiro de Basto, Pedral, Rabo de Ovelha, Riesling, Trajadura et Vinhão
+p1371
+aVhttp://fr.dbpedia.org/resource/Vinhão
+p1372
+aVjacquère B
+p1373
+aVTxakoli de Biscaye : Hondarribi Beltza, Ondarrabi Zuri Zerratia , Mune Mahatsa , Izkiriota , Izkiriota Ttippia , Sauvignon blanc, Riesling, Chardonnay et Hondarribi Zuri
+p1374
+aVmarsanne B, clairette B, grenache N, mourvèdre N et cinsault N
+p1375
+aVgewurztraminer Rs, pinot gris G et riesling B
+p1376
+aVclairette B et aligoté B
+p1377
+aVcépages rouges
+p1378
+aVgringet B
+p1379
+aVhttp://fr.dbpedia.org/resource/Aglianico
+p1380
+aVcinsault N, carignan N, grenache N, syrah N et merlot N
+p1381
+aVpinot noir pour les rouges
+p1382
+aVhttp://fr.dbpedia.org/resource/Cainho_de_Moreira
+p1383
+aVhttp://fr.dbpedia.org/resource/Sercial
+p1384
+aVhttp://fr.dbpedia.org/resource/Trousseau
+p1385
+aVhttp://fr.dbpedia.org/resource/Tinta_amarela
+p1386
+aVhttp://fr.dbpedia.org/resource/Borraçal
+p1387
+aVhttp://fr.dbpedia.org/resource/Sousão
+p1388
+aVgamay N et poulsard N
+p1389
+aVcabernet franc N, cabernet sauvignon N, merlot N, sauvignon B et G
+p1390
+aVhttp://fr.dbpedia.org/resource/Roussanne
+p1391
+aVhttp://fr.dbpedia.org/resource/Melon_(cépage)
+p1392
+aVgamay N, pinot noir N, syrah N et chardonnay B
+p1393
+aVcabernet franc N, cabernet sauvignon N, gamay N, pinot noir N, chenin blanc B, sauvignon B, melon B, chardonnay B et folle blanche B
+p1394
+aVhttp://fr.dbpedia.org/resource/Sauvignon_blanc
+p1395
+aVmerlot N, cabernet franc N, cabernet sauvignon N
+p1396
+aVcabernet N, syrah N et grenache N
+p1397
+aVsyrah , tannat , cabernet franc et merlot .
+p1398
+aVcabernet franc N, cabernet sauvignon N, merlot N
+p1399
+aVgrenache N, mourvèdre N, syrah N, carignan N, cinsault N, bourboulenc B, clairette B, grenache blanc B, marsanne B, piquepoul blanc B, roussanne B
+p1400
+aVcabernet franc N, cabernet sauvignon N et chenin B
+p1401
+aVpetit manseng B et gros manseng B
+p1402
+aVhttp://fr.dbpedia.org/resource/Kunleány
+p1403
+aVhttp://fr.dbpedia.org/resource/Touriga_franca
+p1404
+aVhttp://fr.dbpedia.org/resource/Mourisca_tinto
+p1405
+aVgrenache N, mourvèdre N, syrah N, grenache blanc B, marsanne B et roussanne B
+p1406
+aVcolombard B, ugni blanc B, gros manseng B, cabernet franc N, cabernet sauvignon N et merlot N
+p1407
+aVjacquère B, gamay N, mondeuse N et pinot noir N
+p1408
+aVhttp://fr.dbpedia.org/resource/São_Mamede_(cépage)
+p1409
+aVBourboulenc, Clairette, Grenache blanc, Marsanne, Picpoul, Vermentino, Roussanne
+p1410
+aVhttp://fr.dbpedia.org/resource/Merlot
+p1411
+aVhttp://fr.dbpedia.org/resource/Azal_rouge
+p1412
+aVgrenache N, nielluccio N, sciaccarello N et vermentino  B
+p1413
+aVhttp://fr.dbpedia.org/resource/Altesse_(cépage)
+p1414
+aVAmaral, Azal rouge, Borraçal, Brancelho, Espadeiro, Padeiro, Pedral, Rabo de Ovelha et Vinhão
+p1415
+aVChardonnay B, Sauvignon B, Viognier B
+p1416
+aVhttp://fr.dbpedia.org/resource/Athiri
+p1417
+aVcabernet franc N et cabernet sauvignon N
+p1418
+aVhttp://fr.dbpedia.org/resource/Gewurztraminer_(cépage)
+p1419
+aVhttp://fr.dbpedia.org/resource/Loureiro_(cépage)
+p1420
+aVhttp://fr.dbpedia.org/resource/Petite_syrah
+p1421
+aVchardonnay, ezerjó, riesling, traminer, riesling italien, riesling d'Alsace, grüner Veltliner, cserszegi f\u0171szeres et királyleányka ; plus rarement Blaufränkisch, cabernet sauvignon, pinot noir et merlot
+p1422
+aVMuscat blanc à petits grains B et clairette B
+p1423
+aVriesling B, pinot blanc B, gewurztraminer Rs, pinot gris G, pinot noir N et sylvaner B
+p1424
+aVsciacarello N, carignan N et vermentino B
+p1425
+aVtannat N, fer servadou N, cabernet franc N, cabernet sauvignon N, arrufiac B, petit courbu B, petit manseng B et gros manseng B
+p1426
+aVcabernet franc, cabernet sauvignon, gamay et chenin blanc
+p1427
+aVcarignan N, cinsault N, mourvèdre N, grenache N, syrah N, bourboulenc B, clairette B, grenache blanc B, grenache gris G, maccabeu B, malvoisie B, roussanne B, marsanne B, muscat blanc à petits grains B
+p1428
+aVhttp://fr.dbpedia.org/resource/Castelão
+p1429
+aVgrenache N, lledoner pelut N, mourvèdre N et syrah N
+p1430
+aVsavagnin B, chardonnay B et pinot noir N
+p1431
+aVchardonnay B, aligoté B...
+p1432
+aVchardonnay B, sauvignon blanc B, vermentino B et muscat B
+p1433
+aVabouriou N, merlot N, cabernet sauvignon N, cabernet franc N, duras N, fer servadou N, négrette N, portugais bleu N, malbec N, tannat, colombard B, jurançon blanc B, len de l'El B, sauvignon B, sémillon B, muscadelle B et gros manseng B
+p1434
+aVgrenache N, mourvèdre N, syrah N et cinsault N
+p1435
+aVtannat N, cabernet franc N, courbu blanc B, de petit manseng B et gros manseng B
+p1436
+aVgrenache noir N, syrah N, grenache blanc B et clairette B
+p1437
+aVhttp://fr.dbpedia.org/resource/Sémillon
+p1438
+aVmerlot, cabernet franc et cabernet sauvignon
+p1439
+aVsauvignon B et G, sémillon B et muscadelle B
+p1440
+aVsavagnin B, chardonnay B, trousseau N, poulsard N, pinot noir N et pinot gris G
+p1441
+aVGrenache, Syrah et Cabernet
+p1442
+aVhttp://fr.dbpedia.org/resource/Lameiro
+p1443
+aVugni blanc B, clairette B, chardonnay B, muscat blanc à petits grains B, grenache N, cinsault N, syrah N, carignan N, merlot N et cabernet sauvignon N
+p1444
+aVclairette B, bourboulenc B, roussanne B, grenache blanc B, grenache N, carignan N, cinsault N, camarèse N, syrah N et mourvèdre N
+p1445
+aVgrenache noir N, syrah N, carignan N, cabernet sauvignon N, cabernet franc N, merlot N, ugni blanc B, grenache blanc B, clairette B, viognier B, chardonnay B, chasan B et sauvignon B
+p1446
+aVcolombard B, ugni blanc B, petit manseng B, sauvignon B, chardonnay B et gros manseng,merlot N, cabernet sauvignon N, cabernet franc N, tannat N,
+p1447
+aVgewurztraminer Rs, pinot gris G, riesling B et muscat blanc à petits grains B
+p1448
+aVmerlot N, cabernet sauvignon N, cabernet franc N, sauvignon B, sémillon B et muscadelle B
+p1449
+aVclairette B
+p1450
+aVchenin blanc B
+p1451
+aVpinot noir N, pinot meunier N et chardonnay B
+p1452
+aVhttp://fr.dbpedia.org/resource/Pinot_gris_(cépage)
+p1453
+aVhttp://fr.dbpedia.org/resource/Gamza
+p1454
+aVhttp://fr.dbpedia.org/resource/Viosinho
+p1455
+aVhttp://fr.dbpedia.org/resource/Cascal
+p1456
+aVgrenache N, syrah N, grenache blanc B, vermentino B, clairette B et ugni blanc B
+p1457
+aVcabernet sauvignon, merlot, cabernet franc, côt, petit verdot et carménère
+p1458
+aVsavagnin B
+p1459
+aVsylvaner B
+p1460
+aVhttp://fr.dbpedia.org/resource/Trajadura
+p1461
+aVgros manseng B, petit manseng B, courbu B et petit courbu B
+p1462
+aVRiesling
+p1463
+aVhttp://fr.dbpedia.org/resource/Chenin_blanc
+p1464
+aVhttp://fr.dbpedia.org/resource/Xinomavro
+p1465
+aVcabernet sauvignon N, merlot N et cabernet franc N
+p1466
+aVgrenache N, cinsault N, syrah N, clairette B et clairette rose Rs, piquepoul blanc B, calitor N, bourboulenc B, mourvèdre et carignan N
+p1467
+aVhttp://fr.dbpedia.org/resource/Aligoté
+p1468
+aVGrenache N, Cinsault N, Aramon N, Carignan N, Alicante Bouschet N, Grec rose Rs, Muscat B, Clairette B, Mollard N, Chardonnay B et Chasan B
+p1469
+aVhttp://fr.dbpedia.org/resource/Bual
+p1470
+aVgamay, pinot noir, cabernet franc, côt, pineau d'Aunis, sauvignon, chardonnay et chenin blanc
+p1471
+aVsauvignon B, merlot N et cabernet sauvignon N
+p1472
+aVmerlot N , cabernet franc N, cabernet sauvignon N
+p1473
+aVhttp://fr.dbpedia.org/resource/Labrusco
+p1474
+aVhttp://fr.dbpedia.org/resource/Batoca
+p1475
+aVhttp://fr.dbpedia.org/resource/Azal_blanc
+p1476
+aVhttp://fr.dbpedia.org/resource/Ezerjó
+p1477
+aVgamay N, aligoté B et chardonnay B
+p1478
+aVgrenache, cinsault, mourvèdre, syrah, cabernet sauvignon et carignan
+p1479
+aVhttp://fr.dbpedia.org/resource/Vital_(cépage)
+p1480
+aVhttp://fr.dbpedia.org/resource/Donzelinho_branco
+p1481
+aVRouges:Cabernet Sauvignon, Merlot, Syrah, Chardonnay, Tempranillo et Grenache.\u000aBlancs: Macabeu, Malvasía, Grenache blanc, Chardonnay et Moscatel.
+p1482
+aVsyrah N, roussanne B et marsanne B
+p1483
+aVhttp://fr.dbpedia.org/resource/Gouveia
+p1484
+aVpineau d'Aunis N et chenin B en principaux cépages
+p1485
+aVRouges: Tempranillo, Cabernet Sauvignon, Merlot, Moristel, Grenache, Parraleta , Pinot poir et Syrah.\u000aBlancs: Macabeu ou Alcañón, Grenache  blanc, Chardonnay et Gewurztraminer.
+p1486
+aVhttp://fr.dbpedia.org/resource/Malvasia_fina
+p1487
+aVAreni noir
+p1488
+aVgamay N et chardonnay B
+p1489
+aVhttp://fr.dbpedia.org/resource/Pical_Pôlho
+p1490
+aVgrenache N, mourvèdre N et syrah N
+p1491
+aVTchilar, voskehat
+p1492
+aVroussanne B
+p1493
+aVgrenache blanc, roussanne, bourboulenc et rolle , ugni blanc, chardonnay
+p1494
+aVCépage blanc
+p1495
+aVTxakoli d'Alava : Hondarribi Zuria  mais d'autres raisins sont également autorisés : Bordeleza Zuria , Izkiriota Ttipia , Izkiriota  et du Courbu
+p1496
+aVcôt N, merlot N, tannat N, gamay N, cabernet franc N et cabernet sauvignon N
+p1497
+aVXarel-lo, Chardonnay pour les vins blancs\u000a\u000aPranillo, cabernet et merlot pour les vins rouges
+p1498
+aVcabernet sauvignon N, cabernet franc N, côt N, merlot N, muscadelle B, sauvignon B et sémillon B
+p1499
+aVchardonnay B, pinot noir N et pinot meunier N
+p1500
+aVugni blanc B, clairette B, grenache N, cinsault N, syrah N et carignan N
+p1501
+aVchenin B, mauzac B, fer servadou N, cabernet franc N et cabernet sauvignon N
+p1502
+aVgrenache N, syrah N, mourvèdre N, cinsault N, clairette B, grenache blanc B, bourboulenc B, marsanne B, roussanne B et viognier B
+p1503
+aVhttp://fr.dbpedia.org/resource/Malagousia
+p1504
+aVcabernet sauvignon, merlot, cabernet franc, pinot noir, zinfandel, chardonnay, sauvignon blanc et d'autres.
+p1505
+aVCépages noirs
+p1506
+aVchardonnay B
+p1507
+aVmerlot N, cabernet franc N et cabernet sauvignon N
+p1508
+aVcarignan N, grenache noir N, mourvèdre Nmacabeu B, parellada B, xarel-lo B
+p1509
+aVUgni-blanc ; Folle-blanche ; Colombard
+p1510
+aVcabernet franc, gamay et chenin blanc
+p1511
+aVhttp://fr.dbpedia.org/resource/Malbec
+p1512
+aVhttp://fr.dbpedia.org/resource/Folle-blanche
+p1513
+aVgrenache N, cinsaut N, mourvèdre N, syrah N, clairette B, grenache blanc B, sémillon B, ugni blanc B et vermentino B
+p1514
+aVgrenache noir N, syrah N, mourvèdre N, grenache blanc B, clairette B, marsanne B, roussanne B, bourboulenc B et viognier B
+p1515
+aVmuscadelle B, sauvignon B, sauvignon gris Gr et sémillon B
+p1516
+aVpinot noir N et césar N
+p1517
+aVhttp://fr.dbpedia.org/resource/Cabernet-sauvignon
+p1518
+aVhttp://fr.dbpedia.org/resource/Albariño
+p1519
+aVchardonnay pour les blancs
+p1520
+aVcarignan N et grenache N
+p1521
+aVgrenache N, syrah N, cinsault N, mourvèdre N, carignan N, clairette B, bourboulenc B, grenache blanc B et roussanne B
+p1522
+aV39
+p1523
+aVgewurztraminer Rs
+p1524
+aVhttp://fr.dbpedia.org/resource/Douradinha
+p1525
+aVcabernet sauvignon N et merlot N
+p1526
+aVpinot noir N, gamay N,
+p1527
+aVhttp://fr.dbpedia.org/resource/Tinta_barroca
+p1528
+aVhttp://fr.dbpedia.org/resource/Lagorthi
+p1529
+aVpinot blanc B et auxerrois B
+p1530
+aVtannat N
+p1531
+aVcabernet sauvignon N, merlot N, cabernet franc N, sauvignon B et sémillon B
+p1532
+aVVeltliner
+p1533
+aVmourvedre N, grenache N, cinsault N, clairette B, ugni blanc B, bourboulenc B, sauvignon B, marsanne B, rolle B et sémillon B
+p1534
+aVgrenache N et syrah N
+p1535
+aVchasselas B et chasselas Rs
+p1536
+aVgamay N et pinot noir N
+p1537
+aVnielluccio N, sciacarello N, carcajolo noir N, malvoisie à gros grains B, vermentino B et carcajolo blanc B
+p1538
+aVBlancs : Chasselas, Muller Thurgau, Chardonnay, Silvaner, Pinot Gris, Pinot Blanc, Petite Arvine, Sauvignon Blanc, Amigne et Humagne Blanc.
+p1539
+aVhttp://fr.dbpedia.org/resource/Tannat
+p1540
+aVgrenache N, syrah N et mourvèdre N
+p1541
+aVchenin B
+p1542
+aVhttp://fr.dbpedia.org/resource/Sangiovese
+p1543
+aVaranel B, arriloba B, bourboulenc B, carignan blanc B, chardonnay B, chasan B, clairette B, clarin B, grenache blanc B, liliorila B, marsanne B, muscat blanc à petits grains B, pascal B, perdea B, piquepoul B, roussanne B, sauvignon B, ugni blanc B, vermentino B , viognier B, grenache gris G, piquepoul gris G, sauvignon gris G, alicante Bouschet N, arinarnoa N, aubun N , brun argenté N, cabernet franc N, cabernet N, sauvignon noir N, caladoc N, calitor N, carignan N N, chenanson N, cinsault N, counoise N, egiodola N, gamay N, ganson N, gramon N, grenache N, lledoner pelut N, marselan N, merlot N, monerac N, mourvèdre N, muscardin N, muscat noir à petits grains N, pinot noir N, piquepoul noir N, portan N, syrah N, tannat N, tempranillo N, terret N, barbaroux Rs, clairette rosée Rs
+p1544
+aVabouriou N, merlot N, cabernet sauvignon N, cabernet franc N, duras N, fer servadou N, négrette N, portugais bleu N, malbec N, tannat N, colombard B, jurançon blanc B, len de l'El B, sauvignon B, sémillon B, muscadelle B et gros manseng B
+p1545
+aVgamay N, merlot N, syrah N, cabernet franc N, cabernet sauvignon N, tannat N, chardonnay B, muscadelle B, sauvignon B, sémillon B et ugni blanc B
+p1546
+aVRouges: cariñena ou mazuela, grenache, juan ibáñez, tempranillo et cabernet sauvignon.\u000aBlancs: macabeu, Grenache blanc, moscatel romain et parellada.
+p1547
+aVCépages blancs
+p1548
+aVsyrah N, roussanne B et Marsanne B
+p1549
+aVgrenache blanc B, grenache N, syrah N, mourvèdre N, cinsault N, carignan N, bourboulenc B
+p1550
+aVhttp://fr.dbpedia.org/resource/Robola
+p1551
+aVhttp://fr.dbpedia.org/resource/Mourvedre
+p1552
+aVhttp://fr.dbpedia.org/resource/Arinto
+p1553
+aVcabernet franc N, cabernet sauvignon N et merlot N
+p1554
+aVhttp://fr.dbpedia.org/resource/Doçal
+p1555
+aVabouriou N, alicante Bouschet N, bouchalès, cabernet franc N, cabernet sauvignon N, côt N, fer servadou N, gamay N, jurançon noir N, semebat N, syrah N, merlot N, tannat N, arinarnoa N, egiodola N, ségalin N, listan B, mauzac B, ondenc B, sémillon B, sauvignon B, ugni blanc B, muscadelle B, arriloba B, baroque B, chardonnay B, chasan B, colombard B, gros manseng B, liliorila B, perdea B et petit manseng B
+p1556
+aVgrenache blanc, clairette, marsanne.
+p1557
+aVhttp://fr.dbpedia.org/resource/Espadeiro_Mole
+p1558
+aVgewurztraminer Rs, riesling B et pinot gris G
+p1559
+aVnielluccio N et vermentino B
+p1560
+aVhttp://fr.dbpedia.org/resource/Melon_de_Bourgogne
+p1561
+aVhttp://fr.dbpedia.org/resource/Riesling_(cépage)
+p1562
+aVmerlot, cabernet sauvignon, cabernet franc, sémillon, sauvignon et muscadelle
+p1563
+aVgamay N, pinot noir N, chardonnay B, sacy B et sauvignon B
+p1564
+aVgamay N
+p1565
+aVchenin B et cabernet franc N
+p1566
+aVhttp://fr.dbpedia.org/resource/Pedral
+p1567
+aVcabernet franc N, cabernet sauvignon N, courbu N, fer servadou N, manseng noir N, merlot N, petit verdot N, Tannat N, arrufiac B, baroque B, clairette, colombard B, courbu B, crouchen B, gros manseng B, lauzet B, listan B, petit manseng B, ondenc B, raffiat de Moncade B, sauvignon B, sémillon B et ugni blanc B
+p1568
+aVmuscat blanc à petits grains B et muscat d'Alexandrie B
+p1569
+aVhttp://fr.dbpedia.org/resource/Cabernet_sauvignon
+p1570
+aVhttp://fr.dbpedia.org/resource/Mandelaria
+p1571
+aVlen-de-l'el B, mauzac B, muscadelle B et sauvignon B
+p1572
+aVhttp://fr.dbpedia.org/resource/Bical_(cépage)
+p1573
+aVpinot noir et pinot gris
+p1574
+aVhttp://fr.dbpedia.org/resource/Muscat
+p1575
+aVcabernet franc N, tannat N, egiodola B et arriloba B
+p1576
+aVchardonnay B, altesse  B, molette B, jacquère B, pinot noir N, gamay N, mondeuse N et poulsard N
+p1577
+aVhttp://fr.dbpedia.org/resource/Cinsault
+p1578
+aVhttp://fr.dbpedia.org/resource/Mavrodaphne
+p1579
+aVhttp://fr.dbpedia.org/resource/Cabernet_franc
+p1580
+aVgrenache N, cinsault N, syrah N, counoise N, mourvèdre N et vermentino B
+p1581
+aVgamay, cabernet franc, côt et chenin blanc
+p1582
+aVCarignan N, mourvèdre N, grenache N, syrah N
+p1583
+aVhttp://fr.dbpedia.org/resource/Juhfark
+p1584
+aVpinot noir N, auxerrois B et pinot gris G
+p1585
+aVsauvignon B et pinot noir N
+p1586
+aVgamay, cabernet franc, cabernet sauvignon, pinot noir, sauvignon, chardonnay et chenin blanc
+p1587
+aVsyrah N, marsanne B et roussanne B
+p1588
+aVsavagnin rose Rs
+p1589
+aVsyrah N, merlot N, gamay N, viognier B, marsanne B, roussanne B, chardonnay B et aligoté B
+p1590
+aVmuscadelle B, sémillon B, sauvignon B, sauvignon G, cabernet franc N, cabernet sauvignon N, côt N et merlot N
+p1591
+aVhttp://fr.dbpedia.org/resource/Moschofilero
+p1592
+aVgrenache N, grenache gris G et grenache blanc B
+p1593
+aVhttp://fr.dbpedia.org/resource/Dolcetto
+p1594
+aVhttp://fr.dbpedia.org/resource/Tinto_cão
+p1595
+aVcépage rouge
+p1596
+aVmerlot N, cabernet sauvignon N, cabernet franc N, sémillon B, sauvignon B et muscadelle B
+p1597
+aVgrenache blanc B, tourbat  B, marsanne B, roussanne B,  maccabeu B, carignan N, cinsault N, mourvèdre N, grenache N, syrah N et lladoner pelut N
+p1598
+aVsylvaner B, pinot blanc B, riesling B, muscat blanc à petits grains B, gewurztraminer Rs et pinot gris G
+p1599
+aVgrenache N, grenache gris G, grenache blanc B, macabeu B et tourbat  B
+p1600
+aVCabernet-Sauvignon N, Cabernet franc N, Merlot N, Syrah N.
+p1601
+aVchenin B, sauvignon B et cabernet franc N
+p1602
+aVgamay, pinot gris, pinot noir, aligoté, chardonnay, melon, pinot blanc et sacy
+p1603
+aValtesse B
+p1604
+aVmerlot N, cabernet franc N, sémillon B et sauvignon B
+p1605
+aVriesling B, gewurztraminer Rs et pinot gris G
+p1606
+aVsavagnin B et chardonnay B
+p1607
+aVhttp://fr.dbpedia.org/resource/Hárslevel\u0171
+p1608
+aVmuscat blanc à petits grains B
+p1609
+aVsylvaner B, riesling B, gewurztraminer Rs et pinot gris G
+p1610
+aVCépages pour les vins rouges
+p1611
+aVsémillon B, sauvignon B, muscadelle B, sauvignon G
+p1612
+aVchardonnay  et pinot noir
+p1613
+aVpinot noir, gamay, césar et tressot pour les vins rouges, chardonnay, aligoté, melon et sacy pour les vins blancs
+p1614
+aVhttp://fr.dbpedia.org/resource/Oliver_Irsay
+p1615
+aVVerdejo, Sauvignon blanc
+p1616
+aVchardonnay B, chenin blanc B, arbois B, cabernet franc N, cabernet sauvignon N, grolleau N, grolleau G, pineau d'Aunis N et pinot noir N
+p1617
+aVpinot noir N
+p1618
+aVlen-de-l'el B, mauzac B et Rs, muscadelle, sauvignon B, duras N, fer servadou N  et syrah N
+p1619
+aVjacquère B, roussanne B , altesse B , chasselas B, gamay N et mondeuse N
+p1620
+aVhttp://fr.dbpedia.org/resource/Esganinho
+p1621
+aVchasselas B et sauvignon B
+p1622
+aVviognier B
+p1623
+aVpinot gris G, riesling B et gewurztraminer Rs
+p1624
+aVchenin blanc B , sauvignon B et chardonnay B
+p1625
+aVbaroque B, gros manseng B, petit manseng B, sauvignon B, tannat N, fer servadou N, cabernet franc N et cabernet sauvignon N
+p1626
+aVpinot noir pour les rouges et chardonnay pour les blancs
+p1627
+aVpinot gris, pinot meunier et pinot noir
+p1628
+aVhttp://fr.dbpedia.org/resource/Padeiro
+p1629
+aVhttp://fr.dbpedia.org/resource/Kéknyel\u0171
+p1630
+aVGrenache , syrah , marselan, carignan, cinsault et mourvèdre
+p1631
+aVmuscat blanc à petits grains B et muscat ottonel B
+p1632
+aVhttp://fr.dbpedia.org/resource/Albillo
+p1633
+aVhttp://fr.dbpedia.org/resource/Zinfandel
+p1634
+aVhttp://fr.dbpedia.org/resource/Esganoso_de_Lima
+p1635
+aVpinot noir N, malbec N et chenin B
+p1636
+aVhttp://fr.dbpedia.org/resource/Hárslevelü
+p1637
+aVhttp://fr.dbpedia.org/resource/Királyleányka
+p1638
+aVhttp://fr.dbpedia.org/resource/Doçal_de_Refóios
+p1639
+aVpinot noir N et chardonnay B
+p1640
+aVgrenache N, cinsaut N, mourvèdre N, clairette rose Rs, clairette B, bourboulenc B et araignan  B
+p1641
+aVhttp://fr.dbpedia.org/resource/Amaral_(cépage)
+p1642
+aVhttp://fr.dbpedia.org/resource/Rabigato
+p1643
+aVcolombard B, gros manseng B, mauzac B, muscadelle B, petit manseng B, sauvignon B, sémillon B, ugni blanc B, abouriou N, cabernet franc N, cabernet sauvignon N, côt N, duras N, fer servadou N, merlot N, négrette N, tannat N, etc.
+p1644
+aVSyrah N , Cabernet franc N, Cabernet Sauvignon N, Carignan noir N, Carignan gris G, Cinsault N, Grenache noir N, Grenache gris G, Merlot N.
+p1645
+aVcôt N, merlot N et tannat N
+p1646
+aVsavagnin B, chardonnay B, trousseau N, poulsard N et pinot noir N.
+p1647
+aVcrouchen B
+p1648
+aVsauvignon B, sémillon B et muscadelle B
+p1649
+aVhttp://fr.dbpedia.org/resource/Mourisco
+p1650
+aVPalomino fino, Pedro ximénez et Moscatel
+p1651
+aVgrenache, syrah
+p1652
+aVgrenache N, mourvèdre N, cinsault N, tibouren N, syrah N, cabernet sauvignon N, Carignan N, barbaroux N, calitor N, clairette B, rolle ou vermentino B, sémillon B et ugni blanc B
+p1653
+aVcabernet franc N, cabernet sauvignon N, merlot N, carménère N, côt N et petit verdot N
+p1654
+aVriesling B, pinot blanc B, pinot noir N, pinot gris G, auxerrois B et chardonnay B
+p1655
+aVhttp://fr.dbpedia.org/resource/Avesso
+p1656
+aVhttp://fr.dbpedia.org/resource/Gamay
+p1657
+aVgrenache N, mourvèdre N, syrah N et grenache blanc B
+p1658
+aVgamay N et pinot noir N , chardonnay B, pinot blanc B, pinot gris G et césar N
+p1659
+aVsyrah N, grenache N, mourvèdre N, marsanne B, roussanne B, viognier B, grenache blanc B, clairette B et bourboulenc B
+p1660
+aVhttp://fr.dbpedia.org/resource/Muller-thurgau
+p1661
+aVsavagnin B, chardonnay B, trousseau N et poulsard N
+p1662
+aVparellada B, maccabeu B et xarel-lo B
+p1663
+aVGrenache noir, Mourvèdre, Syrah, Carignan et Cinsault
+p1664
+aVcabernet sauvignon N, cabernet franc N, merlot N, côt N, sauvignon B, sémillon B, muscadelle B, mauzac B, rouchelein ou chenin B et ondenc B
+p1665
+aVgamay N et sauvignon B
+p1666
+aVCépages rouges
+p1667
+aVsémillon B, sauvignon B et muscadelle B
+p1668
+aVhttp://fr.dbpedia.org/resource/Verdelho_blanc
+p1669
+aVgrenache N, mourvèdre N, syrah N, grenache blanc B, clairette B, marsanne B, roussanne B, bourboulenc B et viognier B
+p1670
+aVRouge : Carignan - Alicante - Cinsault et Grenache ; Rosé : Carignan - Alicante et Aramon
+p1671
+aVgrenache N et grenache blanc B
+p1672
+aVpedro ximenez, airen, montepila, verdejo et muscat blanc à petits grains
+p1673
+aVpinot noir N et gamay N , chardonnay B
+p1674
+atRp1675
+sS'typeappellation'
+p1676
+g3
+((lp1677
+VDO
+p1678
+aVhttp://fr.dbpedia.org/resource/Indication_géographique_protégée
+p1679
+aVhttp://fr.dbpedia.org/resource/Appellations_d'origine_contrôlée
+p1680
+aVhttp://fr.dbpedia.org/resource/Région_viticole_américaine
+p1681
+aVAOC-AOP, AOVDQS-AOP et IGP
+p1682
+aVDOC
+p1683
+aVVinhos regionais
+p1684
+aVhttp://fr.dbpedia.org/resource/Appellation_d'origine_contrôlée
+p1685
+aVAppellation d'Origine de Qualité Supérieure : \u039f\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u03c0\u03c1\u03bf\u03b5\u03bb\u03b5\u03cd\u03c3\u03b5\u03c9\u03c2 \u03b1\u03bd\u03c9\u03c4\u03ad\u03c1\u03b1\u03c2 \u03c0\u03bf\u03b9\u03cc\u03c4\u03b7\u03c4\u03bf\u03c2
+p1686
+aVAOC régionale
+p1687
+aVAOC-AOP régionales, sous-régionales et communales
+p1688
+aVhttp://fr.dbpedia.org/resource/Appellation_d'origine_vin_délimité_de_qualité_supérieure
+p1689
+aVDenominación de origen
+p1690
+aVAOC
+p1691
+aVhttp://fr.dbpedia.org/resource/Appellation_d'origine_protégée
+p1692
+aVDénomination d'origine
+p1693
+aVAOC grand cru
+p1694
+aVAOC régionales et communales
+p1695
+aVAOC régionales, communales, premiers crus et grands crus
+p1696
+aVhttp://fr.dbpedia.org/resource/Denominación_de_Origen
+p1697
+aVIGP régionale
+p1698
+aVDenomination d'origine
+p1699
+aVhttp://fr.dbpedia.org/resource/Denominação_de_Origem_Controlada
+p1700
+aVet une IGP
+p1701
+aVDenominación de Origen
+p1702
+aVhttp://fr.dbpedia.org/resource/Vinhos_regionais
+p1703
+aVPrädikatswein
+p1704
+aVhttp://fr.dbpedia.org/resource/Denominazione_di_Origine_Controllata
+p1705
+aVAppellation d'Origine Contrôlée : \u039f\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u03c0\u03c1\u03bf\u03b5\u03bb\u03b5\u03cd\u03c3\u03b5\u03c9\u03c2 \u03b5\u03bb\u03b5\u03b3\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7
+p1706
+aVAOC-AOP et IGP
+p1707
+aVAOC communales
+p1708
+aVsans
+p1709
+aVhttp://fr.dbpedia.org/resource/Indicação_de_Proveniência_Regulamentada
+p1710
+aVDenominação de Origem Controlada
+p1711
+aVhttp://fr.dbpedia.org/resource/Vins_de_qualité_produits_dans_des_régions_déterminées
+p1712
+aVAOC-AOP
+p1713
+aVAppellations d'origine contrôlée
+p1714
+aVAOC régionales et locales
+p1715
+aVIGP départementale
+p1716
+aVDenomination d'origine contrôlée, puis dénomination d'origine qualifiée
+p1717
+aVhttp://fr.dbpedia.org/resource/Vin_de_pays
+p1718
+aVhttp://fr.dbpedia.org/resource/AOC
+p1719
+aVIGP de zone
+p1720
+aVAOC régionale et communales
+p1721
+atRp1722
+sS'densit\xc3\xa9'
+p1723
+g3
+((lp1724
+Vminimum  pieds à l'hectare
+p1725
+aV4300
+p1726
+aVminimum de 5500 pieds par hectare
+p1727
+aVminimum de 6500 pieds par hectare
+p1728
+aVminimum  par ha
+p1729
+aVpar hectare,
+p1730
+aVminimum 6000 pieds par ha
+p1731
+aVminimum de 4500 pieds par hectare
+p1732
+aVminimum de 6200 pieds par hectare
+p1733
+aVminimum 5000 pieds à l'ha
+p1734
+aVminimum  par hectare
+p1735
+aVminimum de 5000 pieds à l'hectare
+p1736
+aVminimum 3500 pieds par ha
+p1737
+aVminimum  à l'hectare pour les AOC
+p1738
+aVminimum variant selon l'appellation de  à  par hectare
+p1739
+aVminimum de 6000 pieds par hectare
+p1740
+aVminimum de 6500 pieds par hectares
+p1741
+aV4000
+p1742
+aVsoit maximum  par pied
+p1743
+aVminimum 4000 pieds par ha
+p1744
+aVminimum  par hectares
+p1745
+aVminimum de 4000 pieds par ha
+p1746
+aV240.0
+p1747
+aVminimum de 5000 pieds par hectare
+p1748
+aVminimum  à l'hectare
+p1749
+aVminimum 4500 pieds par ha
+p1750
+aVminimum 5000 pieds par ha
+p1751
+aVminimum de  à l'hectare
+p1752
+aVpar hectare
+p1753
+aVminimum de 4500 pieds à l'hectare
+p1754
+aVdans l'Yonne,
+p1755
+aV150.0
+p1756
+aV132.0
+p1757
+aVminimum de 6500 pieds à l'hectare
+p1758
+aV4500
+p1759
+aV9000
+p1760
+aVminimum 8000 pieds par ha
+p1761
+aVminimum de 6500 pieds/ha
+p1762
+aVminimum  à l'hectare dans les Hautes-Côtes de Beaune et de Nuits,
+p1763
+aVvariant selon l'appellation, de minimum 6500  à  par hectare
+p1764
+aVminimum de  par hectare
+p1765
+aVdans la Côte d'Or
+p1766
+aVminimum 4000 pieds par ha,
+p1767
+aV6500
+p1768
+aVen Saône-et-Loire et dans le Rhône,
+p1769
+aVminimum variant selon l'appellation
+p1770
+aVminimum  par hectare,
+p1771
+aVà  par hectare, selon la dénomination
+p1772
+aV2000
+p1773
+aVminimum 4400 pieds par ha
+p1774
+aVminimum de 6100 pieds par hectare
+p1775
+aVminimum 6500 pieds par ha
+p1776
+aV7000
+p1777
+atRp1778
+sS'localisation'
+p1779
+g3
+((lp1780
+VTarn-et-Garonne 20px et Lot 20px
+p1781
+aVhttp://fr.dbpedia.org/resource/Indre_(département)
+p1782
+aVLot-et-Garonne, Tarn-et-Garonne et Gers
+p1783
+aVCher et Indre
+p1784
+aVAveyron et Cantal
+p1785
+aVhttp://fr.dbpedia.org/resource/Haute-Savoie
+p1786
+aVSarthe et Indre-et-Loire
+p1787
+aVhttp://fr.dbpedia.org/resource/Cher_(département)
+p1788
+aVhttp://fr.dbpedia.org/resource/Lourinhã
+p1789
+aVhttp://fr.dbpedia.org/resource/Bouches-du-Rhône
+p1790
+aV20
+p1791
+aVMarne, Aube, Aisne, Seine-et-Marne et Haute-Marne
+p1792
+aVhttp://fr.dbpedia.org/resource/Somogy_(comitat)
+p1793
+aVhttp://fr.dbpedia.org/resource/Beaumes-de-Venise
+p1794
+aVPyrénées-Atlantiques15px
+p1795
+aVAin et Savoie
+p1796
+aVhttp://fr.dbpedia.org/resource/Pyrénées-Atlantiques
+p1797
+aVhttp://fr.dbpedia.org/resource/Lot_(département)
+p1798
+aVhttp://fr.dbpedia.org/resource/Lot-et-Garonne
+p1799
+aVhttp://fr.dbpedia.org/resource/Tarn_(département)
+p1800
+aVhttp://fr.dbpedia.org/resource/Nièvre_(département)
+p1801
+aVhttp://fr.dbpedia.org/resource/Hautes-Alpes
+p1802
+aVhttp://fr.dbpedia.org/resource/Puy-de-Dôme
+p1803
+aVBouches-du-Rhône, Var et Alpes-Maritimes
+p1804
+aVhttp://fr.dbpedia.org/resource/Alpes-Maritimes
+p1805
+aVIndre et Cher
+p1806
+aVhttp://fr.dbpedia.org/resource/Savoie_(département)
+p1807
+aVhttp://fr.dbpedia.org/resource/Var_(département)
+p1808
+aVYonne, Côte-d'Or, Saône-et-Loire et Rhône
+p1809
+aVhttp://fr.dbpedia.org/resource/Épesses
+p1810
+aVSud de l'Espagne
+p1811
+aVHaute-Corse et Corse-du-Sud
+p1812
+aVSud-Est de l'Europe
+p1813
+aVMarne, Aube, Aisne, Haute-Marne et Seine-et-Marne
+p1814
+aVhttp://fr.dbpedia.org/resource/Landes_(département)
+p1815
+aVNord-Ouest du Portugal
+p1816
+aVhttp://fr.dbpedia.org/resource/Aude_(département)
+p1817
+aVhttp://fr.dbpedia.org/resource/Deux-Sèvres
+p1818
+aVAriège, Aveyron, Haute-Garonne, Gers, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, Hautes-Pyrénées, Tarn, Tarn-et-Garonne et Cantal
+p1819
+aVhttp://fr.dbpedia.org/resource/Borsod-Abaúj-Zemplén
+p1820
+aVseptentrionales
+p1821
+aVRhône, Loire, Isère dite rhodanienne, Drôme et Ardèche
+p1822
+aVhttp://fr.dbpedia.org/resource/Aveyron_(département)
+p1823
+aVhttp://fr.dbpedia.org/resource/Ardèche_(département)
+p1824
+aVAude et Hérault
+p1825
+aVCôtes du Rhône
+p1826
+aVhttp://fr.dbpedia.org/resource/Vienne_(département)
+p1827
+aVhttp://fr.dbpedia.org/resource/Loire_(département)
+p1828
+aVhttp://fr.dbpedia.org/resource/Haute-Garonne
+p1829
+aVhttp://fr.dbpedia.org/resource/Bas-Rhin
+p1830
+aVhttp://fr.dbpedia.org/resource/Vaucluse_(département)
+p1831
+aVhttp://fr.dbpedia.org/resource/Loire-Atlantique
+p1832
+aVSaône-et-Loire et Rhône
+p1833
+aVhttp://fr.dbpedia.org/resource/Rhône_(département)
+p1834
+aVLoire-Atlantique et Vendée
+p1835
+aVnord Vaucluse et sud Drôme
+p1836
+aVYonne, Côte-d'Or et Saône-et-Loire
+p1837
+aVhttp://fr.dbpedia.org/resource/Loiret_(département)
+p1838
+aVhttp://fr.dbpedia.org/resource/Veszprém_(comitat)
+p1839
+aVHaute-Marne
+p1840
+aVIndre et Loir-et-Cher
+p1841
+aVAude, Hérault et Gard
+p1842
+aVhttp://fr.dbpedia.org/resource/Vendée_(département)
+p1843
+aVhttp://fr.dbpedia.org/resource/Jerez_de_la_Frontera
+p1844
+aVhttp://fr.dbpedia.org/resource/Meuse_(département)
+p1845
+aVhttp://fr.dbpedia.org/resource/Allier_(département)
+p1846
+aVhttp://fr.dbpedia.org/resource/Hérault_(département)
+p1847
+aVnord Vaucluse
+p1848
+aVPyrénées-Orientales et Aude
+p1849
+aVhttp://fr.dbpedia.org/resource/Bellegarde_(Gard)
+p1850
+aVhttp://fr.dbpedia.org/resource/Saône-et-Loire
+p1851
+aVhttp://fr.dbpedia.org/resource/Aube_(département)
+p1852
+aVnord-ouest du Portugal
+p1853
+aVHérault et Gard
+p1854
+aVhttp://fr.dbpedia.org/resource/Fichier:Blason81.PNG
+p1855
+aVsud Vaucluse
+p1856
+aVhttp://fr.dbpedia.org/resource/Corse-du-Sud
+p1857
+aVCôte-d'Or et Saône-et-Loire
+p1858
+aVRhône, Loire, Ardèche, Gard, Drôme et Vaucluse
+p1859
+aVGard rhodanien
+p1860
+aVhttp://fr.dbpedia.org/resource/Dordogne_(département)
+p1861
+aVMaine-et-Loire, Indre-et-Loire, Loir-et-Cher, Deux-Sèvres et Vienne
+p1862
+aVhttp://fr.dbpedia.org/resource/Pyrénées-Orientales
+p1863
+aVDordogne et Lot
+p1864
+aVRhône et Saône-et-Loire
+p1865
+aVGers, Landes et Lot-et-Garonne
+p1866
+aVLoire-Atlantique, Maine-et-Loire et Vendée
+p1867
+aVhttp://fr.dbpedia.org/resource/Jura_(département)
+p1868
+aVhttp://fr.dbpedia.org/resource/Gironde_(département)
+p1869
+aVhttp://fr.dbpedia.org/resource/Csongrád
+p1870
+aVLoiret et Nièvre
+p1871
+aVMaine-et-Loire, Deux-Sèvres et Vienne
+p1872
+aVAriège, cantons de Lavelanet, La Bastide-de-Sérou, Foix, Mirepoix, Pamiers Ouest et Varilhes.
+p1873
+aVBouches-du-Rhône et Var
+p1874
+aVVienne et Deux-Sèvres
+p1875
+aVhttp://fr.dbpedia.org/resource/Fejér
+p1876
+aVhttp://fr.dbpedia.org/resource/Loir-et-Cher
+p1877
+aVCharente et Charente-Maritime
+p1878
+aVhttp://fr.dbpedia.org/resource/Gy\u0151r-Moson-Sopron
+p1879
+aVLoire-Atlantique et Maine-et-Loire
+p1880
+aV15
+p1881
+aVBouches-du-Rhône, Var, Alpes-de-Haute-Provence et Alpes-Maritimes
+p1882
+aVRhône, Loire, Ardèche, Drôme, Vaucluse et Gard
+p1883
+aVHaute Vallée du Duero
+p1884
+aVAude, Hérault, Pyrénées-Orientales et Gard
+p1885
+aVAriège, Aveyron, Dordogne, Haute-Garonne, Gers, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, Hautes-Pyrénées, Tarn et Tarn-et-Garonne
+p1886
+aVhttp://fr.dbpedia.org/resource/Haute-Corse
+p1887
+aVhttp://fr.dbpedia.org/resource/Drôme_(département)
+p1888
+aVArdèche et Loire
+p1889
+aVhttp://fr.dbpedia.org/resource/Heves
+p1890
+aVhttp://fr.dbpedia.org/resource/Hautes-Pyrénées
+p1891
+aVhttp://fr.dbpedia.org/resource/Madère
+p1892
+aVhttp://fr.dbpedia.org/resource/Meurthe-et-Moselle
+p1893
+aVhttp://fr.dbpedia.org/resource/Yonne_(département)
+p1894
+aVhttp://fr.dbpedia.org/resource/Maine-et-Loire
+p1895
+aVAude, Gard, Hérault, Pyrénées-Orientales et Lozère
+p1896
+aVHaut-Rhin et Bas-Rhin
+p1897
+aVMaine-et-Loire et Deux-Sèvres
+p1898
+aVhttp://fr.dbpedia.org/resource/Indre-et-Loire
+p1899
+aVDrôme
+p1900
+aVhttp://fr.dbpedia.org/resource/Gard
+p1901
+aVhttp://fr.dbpedia.org/resource/Haut-Rhin
+p1902
+aVhttp://fr.dbpedia.org/resource/Eurasie
+p1903
+aVhttp://fr.dbpedia.org/resource/Alpes-de-Haute-Provence
+p1904
+aVhttp://fr.dbpedia.org/resource/Zala
+p1905
+aVPyrénées-Atlantiques, Hautes-Pyrénées et Gers
+p1906
+aVhttp://fr.dbpedia.org/resource/Gard_(département)
+p1907
+aVhttp://fr.dbpedia.org/resource/Komárom-Esztergom
+p1908
+aVVaucluse, cantons de Bollène, Orange, Vaison-la-Romaine, Valréas et Courthézon dans le canton de Bédarrides.
+p1909
+aVIndre-et-Loire et Loir-et-Cher
+p1910
+aVSud de l'Europe
+p1911
+aVBas-Rhin et Haut-Rhin
+p1912
+aVhttp://fr.dbpedia.org/resource/Côte-d'Or
+p1913
+aVRhône, Loire et Ardèche
+p1914
+aVhttp://fr.dbpedia.org/resource/Bács-Kiskun
+p1915
+aVTarn15px
+p1916
+aVCher
+p1917
+aVhttp://fr.dbpedia.org/resource/Gers_(département)
+p1918
+aVhttp://fr.dbpedia.org/resource/Les_Riceys
+p1919
+aVhttp://fr.dbpedia.org/resource/Sarthe_(département)
+p1920
+aVSavoie, Haute-Savoie, Ain et Isère
+p1921
+aVhttp://fr.dbpedia.org/resource/Moselle_(département)
+p1922
+aVhttp://fr.dbpedia.org/resource/Pest_(comitat)
+p1923
+aVhttp://fr.dbpedia.org/resource/Tarn-et-Garonne
+p1924
+aVhttp://fr.dbpedia.org/resource/Ain_(département)
+p1925
+aVLandes et Gers
+p1926
+atRp1927
+sS'sousR\xc3\xa9gions'
+p1928
+g3
+((lp1929
+Vhttp://fr.dbpedia.org/resource/Vignoble_du_Mâconnais
+p1930
+aVhttp://fr.dbpedia.org/resource/Oakville_(AVA)
+p1931
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Chablis
+p1932
+aVhttp://fr.dbpedia.org/resource/Minervois
+p1933
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Médoc
+p1934
+aVhttp://fr.dbpedia.org/resource/St._Helena_(AVA)
+p1935
+aVhttp://fr.dbpedia.org/resource/Côte_des_blancs
+p1936
+aVcoteaux de l'Aude
+p1937
+aV20
+p1938
+aVhttp://fr.dbpedia.org/resource/Province_de_Gérone
+p1939
+aVhttp://fr.dbpedia.org/resource/Sauternes_(vignoble)
+p1940
+aVPéloponèse, Attique, Macédoine, île de Rhodes, île de Samos, île de Santorin, Crète et Épire
+p1941
+aVBurg Rodenstein
+p1942
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_côte_de_Nuits
+p1943
+aVhttp://fr.dbpedia.org/resource/Massif_de_la_Clape
+p1944
+aVhttp://fr.dbpedia.org/resource/Anjou
+p1945
+aVhttp://fr.dbpedia.org/resource/Duché_de_Bourbon
+p1946
+aVBlayais et du Bourgeais
+p1947
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Bergerac
+p1948
+aVcôtes-du-rhône gardoises
+p1949
+aVpiémont du Massif central
+p1950
+aVhttp://fr.dbpedia.org/resource/Chiles_Valley_(AVA)
+p1951
+aVhttp://fr.dbpedia.org/resource/Vallée_de_la_Marne_(vignoble)
+p1952
+aVhttp://fr.dbpedia.org/resource/Los_Carneros_(AVA)
+p1953
+aVprovince de Cadix
+p1954
+aVmontagne de Reims et
+p1955
+aVmarz de Vayots Dzor
+p1956
+aVvallée du Rhône septentrionale
+p1957
+aVcoteaux du Languedoc, plaine du Languedoc, coteaux de l'Aude et Roussillon
+p1958
+aVhttp://fr.dbpedia.org/resource/Howell_Mountain_(AVA)
+p1959
+aVRoussillon
+p1960
+aVPays nantais, Anjou, Touraine et Centre
+p1961
+aVhttp://fr.dbpedia.org/resource/Orléanais
+p1962
+aVhttp://fr.dbpedia.org/resource/Vivarais
+p1963
+aVPays messin, val de Seille et val de Sierck à l'extrême nord de la Moselle française.
+p1964
+aVValladolid
+p1965
+aVplaine du Languedoc
+p1966
+aVcoteaux du Languedoc
+p1967
+aVMontagne de Reims
+p1968
+aVhttp://fr.dbpedia.org/resource/Touraine_(AOC)
+p1969
+aVhttp://fr.dbpedia.org/resource/Côtes_de_Meuse
+p1970
+aVprovince de Burgos, province de Valladolid, province de Soria et province de Ségovie
+p1971
+aVvignoble du Médoc
+p1972
+aVhttp://fr.dbpedia.org/resource/Armavir_(marz)
+p1973
+aVmoyenne vallée de la Durance
+p1974
+aVLuberon
+p1975
+aVvallée du Rhône méridionale
+p1976
+aVVallée de la Marne
+p1977
+aVvignoble de Sauternes
+p1978
+aVhttp://fr.dbpedia.org/resource/Ben_Lomond_Mountain_(AVA)
+p1979
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Libournais
+p1980
+aVhttp://fr.dbpedia.org/resource/Province_de_Tarragone
+p1981
+aVhttp://fr.dbpedia.org/resource/Roussillon_(géographie)
+p1982
+aVhttp://fr.dbpedia.org/resource/Sonoma_Mountain_(AVA)
+p1983
+aVEntre-Douro-e-Minho
+p1984
+aVPoitou
+p1985
+aVcoteaux du Languedoc, plaine du Languedoc et coteaux de l'Aude
+p1986
+aVcoteaux et plaine du Languedoc
+p1987
+aVMassif central méridional  15px
+p1988
+aVpiémont pyrénéen
+p1989
+aVhttp://fr.dbpedia.org/resource/Stags_Leap_District_(AVA)
+p1990
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_l'Entre-deux-Mers
+p1991
+aVhttp://fr.dbpedia.org/resource/Vignoble_des_Graves
+p1992
+aVhttp://fr.dbpedia.org/resource/Spring_Mountain_District_(AVA)
+p1993
+aVhttp://fr.dbpedia.org/resource/Vignoble_nantais
+p1994
+aVBaixo Corgo, Cima Corgo et Haut Douro
+p1995
+aVCentre
+p1996
+aVhttp://fr.dbpedia.org/resource/Massif_des_Baronnies
+p1997
+aVRoannais
+p1998
+aVhttp://fr.dbpedia.org/resource/Yountville_(AVA)
+p1999
+aVhttp://fr.dbpedia.org/resource/Diamond_Mountain_District_(AVA)
+p2000
+aVhttp://fr.dbpedia.org/resource/Forez
+p2001
+aVvignoble du Centre
+p2002
+aVvignoble de l'Entre-deux-Mers
+p2003
+aVBergeracois
+p2004
+aVhttp://fr.dbpedia.org/resource/Coteaux_du_Languedoc
+p2005
+aVmoyenne Garonne
+p2006
+aVLoire-Atlantique et Maine-et-Loire
+p2007
+aVhttp://fr.dbpedia.org/resource/Pays_thouarsais
+p2008
+aVRhône-Alpes, Provence-Alpes-Côte d'Azur et Languedoc-Roussillon
+p2009
+aVvignoble du Libournais
+p2010
+aVMassif central méridionnal
+p2011
+aVhttp://fr.dbpedia.org/resource/Vignobles_de_la_côte_chalonnaise
+p2012
+aVCôte des Bars
+p2013
+aVhttp://fr.dbpedia.org/resource/Berry
+p2014
+aVcoteaux de l'Aude Corbières)
+p2015
+aVMassif central méridionnal  15px
+p2016
+aVhttp://fr.dbpedia.org/resource/Rutherford_(AVA)
+p2017
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Blayais_et_du_Bourgeais
+p2018
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_Basse-Bourgogne
+p2019
+aVhttp://fr.dbpedia.org/resource/Wild_Horse_Valley_(AVA)
+p2020
+aVAnjou et Touraine
+p2021
+aVhttp://fr.dbpedia.org/resource/Oak_Knoll_District_of_Napa_Valley_(AVA)
+p2022
+aVPays nantais
+p2023
+aVhttp://fr.dbpedia.org/resource/Gard
+p2024
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_côte_de_Beaune
+p2025
+aVhttp://fr.dbpedia.org/resource/Touraine
+p2026
+aVhttp://fr.dbpedia.org/resource/Mt._Veeder_(AVA)
+p2027
+aVvallée du Rhône septentrionale et méridionale
+p2028
+aVhttp://fr.dbpedia.org/resource/Chalosse
+p2029
+aVAnjou
+p2030
+aVhttp://fr.dbpedia.org/resource/Atlas_Peak_(AVA)
+p2031
+aVDiois
+p2032
+aVhttp://fr.dbpedia.org/resource/Poitou
+p2033
+aVhttp://fr.dbpedia.org/resource/Piémont_pyrénéen
+p2034
+aVhttp://fr.dbpedia.org/resource/Côte_des_Bars
+p2035
+aVhttp://fr.dbpedia.org/resource/Lavaux
+p2036
+aVhttp://fr.dbpedia.org/resource/Ararat_(marz)
+p2037
+aVhttp://fr.dbpedia.org/resource/Nivernais
+p2038
+aVvignoble des Graves
+p2039
+aVhttp://fr.dbpedia.org/resource/Sonoma_Coast_(AVA)
+p2040
+aVTouraine
+p2041
+aVBasse-Bourgogne, côte de Nuits, côte de Beaune, côte chalonnaise et Mâconnais
+p2042
+atRp2043
+sS'l\xc3\xa9gende'
+p2044
+g3
+((lp2045
+VLe château de Corton-André, avec une petite partie du vignoble devant.
+p2046
+aVRasteau et son vignoble.
+p2047
+aVLocalisation de la région viticole en Hongrie.
+p2048
+aVVignoble du massif d'Uchaux à Mondragon.
+p2049
+aVChâteau Henri Bonnaud
+p2050
+aVZone 3 : terroirs du vin de Corse.
+p2051
+aVVignoble sur les coteaux de Pierrevert.
+p2052
+aVVignoble de Corbières-Boutenac
+p2053
+aVLe Criots, en automne.
+p2054
+aVLe vignoble de Saint-Gervais.
+p2055
+aVAire des dénominations d'origine catalanes
+p2056
+aVBouteille de gris de Toul.
+p2057
+aVVignoble de Banyuls sur coteaux
+p2058
+aVLe village de Vosne-Romanée et son vignoble.
+p2059
+aVLe vignoble de Roaix.
+p2060
+aVVignoble des côtes-de-thongue à Gabian.
+p2061
+aVEntrée d'un domaine de Capbreton.
+p2062
+aVSituation des vignobles de l'AOC Campo de Borja
+p2063
+aVVignes à Tain-l'Hermitage surplombant le Rhône.
+p2064
+aVDans la vallée du Layon, le parcellaire du Chaume, vue depuis le hameau d'Ardenay.
+p2065
+aVVignobles de Laudun-l'Ardoise.
+p2066
+aVLe vignoble de la côte de Nuits.
+p2067
+aVLe Clos de Vougeot et son château.
+p2068
+aVLe vignoble de Saint-Maurice sur les coteaux de l'Eygues.
+p2069
+aVLes vignobles de Villány.
+p2070
+aVVignoble au pied du monastère de Khor Virap
+p2071
+aVLe vignoble de la Vistrenque, en automne, entre Nîmes et les Costières
+p2072
+aVLes vignes à Cairanne à l'assaut du vieux village.
+p2073
+aVAu premier-plan, le vignoble des côtes-d'auvergne
+p2074
+aVVignobles de la vallée de la Loire.
+p2075
+aVSituation des vignobles de la DO Somontano
+p2076
+aVLe vignoble de Juliénas vu de la place du village. On distingue le château du bois de la Salle, et le chai de la cave coopérative de Juliénas.
+p2077
+aVSablet entouré de son vignoble.
+p2078
+aVGamme des vins à la cave de Cheverny
+p2079
+aVVignoble de Monein. Les vignes, conduites en hautains, sont orientées au sud, face à la chaîne des Pyrénées.
+p2080
+aVLa colline de Corton, vue du sud-ouest, avec les vignes sur les pentes.
+p2081
+aVVignoble et loge de vigne à Pocé-sur-Cisse.
+p2082
+aVLe vignoble de Gevrey-Chambertin.
+p2083
+aVLe vignoble de Chiroubles.
+p2084
+aVVue de la plaine d'Alsace depuis le Scharrach.
+p2085
+aVLes vignobles de Corse.
+p2086
+aVSur la commune de Cabrières, le vignoble de la clairette du Languedoc.
+p2087
+aVUn partie du vignoble de Fixin.
+p2088
+aVVallée de Sonoma
+p2089
+aVZone 3 c : terroir du porto-vecchio
+p2090
+aVVignes près de Villeneuve-les-Corbières.
+p2091
+aVMagnums de vins rosés de Provence.
+p2092
+aVTerroir du floc de Gascogne avec en premier plan une grappe de gros manseng.
+p2093
+aVParcelles de vignes accrochées au flanc de la montagne face à Entraygues.
+p2094
+aVLe vignoble devant le pic Saint-Loup et l'Hortus.
+p2095
+aVLes vignobles du Languedoc-Roussillon.
+p2096
+aVVignoble producteur de muscat de Rivesaltes à Rasiguères.
+p2097
+aVMuscat de Frontignan.
+p2098
+aVLe vignoble autour de Chablis .
+p2099
+aVVignoble de Saint-Sornin
+p2100
+aVVignoble sur les pentes du mont Brouilly.
+p2101
+aVEntrée de la maison Ramasetter à Sümeg.
+p2102
+aVDans les vignobles de l'appellation, à Turquant.
+p2103
+aVTradition et modernité : maison bioclimatique dans le vignoble de Crozes-Hermitage.
+p2104
+aVVin de Tursan, bouteille publicitaire sur un mur de Saint-Sever.
+p2105
+aVVignoble du Minervois
+p2106
+aVVignoble à Dezize-lès-Maranges
+p2107
+aVCharmes-chambertin vieilles vignes
+p2108
+aVbouteille de Muscat de Lunel
+p2109
+aVBouteille de fleurie
+p2110
+aVVignes à Cegléd.
+p2111
+aVVignoble des sables à Aigues-Mortes
+p2112
+aVVignes du Montsant.
+p2113
+aVPrincipauté d'Orange.
+p2114
+aVGruissan, son vignoble et ses salins
+p2115
+aVLes hautes côtes de Beaune, à La Rochepot.
+p2116
+aVLe Zinnkoepflé avec Westhalten à ses pieds.
+p2117
+aVLe vignoble du Beaujolais depuis le mont Brouilly.
+p2118
+aVSaint-Péray et ses vignobles,
+p2119
+aVVignoble du val des rois à Valréas
+p2120
+aVLe territoire de l'appellation en rouge.
+p2121
+aVLe vignoble des grés-de-montpellier à Saint-Pons-de-Mauchiens.
+p2122
+aVVue d'une partie du vignoble de Pommard.
+p2123
+aVVignoble de l'AOC bandol au quartier du Brulat, Le Castellet.
+p2124
+aVVignoble de l'IGP cité-de-carcassonne avec en fond la Montagne Noire
+p2125
+aVLe vignoble du Plan-de-Dieu.
+p2126
+aVVignoble de Maury sur la commune de Tautavel
+p2127
+aVLe vignoble à Irancy.
+p2128
+aVVaucluse.
+p2129
+aVVignoble près de Vauvert
+p2130
+aVVignoble de l'IGP à Saint-Paul-de-Vence.
+p2131
+aVLe vignoble des fiefs-vendéens à Brem-sur-Mer.
+p2132
+aVÉtiquette d'un coteaux-du-languedoc, l'ancien nom de l'appellation.
+p2133
+aVSituation des vignobles de la DO Cariñena
+p2134
+aVZone 3 a : terroir du coteaux-du-cap-corse.
+p2135
+aVVendanges à Meursault.
+p2136
+aVLes vignes de Pétrus.
+p2137
+aVMer et vignobles du Languedoc-Roussillon
+p2138
+aVVignoble près de Bergerac.
+p2139
+aVLe vignoble bordelais.
+p2140
+aVNiedermorschwihr et, au fond, le Sommerberg.
+p2141
+aVPicpoul de Pinet
+p2142
+aVmontrant le parcellaire du vignoble.
+p2143
+aVVue générale de Ventenac-Cabardès et son vignoble
+p2144
+aVMuscadet « Coteaux d'Herbauge », Pont-Saint-Martin, France.
+p2145
+aVVignobles à Massignieu-de-Rives
+p2146
+aVVignes sur Somló-hegy.
+p2147
+aVhttp://fr.dbpedia.org/resource/Châteauneuf-du-Pape
+p2148
+aVLe vignoble de Monbazillac à l'automne,
+p2149
+aVBouteille de crémant-du-jura.
+p2150
+aVVignes bergeracoises à Saint-Michel-de-Montaigne.
+p2151
+aVLes coteaux du Vorbourg.
+p2152
+aVLe vignoble de Morey-Saint-Denis.
+p2153
+aVVignoble des collines rhodaniennes au pied des grands crus de la vallée du Rhône
+p2154
+aVVignoble de Tokay à Hegyalja.
+p2155
+aVLes muscadières de Beaumes-de-Venise au pied du site préhistorique de Rocalinaud.
+p2156
+aVReuilly
+p2157
+aVVignes sur la commune d'Aydie.
+p2158
+aVVue sur le vignoble des côtes du Forez.
+p2159
+aVLe Chevalier-Montrachet.
+p2160
+aVLe vignoble près de Solutré-Pouilly.
+p2161
+aVPanorama de Montferri au c\u0153ur du vignoble
+p2162
+aVLe vignoble de Santenay, au pied du moulin Sorine.
+p2163
+aVLe Chambertin.
+p2164
+aVVignoble à l'entrée du village de Margaux.
+p2165
+aVLocalisation de la dénomination d'origine, au sud de l'Espagne
+p2166
+aVBouteille de bas-armagnac « hors d'âge ».
+p2167
+aVVignes à Saint-Baldoph .
+p2168
+aVVignoble de Sainte-Jalle
+p2169
+aVLe château dominant son vignoble.
+p2170
+aVLe coteau du Mambourg.
+p2171
+aVLe vignoble dominé par le clocher de l'église de Vouvray.
+p2172
+aVVue d'une partie du vignoble de Mercurey.
+p2173
+aVVignoble de Cassis
+p2174
+aVVieux millésime de Morgon
+p2175
+aVVignoble du château de l'Hospitalet
+p2176
+aVApremont et le mont Granier.
+p2177
+aVVignoble à Saint-Roman-de-Bellet
+p2178
+aVVignoble de l'appellation saint-joseph au-dessus du château de Tournon-sur-Rhône.
+p2179
+aVLe vignoble de Cumières.
+p2180
+aVun des terroirs des vins de pays de
+p2181
+aVVignoble de syrah et cabernet-sauvignon, près de Carcassonne
+p2182
+aVLe vignoble du Saering en automne.
+p2183
+aVVignoble d'Alsace vu depuis Niedermorschwihr.
+p2184
+aVLe vignoble de Rousset-les-Vignes.
+p2185
+aVParcelles de vigne de l'AOC Collioure avec le Fort Dugomier  et la tour Madeloc
+p2186
+aVZone 1 : Le terroir de l'ajaccio.
+p2187
+aVVue d'une partie du Vignoble de Saumur
+p2188
+aVLe village de Cornas vu à travers ses vignes.
+p2189
+aVLe vignoble de Nuits-Saint-Georges.
+p2190
+aVLe village de Sauternes et une vigne de sémillon.
+p2191
+aVZone 3 b : terroir du calvi
+p2192
+aVVue d'une partie du vignoble de Saint-Aubin.
+p2193
+aVVignobles   et vignobles
+p2194
+aVVignes de Moulis sur graves caillouteuses.
+p2195
+aVLe vignoble de Gigondas dominé par son village.
+p2196
+aVLe vignoble du Beaujolais autour de la chapelle de Saint-Laurent-d'Oingt.
+p2197
+aVVignes du château de Chinon
+p2198
+aVRayon de soleil sur le Kessler.
+p2199
+aVLe vignoble de Faugères.
+p2200
+aVsecteur de la côte nord.
+p2201
+aVVignes du Badacsony.
+p2202
+aVVue de Riquewihr depuis le Schoenenbourg.
+p2203
+aVLe vignoble de l'appellation locale beaumes-de-venise s'étage sur des restanques ou terrasses.
+p2204
+aVLe vignoble de Puyméras.
+p2205
+aVLe vignoble des Baux dominé par la citadelle.
+p2206
+aVVignoble des coteaux-de-peyriac
+p2207
+aVLe vignoble des coteaux-varois au pied du Gros Bessillon à Barjols.
+p2208
+aVParcelle de Mauzac.
+p2209
+aVVignobles de Cazouls-les-Béziers
+p2210
+aVVignoble du Jura.
+p2211
+aVUne bouteille d'Aguardentes da Lourinhã
+p2212
+aVCarte du Diois et du massif du Vercors.
+p2213
+aVLe vignoble de Cabrières au pied du pic Vissou.
+p2214
+aVMuscadet-sèvre-et-maine sur lie.
+p2215
+aVVignoble de vin de pays du Var, près de Fenouillet.
+p2216
+aVCerdon et son vignoble.
+p2217
+aVVignoble d'Orgnac-l'Aven
+p2218
+aVAOC Brouilly, accompagnant un colombo de porc
+p2219
+aVVignoble de l'appellation château-chalon.
+p2220
+aVLa ville de Thann vue depuis le Rangen.
+p2221
+aVLe saint-julien apparait en vert clair sur la carte dans la région du Médoc.
+p2222
+aVVignoble et AOC du Médoc et des Graves
+p2223
+aVZone 3 e : terroir du sartène.
+p2224
+aVIGP Gard Rocca Maura de la cave de Roquemaure
+p2225
+aVMenglon, un des villages producteurs de la clairette-de-die ; le vignoble est situé sur le coteau.
+p2226
+aVLe Clos des Lambrays.
+p2227
+aVVerre et bouteille d'anjou rouge
+p2228
+aVUne bouteille de pécharmant.
+p2229
+aVLe château de Chambert sur le terroir du causse.
+p2230
+aVLe vignoble de Visan
+p2231
+aVL'arrière-côte.
+p2232
+aVBergbieten vu depuis l'Altenberg.
+p2233
+aVCarte du vignoble de Champagne.
+p2234
+aVVignes sur hautain, le long de la route de l'Ilet à Cordes, sur la commune de Cilaos
+p2235
+aVVignoble en coteau de Vinsobres.
+p2236
+aVVue aérienne du terroir de
+p2237
+aVCarte des crus du cognac
+p2238
+aVLa Grande Rue, à l'automne.
+p2239
+aVCarte des appellations du Bergeracois.
+p2240
+aVVignobles de Calamin
+p2241
+aVLe promontoire de Sancerre.
+p2242
+aVLe village de Séguret, sur sa butte, dominant son vignoble.
+p2243
+aVVigne sur les pentes de la sierra de Montsant
+p2244
+aVVignes et lavande en Tricastin
+p2245
+aVLe village de Zellenberg qui surplombe le Froehn.
+p2246
+aVPanneau garantissant l'AOC du vin de Seyssel.
+p2247
+aVLa Romanée.
+p2248
+aVParcelles d'un viticulteur de l'AOC.
+p2249
+aVCarte des vignobles de Champagne.
+p2250
+aVVignoble du Haut Douro
+p2251
+aVCaves à Hajós.
+p2252
+aVVue aérienne de Soumensac
+p2253
+aVVigne palissée d'Empordà
+p2254
+aVSaint-Jean-de-Minervois et son vignoble.
+p2255
+aVBouteille de gros-plant-du-pays-nantais.
+p2256
+aVAuxerrois, un des cépages du vignoble de Coiffy.
+p2257
+aVVignoble AOC Lirac à Saint-Geniès-de-Comolas
+p2258
+aVLe vignoble de Caussiniojouls.
+p2259
+aVVignoble des côtes-de-blaye.
+p2260
+aVAmmerschwihr, avec en arrière-plan le coteau couvert de vignes et de bois.
+p2261
+aVVignoble de Rasteau.
+p2262
+aVVignoble des Costières
+p2263
+aVRégion de Minho
+p2264
+aVVieilles bouteilles de Jasnières
+p2265
+aVVue des terrasses du Kitterlé au-dessus de Guebwiller.
+p2266
+aVLes vignobles au pied des Bauges.
+p2267
+aVCarte des vignobles du Sud-Ouest.
+p2268
+aVLe vignoble en juillet.
+p2269
+aVVin de pays des Cévennes
+p2270
+aVVigne à Vimbodí i Poblet
+p2271
+aVBouteille de saint-amour
+p2272
+aVVue d'une partie du vignoble de Givry.
+p2273
+aVVignes et troupeau dans les Alpes-de-Haute-Provence.
+p2274
+aVVignoble de vin de pays des Alpilles, près de Maussane.
+p2275
+aVLe Clos de Tart.
+p2276
+aVVignoble du Béarn à Monein.
+p2277
+aVLe vignoble de la Combe Lavaux, à Gevrey-Chambertin.
+p2278
+aVChâteau la Rolière
+p2279
+aVVue du Montrachet
+p2280
+aV.
+aVUn vignoble classé alsace grand cru : le Zinnkoepflé à Soultzmatt.
+p2281
+aVLes vignobles de Bourgogne .
+p2282
+aVLa grange de Bernac, entre vigne et tournesol.
+p2283
+aVVendanges dans la région du Minho
+p2284
+aVVignoble d'Irouléguy
+p2285
+aVL'église du village de Régnié-Durette entourée de vignes.
+p2286
+aVVue de Bergheim depuis l'Altenberg.
+p2287
+aVCarte du vignoble de Bordeaux .
+p2288
+aVVue de la région depuis la commune de Gilly
+p2289
+aVLe vignoble dominé par son moulin à vent.
+p2290
+aVhttp://fr.dbpedia.org/resource/Nagykutas
+p2291
+aVVignoble de Tautavel dans la vallée de Verdouble.
+p2292
+aVLe vignoble de Saint-Chinian.
+p2293
+aVZone 2 : terroir du patrimonio.
+p2294
+aVLe vignoble de Marsannay-la-Côte.
+p2295
+aVVue sur la ville de Turckheim depuis le Brand.
+p2296
+aVLa Romanée Saint-Vivant, en automne.
+p2297
+aVLe vignoble de Saint-Romain.
+p2298
+aVCarte des subdivisions du Bordelais .
+p2299
+aVVignoble producteur de vinho verde
+p2300
+aVVignoble du château Latour, Pauillac.
+p2301
+aVLa Tâche, en automne.
+p2302
+aVLocalisation de la zone de production.
+p2303
+aVCosters del Segre sur la carte de Catalogne
+p2304
+aVCoteaux d'Engraviès, vignoble planté à Dun (Ariège)
+p2305
+aVSolera de Jeres
+p2306
+aVLe vignoble de Rochefort-du-Gard,
+p2307
+aVVignoble de Châteaumeillant au printemps.
+p2308
+aVZone 4 : terroir du muscat du Cap-Corse.
+p2309
+aVYvorne et son vignoble
+p2310
+aVVignoble automnal de l'appellation arbois.
+p2311
+aVBouteille de macvin du Jura.
+p2312
+aVau pied de la colline de Crussol.
+p2313
+aVBouteilles de blanquette de Limoux et verres de promotion.
+p2314
+aVVignoble de Bourgueil
+p2315
+aVDans le Nord Vaucluse :
+p2316
+aVCarte du vignoble des coteaux-de-l'aubance.
+p2317
+aVVignoble du rivesaltes, vu depuis l'entrée de la grotte de la Caune de l'Arago, à Tautavel.
+p2318
+aVVignoble AOC marcillac à Clairvaux-d'Aveyron
+p2319
+aVLe Richebourg en automne.
+p2320
+aVVignoble de pouilly-fumé
+p2321
+aVLe vignoble de Saint-Drézéry.
+p2322
+aVVerre et bouteille de quarts-de-chaume
+p2323
+aVVue de Volnay et d'une partie de son vignoble.
+p2324
+aVVue de Montagny-lès-Buxy.
+p2325
+aVBouteille de bourgogne-aligoté.
+p2326
+aVVignoble vue depuis le parvis de l'église.
+p2327
+aVVignes dans les coteaux du Layon en terrasses sur la commune de Faye-d\u2019Anjou entre les bourgs de Faye et de Rablay.
+p2328
+aVVue de Pernand-Vergelesses et de son vignoble.
+p2329
+aVCarte du Bordelais.
+p2330
+aV259200.0
+p2331
+aVVignoble de Dézaley
+p2332
+aVLe vignoble de Sablet, producteur d'une appellation villages.
+p2333
+aVLe Clos de Bèze à Gevrey-Chambertin.
+p2334
+aVCave souterraine à San Martín de Rubiales
+p2335
+aVVignoble à Saint-Tropez
+p2336
+aVVignoble de la vallée du Rhône.
+p2337
+aVVignes à Lansac.
+p2338
+aVVue aérienne du Beaujolais .
+p2339
+aVInscription signalant l'entrée dans le terroir de Vacqueyras.
+p2340
+aVLe vignoble d'Ottrott vu depuis Mont Sainte-Odile.
+p2341
+aVUn des terroirs des vins de pays de la
+p2342
+aVBouteille de saint-émilion.
+p2343
+aVCave de vin de madère
+p2344
+aVLe Grands Échezeaux en automne.
+p2345
+aVBastide viticole dans les environs d'Aix-en-Provence.
+p2346
+aVVignes escaladant les collines près de Ribeauvillé .
+p2347
+aVVignoble de Menetou-Salon
+p2348
+aVLes vignes de la Côte chalonnaise.
+p2349
+aVLe clos des Latricières.
+p2350
+aVVignoble près du château de Saumur
+p2351
+aVLocalisation de la dénomination au sud de l'Espagne.
+p2352
+aVVignoble de l'appellation à Saint-Martin-de-la-Brasque.
+p2353
+aVVue d'une partie du vignoble de Valençay et son château.
+p2354
+aVPanneau entre Cosne et Saint-Père.
+p2355
+aVUne bouteille de vin jaune, du comté et quelques noix.
+p2356
+aVVignoble dans la région de Sion.
+p2357
+aVCarte des appellations bordelaises.
+p2358
+aVVieux pressoir et vignoble à Saint-Pantaléon-les-Vignes.
+p2359
+aVLe vignoble de Barnave, producteur de crémant de Die.
+p2360
+aVVue d'une partie du vignoble de Chénas.
+p2361
+aVL'aire du saint-estèphe apparait en jaune sur la carte de la région du Médoc.
+p2362
+aVVue de Dambach-la-Ville depuis les collines produisant le frankstein.
+p2363
+aVUn verre de porto tawny
+p2364
+aVsols sableux et cailloux roulés.
+p2365
+aVVignobles de Condrieu vers 1925
+p2366
+aVVignoble entourant le village
+p2367
+aVVue du Geisberg depuis le centre-ville de Ribeauvillé.
+p2368
+aVVignoble de Saint-Martin-de-la-Brasque.
+p2369
+aVVignobles du Mont Ventoux
+p2370
+aVDominé par le Mont Tauch, le vignoble de Fitou à Paziols.
+p2371
+aVUne bouteille de romanée-conti 1975.
+p2372
+aVCave coopérative de Rochegude.
+p2373
+aVBouteille de txakoli
+p2374
+aVTrois bouteilles de beaujolais nouveau 2008.
+p2375
+aVimplanté sur des reliefs caillouteux.
+p2376
+aVVin blanc du domaine de Tariquet
+p2377
+aVUne vigne des Colli Piacentini
+p2378
+aVVignes du penedès avec le massif de Montserrat en toile de fond.
+p2379
+aVLes grands crus Bougrot et Vaudésirs.
+p2380
+aVVignes de la villa Minna vineyards à Saint-Cannat
+p2381
+aVVue d'une partie du vignoble de Beaune.
+p2382
+aVVignoble du mas Daumas-Gassac
+p2383
+aVVue de Katzenthal depuis le Schlossberg, avec le château du Wineck parmi les vignes.
+p2384
+aVvu depuis le sommet du Puy Giroux.
+p2385
+aVLe château de Rully.
+p2386
+aVDans la vallée du Calavon :
+p2387
+aVVignobles de Chusclan
+p2388
+aVBouteille de muscat de Mireval
+p2389
+aVVignoble de Thézac-Perricard.
+p2390
+aVSituation des vignobles de l'AOC Calatayud
+p2391
+aVLe terroir de Tavel :
+p2392
+aVEntrée du musée du vin de  Balatonboglár.
+p2393
+aVprès de l'antique cité de Maguelonne.
+p2394
+aVSituation de l'appellation en Catalogne
+p2395
+aVLe vignoble au pied de la Roche de Solutré.
+p2396
+aVMarlenheim vue depuis le Steinklotz.
+p2397
+aVSidi Brahim  vin des contreforts de l'Atlas
+p2398
+aVBouteille de crémant d'Alsace.
+p2399
+aVDes vignes à Lupiac .
+p2400
+aVLe vignoble de Tain-l'Hermitage.
+p2401
+aVCarte des vins d'appellation au Portugal
+p2402
+atRp2403
+sS'label'
+p2404
+g3
+((lp2405
+VCérons (AOC)
+p2406
+aVVignoble des Graves
+p2407
+aVFleurie (AOC)
+p2408
+aVSauternes (vignoble)
+p2409
+aVEger (vignoble)
+p2410
+aVApremont (AOC)
+p2411
+aVTursan (AOVDQS)
+p2412
+aVWiebelsberg
+p2413
+aVAlella (DO)
+p2414
+aVCôtes-du-rhône villages
+p2415
+aVVisan (Côtes-du-rhône villages)
+p2416
+aVChaume (AOC)
+p2417
+aVDalsheimer Hubacker
+p2418
+aVXérès (DO)
+p2419
+aVDouro (DOC)
+p2420
+aVSaint-joseph (AOC)
+p2421
+aVRully (AOC)
+p2422
+aVViticulture en Arménie
+p2423
+aVRochegude (Côtes-du-rhône villages)
+p2424
+aVSancerre (AOC)
+p2425
+aVSaint-pourçain (AOC)
+p2426
+aVCalvi (AOC)
+p2427
+aVVignoble de Savoie
+p2428
+aVChinon (AOC)
+p2429
+aVClos de la roche
+p2430
+aVVillány (vignoble)
+p2431
+aVBanyuls (AOC)
+p2432
+aVSporen
+p2433
+aVTouraine-amboise
+p2434
+aVCoteaux-d'aix-en-provence
+p2435
+aVTouraine-azay-le-rideau
+p2436
+aVMandelberg
+p2437
+aVSomló (vignoble)
+p2438
+aVAlsace grand cru
+p2439
+aVBlaye (AOC)
+p2440
+aVMambourg
+p2441
+aVCôte-de-beaune-villages
+p2442
+aVCôtes-du-rhône
+p2443
+aVPalette (AOC)
+p2444
+aVReuilly (AOC)
+p2445
+aVCôtes-du-tarn
+p2446
+aVPinot-noir d'Alsace
+p2447
+aVCôtes-du-jura
+p2448
+aVFiefs-vendéens
+p2449
+aVAltenberg-de-bergheim
+p2450
+aVEntre-deux-mers (AOC)
+p2451
+aVVignoble du Bugey
+p2452
+aVAlpilles (IGP)
+p2453
+aVMontsant (DO)
+p2454
+aVSavigny-lès-beaune (AOC)
+p2455
+aVBourgogne côte saint-jacques
+p2456
+aVCairanne (Côtes-du-rhône villages)
+p2457
+aVAriège (IGP)
+p2458
+aVBrouilly
+p2459
+aVCôtes-du-vivarais
+p2460
+aVSaering
+p2461
+aVCôte-roannaise
+p2462
+aVHaut-Balaton (vignoble)
+p2463
+aVCôtes-de-saint-mont
+p2464
+aVCrémant d'Alsace
+p2465
+aVSaint-sardos (AOVDQS)
+p2466
+aVSonoma Valley
+p2467
+aVCôtes-de-gascogne
+p2468
+aVKaefferkopf
+p2469
+aVLoupiac (AOC)
+p2470
+aVSable-de-camargue
+p2471
+aVSteinklotz
+p2472
+aVChâteau-grillet (AOC)
+p2473
+aVMorey-saint-denis (AOC)
+p2474
+aVTarragona (DO)
+p2475
+aVSylvaner d'Alsace
+p2476
+aVChasselas d'Alsace
+p2477
+aVSaint-péray (AOC)
+p2478
+aVChignin-bergeron
+p2479
+aVPouilly-fuissé
+p2480
+aVSchlossberg (grand cru)
+p2481
+aVBeaune (AOC)
+p2482
+aVRangen (grand cru)
+p2483
+aVCondrieu (AOC)
+p2484
+aVBordeaux (AOC)
+p2485
+aVGriotte-chambertin
+p2486
+aVFloc de Gascogne
+p2487
+aVJuliénas (AOC)
+p2488
+aVMâcon villages
+p2489
+aVSteingrubler
+p2490
+aVMeursault (AOC)
+p2491
+aVMarckrain
+p2492
+aVMaranges
+p2493
+aVBourgogne tonnerre
+p2494
+aVVosne-romanée (AOC)
+p2495
+aVColli Piacentini
+p2496
+aVSteinert
+p2497
+aVCoteaux-de-chalosse
+p2498
+aVBordeaux-supérieur
+p2499
+aVTouraine-noble-joué
+p2500
+aVBrézème
+p2501
+aVRibera del Duero (DO)
+p2502
+aVMonbazillac (AOC)
+p2503
+aVCôtes-de-montestruc
+p2504
+aVVin de sable (VDP)
+p2505
+aVCampo de Borja (DO)
+p2506
+aVChâteaumeillant (AOC)
+p2507
+aVKirchberg-de-barr
+p2508
+aVFrankstein
+p2509
+aVValtellina (vin)
+p2510
+aVSantenay (AOC)
+p2511
+aVCôtes-de-montravel
+p2512
+aVChablais vaudois
+p2513
+aVChorey-lès-beaune (AOC)
+p2514
+aVVinho verde
+p2515
+aVMassif-d'uchaux (Côtes-du-rhône villages)
+p2516
+aVAyze (AOC)
+p2517
+aVComté-tolosan
+p2518
+aVSaumur (AOC)
+p2519
+aVLa grande rue
+p2520
+aVRégnié
+p2521
+aVZala (vignoble)
+p2522
+aVCôtes-du-condomois
+p2523
+aVCalamin (AOC)
+p2524
+aVCerdon (AOC)
+p2525
+aVEdelzwicker
+p2526
+aVMuscat de Frontignan
+p2527
+aVSidi Brahim (vin)
+p2528
+aVRasteau (AOC)
+p2529
+aVFroehn
+p2530
+aVPannonhalma (vignoble)
+p2531
+aVSonnenglanz
+p2532
+aVRasteau (VDN)
+p2533
+aVSaint-nicolas-de-bourgueil (AOC)
+p2534
+aVQuincy (AOC)
+p2535
+aVCôtes-de-duras
+p2536
+aVHajós-Baja
+p2537
+aVRosette (AOC)
+p2538
+aVCôtes-de-meuse (IGP)
+p2539
+aVLirac (AOC)
+p2540
+aVLes-baux-de-provence (AOC)
+p2541
+aVRomanée saint-vivant
+p2542
+aVMór (vignoble)
+p2543
+aVMontilla-moriles (DO)
+p2544
+aVSaint-chinian (AOC)
+p2545
+aVTavel (AOC)
+p2546
+aVBarsac (AOC)
+p2547
+aVMâcon (AOC)
+p2548
+aVVignoble de Provence
+p2549
+aVCoteaux-du-littoral-audois
+p2550
+aVLa tâche
+p2551
+aVCharentais (IGP)
+p2552
+aVBouzeron (AOC)
+p2553
+aVSaint-pantaléon-les-vignes (Côtes-du-rhône villages)
+p2554
+aVAigues (IGP)
+p2555
+aVBonnezeaux
+p2556
+aVConca de Barberà (DO)
+p2557
+aVSommières (AOC)
+p2558
+aVPouilly-sur-loire (AOC)
+p2559
+aVFlorimont (grand cru)
+p2560
+aVGewurztraminer d'Alsace
+p2561
+aVVistrenque (IGP)
+p2562
+aVBourgogne épineuil
+p2563
+aVAltenberg-de-wolxheim
+p2564
+aVListrac-médoc (AOC)
+p2565
+aVChapelle-chambertin
+p2566
+aVHatschbourg
+p2567
+aVFronsac (AOC)
+p2568
+aVVignoble du Blayais et du Bourgeais
+p2569
+aVSaint-romain (AOC)
+p2570
+aVFigari (AOC)
+p2571
+aVCrémant de Bordeaux
+p2572
+aVMorgon
+p2573
+aVCorton-charlemagne
+p2574
+aVCoteaux-de-peyriac
+p2575
+aVCheverny (AOC)
+p2576
+aVCévennes (IGP)
+p2577
+aVCrémant de Bourgogne
+p2578
+aVCrémant du Jura
+p2579
+aVMazis-chambertin
+p2580
+aVL'étoile (AOC)
+p2581
+aVTouraine (AOC)
+p2582
+aVMuscat de Beaumes-de-Venise (VDN)
+p2583
+aVBienvenues-bâtard-montrachet
+p2584
+aVMoenchberg
+p2585
+aVBrulhois (AOC)
+p2586
+aVBourgogne hautes-côtes-de-beaune
+p2587
+aVChusclan (Côtes-du-rhône villages )
+p2588
+aVBourgogne côte d'auxerre
+p2589
+aVVignoble de Catalogne
+p2590
+aVCrémant de Loire
+p2591
+aVEtyek-Buda
+p2592
+aVPays-d'oc (IGP)
+p2593
+aVGevrey-chambertin (AOC)
+p2594
+aVValréas (Côtes-du-rhône villages)
+p2595
+aVSaint-bris
+p2596
+aVCosters del Segre (DO)
+p2597
+aVCoteaux-bourguignons
+p2598
+aVGros-plant-du-pays-nantais
+p2599
+aVKitterlé
+p2600
+aVTouraine-mesland
+p2601
+aVChâteauneuf-du-pape (AOC)
+p2602
+aVAjaccio (AOC)
+p2603
+aVIrouléguy (AOC)
+p2604
+aVSainte-foy-bordeaux
+p2605
+aVAnjou fines bulles
+p2606
+aVPyrénées-orientales (IGP)
+p2607
+aVCondado de Huelva (DO)
+p2608
+aVPessac-léognan
+p2609
+aVKanzlerberg
+p2610
+aVKlevener de Heiligenstein
+p2611
+aVBugey (AOC)
+p2612
+aVCôtes-de-millau
+p2613
+aVCognac (eau-de-vie)
+p2614
+aVSaint-julien (AOC)
+p2615
+aVFitou (AOC)
+p2616
+aVChampagne (AOC)
+p2617
+aVLourinhã (DOC)
+p2618
+aVVignoble de la vallée du Rhône
+p2619
+aVCôtes-d'auvergne
+p2620
+aVVirieu-le-grand (AOC)
+p2621
+aVPic-saint-loup (AOC)
+p2622
+aVChevalier-montrachet
+p2623
+aVCôte-de-brouilly
+p2624
+aVLavilledieu (AOVDQS)
+p2625
+aVEntraygues-et-du-fel
+p2626
+aVCoteaux-de-coiffy
+p2627
+aVPenedès (DO)
+p2628
+aVOrléans-cléry
+p2629
+aVThézac-perricard
+p2630
+aVGrignan-les-adhémar
+p2631
+aVRed Hills Lake County (AVA)
+p2632
+aVCoteaux-de-l'aubance
+p2633
+aVCoteaux-du-languedoc
+p2634
+aVPriorat (DOC)
+p2635
+aVNuits-saint-georges (AOC)
+p2636
+aVAnjou villages brissac
+p2637
+aVAlpes-maritimes (IGP)
+p2638
+aVMusigny (AOC)
+p2639
+aVLuberon (AOC)
+p2640
+aVLadoix
+p2641
+aVCôtes-de-bordeaux-saint-macaire
+p2642
+aVSaint-estèphe (AOC)
+p2643
+aVKessler (grand cru)
+p2644
+aVClairette du Languedoc
+p2645
+aVSainte-croix-du-mont (AOC)
+p2646
+aVRosé de Loire
+p2647
+aVBourgogne coulanges-la-vineuse
+p2648
+aVVignoble de Bergerac
+p2649
+aVCorbières (AOC)
+p2650
+aVCoteaux-du-giennois
+p2651
+aVSomontano (DO)
+p2652
+aVMontagnieu (AOC)
+p2653
+aVBlanquette de Limoux
+p2654
+aVSaint-véran (AOC)
+p2655
+aVPérigord (IGP)
+p2656
+aVPremières-côtes-de-bordeaux
+p2657
+aVGrès-de-montpellier
+p2658
+aVMinho (VR)
+p2659
+aVIrancy (AOC)
+p2660
+aVChassagne-montrachet (AOC)
+p2661
+aVBourgogne montrecul
+p2662
+aVFaugères (AOC)
+p2663
+aVMuscadet (AOC)
+p2664
+aVSaint-aubin (AOC)
+p2665
+aVBordeaux-côtes-de-francs
+p2666
+aVChambertin
+p2667
+aVSaint-émilion grand cru
+p2668
+aVCôtes-de-castillon
+p2669
+aVEstaing (AOC)
+p2670
+aVGoldert
+p2671
+aVCoteaux-et-terrasses-de-montauban
+p2672
+aVSaint-émilion (AOC)
+p2673
+aVHengst
+p2674
+aVVacqueyras (AOC)
+p2675
+aVColumbia Valley (AVA)
+p2676
+aVCoteaux-flaviens
+p2677
+aVBandol (AOC)
+p2678
+aVPézenas (AOC)
+p2679
+aVCrémant de Die
+p2680
+aVVignoble du Beaujolais
+p2681
+aVCôte-de-nuits-villages
+p2682
+aVSaint-gervais (Côtes-du-rhône villages)
+p2683
+aVRivesaltes (VDN)
+p2684
+aVPfersigberg
+p2685
+aVVignoble du Sud-Ouest
+p2686
+aVBourgogne-vézelay
+p2687
+aVPlan-de-dieu (Côtes-du-rhône villages)
+p2688
+aVPicpoul de Pinet
+p2689
+aVCoteaux-du-vendômois
+p2690
+aVCariñena (DO)
+p2691
+aVPatrimonio (AOC)
+p2692
+aVPorto-vecchio (AOC)
+p2693
+aVTerrasses-du-larzac
+p2694
+aVVorbourg
+p2695
+aVCôtes-de-thongue
+p2696
+aVTemecula Valley
+p2697
+aVOllwiller
+p2698
+aVVignoble de la vallée de la Loire
+p2699
+aVMuscat de Rivesaltes
+p2700
+aVCoteaux-de-miramont
+p2701
+aVClos des lambrays
+p2702
+aVBeaujolais-villages
+p2703
+aVMálaga (DO)
+p2704
+aVArbois (AOC)
+p2705
+aVRoussette de Monterminod
+p2706
+aVCoteaux-de-saumur
+p2707
+aVCassis (AOC)
+p2708
+aVCôtes-de-bourg
+p2709
+aVBalatonfüred-Csopak
+p2710
+aVPriorat (DO)
+p2711
+aVBourgogne (AOC)
+p2712
+aVDézaley
+p2713
+aVFronton (AOC)
+p2714
+aVTxakoli (DO)
+p2715
+aVClairette de Die
+p2716
+aVCôtes-de-toul (AOC)
+p2717
+aVVin de Domme
+p2718
+aVCorbières-boutenac
+p2719
+aVBalatonboglár (vignoble)
+p2720
+aVBruderthal
+p2721
+aVBouches-du-rhône (IGP)
+p2722
+aVChignin (AOC)
+p2723
+aVAude (IGP)
+p2724
+aVRoussette du Bugey
+p2725
+aVLussac-saint-émilion
+p2726
+aVVin de Savoie
+p2727
+aVAloxe-corton (AOC)
+p2728
+aVMalepère (AOC)
+p2729
+aVBeaujolais (AOC)
+p2730
+aVCoteaux-du-loir
+p2731
+aVWineck-schlossberg
+p2732
+aVCoteaux-varois-en-provence
+p2733
+aVBeaujolais nouveau
+p2734
+aVMuscat de Lunel
+p2735
+aVBonnes-mares
+p2736
+aVGaillac (AOC)
+p2737
+aVSanta Cruz Mountains (AVA)
+p2738
+aVMuscat de Mireval
+p2739
+aVCanon-fronsac
+p2740
+aVVignoble de Corse
+p2741
+aVMédoc (AOC)
+p2742
+aVVignoble du Languedoc-Roussillon
+p2743
+aVSommerberg
+p2744
+aVGraves-de-vayres
+p2745
+aVKirchberg-de-ribeauvillé
+p2746
+aVMadère (DOC)
+p2747
+aVLalande-de-pomerol (AOC)
+p2748
+aVQuarts-de-chaume
+p2749
+aVAuxey-duresses (AOC)
+p2750
+aVAnjou (AOC)
+p2751
+aVChablis grand cru
+p2752
+aVMoselle (AOC)
+p2753
+aVPetit-chablis
+p2754
+aVPécharmant
+p2755
+aVGaillac-premières-côtes
+p2756
+aVAlsace (AOC)
+p2757
+aVMontravel (AOC)
+p2758
+aVBourgogne mousseux
+p2759
+aVPierrevert (AOC)
+p2760
+aVMuscat du Cap-Corse
+p2761
+aVBourgueil (AOC)
+p2762
+aVPraelatenberg
+p2763
+aVHermitage (AOC)
+p2764
+aVFurstentum
+p2765
+aVVolnay (AOC)
+p2766
+aVVignoble de Bordeaux
+p2767
+aVPommard (AOC)
+p2768
+aVGeisberg (grand cru)
+p2769
+aVBéarn (AOC)
+p2770
+aVSaint-drézéry (AOC)
+p2771
+aVPays-d'hérault
+p2772
+aVLa-clape
+p2773
+aVCôte-de-beaune
+p2774
+aVCôtes-du-marmandais
+p2775
+aVFixin (AOC)
+p2776
+aVLanguedoc (AOC)
+p2777
+aVCoteaux-champenois
+p2778
+aVSchoenenbourg (grand cru)
+p2779
+aVSaussignac (AOC)
+p2780
+aVÁszár-Neszmély
+p2781
+aVVignoble de Chablis
+p2782
+aVVignoble de Champagne
+p2783
+aVMoulin-à-vent (AOC)
+p2784
+aVSignargues (Côtes-du-rhône villages)
+p2785
+aVBâtard-montrachet
+p2786
+aVMontagny (AOC)
+p2787
+aVZotzenberg
+p2788
+aVCoteaux-des-baronnies
+p2789
+aVOrléans (AOC)
+p2790
+aVGard (IGP)
+p2791
+aVMargaux (AOC)
+p2792
+aVJasnières
+p2793
+aVMinervois (AOC)
+p2794
+aVMenetou-salon (AOC)
+p2795
+aVBrand (grand cru)
+p2796
+aVCadillac (AOC)
+p2797
+aVPacherenc-du-vic-bilh
+p2798
+aVSéguret (Côtes-du-rhône villages)
+p2799
+aVCharmes-chambertin
+p2800
+aVCollines-rhodaniennes
+p2801
+aVJurançon (AOC)
+p2802
+aVGraves-supérieures
+p2803
+aVViré-clessé
+p2804
+aVRutherford (AVA)
+p2805
+aVEngelberg (grand cru)
+p2806
+aVPomerol (AOC)
+p2807
+aVBourgogne côte-chalonnaise
+p2808
+aVChâteau-chalon (AOC)
+p2809
+aVClos-de-tart
+p2810
+aVCité-de-carcassonne (IGP)
+p2811
+aVBourgogne-la-chapelle-notre-dame
+p2812
+aVSauternes (AOC)
+p2813
+aVCôtes-de-bordeaux
+p2814
+aVAnjou villages
+p2815
+aVCoteaux-du-layon
+p2816
+aVCôtes-du-forez
+p2817
+aVBourgogne aligoté
+p2818
+aVArmagnac (eau-de-vie)
+p2819
+aVCour-cheverny (AOC)
+p2820
+aVMaury (VDN)
+p2821
+aVVignoble d'Alsace
+p2822
+aVPouilly-fumé
+p2823
+aVSaint-georges-saint-émilion (AOC)
+p2824
+aVBuzet (AOC)
+p2825
+aVCoteaux-du-cap-corse
+p2826
+aVMarsannay (AOC)
+p2827
+aVManicle (AOC)
+p2828
+aVMuscadet-coteaux-de-la-loire
+p2829
+aVVentoux (AOC)
+p2830
+aVCrozes-hermitage (AOC)
+p2831
+aVBeaumes-de-venise (AOC)
+p2832
+aVCôtes-de-blaye
+p2833
+aVLa romanée
+p2834
+aVMuenchberg
+p2835
+aVViticulture en Grèce
+p2836
+aVVaucluse (IGP)
+p2837
+aVHautes-alpes (IGP)
+p2838
+aVVignoble du Médoc
+p2839
+aVCoteaux-du-lyonnais
+p2840
+aVCorton
+p2841
+aVClos-vougeot
+p2842
+aVRuchottes-chambertin
+p2843
+aVCriots-bâtard-montrachet
+p2844
+aVPouilly-loché
+p2845
+aVChambertin-clos-de-bèze
+p2846
+aVSaumur-champigny
+p2847
+aVEmpordà (DO)
+p2848
+aVSartène (AOC)
+p2849
+aVFine du Jura
+p2850
+aVChambolle-musigny (AOC)
+p2851
+aVQuatourze
+p2852
+aVCharlemagne (AOC)
+p2853
+aVSaumur brut
+p2854
+aVSpiegel (grand cru)
+p2855
+aVSablet (Côtes-du-rhône villages)
+p2856
+aVPuyméras (Côtes-du-rhône villages)
+p2857
+aVAltenberg-de-bergbieten
+p2858
+aVVar (IGP)
+p2859
+aVGigondas (AOC)
+p2860
+aVBourgogne chitry
+p2861
+aVSeyssel (AOC)
+p2862
+aVPuisseguin-saint-émilion
+p2863
+aVWinzenberg
+p2864
+aVCoteaux-de-cabrerisse
+p2865
+aVValençay (AOC)
+p2866
+aVMonthélie (AOC)
+p2867
+aVAnjou-coteaux-de-la-loire
+p2868
+aVCabardès (AOC)
+p2869
+aVMuscat d'Alsace
+p2870
+aVViticulture au Portugal
+p2871
+aVGivry (AOC)
+p2872
+aVMontlouis-sur-loire (AOC)
+p2873
+aVVin de Corse (AOC)
+p2874
+aVTerroirs-landais
+p2875
+aVRosacker
+p2876
+aVRouge d'Ottrott
+p2877
+aVBourgogne hautes-côtes-de-nuits
+p2878
+aVMazoyères-chambertin
+p2879
+aVKastelberg (grand cru)
+p2880
+aVBourgogne le chapitre
+p2881
+aVRoussette de Savoie
+p2882
+aVBergerac (AOC)
+p2883
+aVChiroubles (AOC)
+p2884
+aVVougeot (AOC)
+p2885
+aVCôtes-de-provence
+p2886
+aVVin jaune
+p2887
+aVAgenais (IGP)
+p2888
+aVCoteaux-d'ancenis
+p2889
+aVNapa Valley
+p2890
+aVPrincipauté-d'orange (IGP)
+p2891
+aVBükk (vignoble)
+p2892
+aVUrfé (IGP)
+p2893
+aVCilaos (IGP)
+p2894
+aVHaut-poitou (AOVDQS)
+p2895
+aVMontagne-saint-émilion
+p2896
+aVCsongrád (vignoble)
+p2897
+aVMuscadet-côtes-de-grandlieu
+p2898
+aVPinot-gris d'Alsace
+p2899
+aVGloeckelberg
+p2900
+aVBourgogne passe-tout-grains
+p2901
+aVRiesling d'Alsace
+p2902
+aVVignoble du Libournais
+p2903
+aVRoaix (Côtes-du-rhône villages)
+p2904
+aVCahors (AOC)
+p2905
+aVPorto (DOC)
+p2906
+aVKunság (vignoble)
+p2907
+aVMadiran (AOC)
+p2908
+aVChâtillon-en-diois (AOC)
+p2909
+aVPernand-vergelesses (AOC)
+p2910
+aVCôte-rôtie (AOC)
+p2911
+aVSaint-maurice-sur-eygues (Côtes-du-rhône villages)
+p2912
+aVClos-saint-denis
+p2913
+aVClairette de Bellegarde
+p2914
+aVCoteaux-du-quercy
+p2915
+aVBigorre (IGP)
+p2916
+aVEichberg (grand cru)
+p2917
+aVMarcillac (AOC)
+p2918
+aVVignoble de Bourgogne
+p2919
+aVVignoble du Valais
+p2920
+aVRichebourg (AOC)
+p2921
+aVRosé des Riceys
+p2922
+aVPouilly-vinzelles
+p2923
+aVZinnkoepflé
+p2924
+aVCôtes-du-roussillon
+p2925
+aVHaut-montravel
+p2926
+aVPinot d'Alsace
+p2927
+aVMercurey (AOC)
+p2928
+aVBlagny (AOC)
+p2929
+aVTokay
+p2930
+aVLaudun (Côtes-du-rhône villages)
+p2931
+aVMontrachet (AOC)
+p2932
+aVChablis (AOC)
+p2933
+aVSavennières (AOC)
+p2934
+aVBellet (AOC)
+p2935
+aVÉchezeaux
+p2936
+aVCoteaux-de-die
+p2937
+aVPfingstberg
+p2938
+aVRueda (DO)
+p2939
+aVCollioure (AOC)
+p2940
+aVVin du Thouarsais
+p2941
+aVLatricières-chambertin
+p2942
+aVMuscat de Saint-Jean-de-Minervois
+p2943
+aVMacvin du Jura
+p2944
+aVRomanée-conti
+p2945
+aVTerrasses-de-béziers
+p2946
+aVVinsobres (AOC)
+p2947
+aVMuscadet-sèvre-et-maine
+p2948
+aVPauillac (AOC)
+p2949
+aVCalatayud (DO)
+p2950
+aVOsterberg (grand cru)
+p2951
+aVChénas (AOC)
+p2952
+aVColumbia Gorge (AVA)
+p2953
+aVVignoble de l'Entre-deux-Mers
+p2954
+aVGalluccio (vin)
+p2955
+aVCostières-de-nîmes
+p2956
+aVGraves (AOC)
+p2957
+aVRousset-les-vignes (Côtes-du-rhône villages)
+p2958
+aVSaint-amour (AOC)
+p2959
+aVLa Côte (Vaud)
+p2960
+aVHaut-médoc
+p2961
+aVGrands-échezeaux
+p2962
+aVBourgogne-côtes-du-couchois
+p2963
+aVAlpes-de-haute-provence (IGP)
+p2964
+aVVouvray (AOC)
+p2965
+aVCôtes-du-roussillon villages
+p2966
+aVPuligny-montrachet (AOC)
+p2967
+aVCornas (AOC)
+p2968
+aVMoulis-en-médoc (AOC)
+p2969
+aVBadacsony (vignoble)
+p2970
+atRp2971
+sS'r\xc3\xa9gionM\xc3\xa8re'
+p2972
+g3
+((lp2973
+Vhttp://fr.dbpedia.org/resource/Vignoble_du_Beaujolais
+p2974
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Sud-Ouest
+p2975
+aVvignoble de Champagne
+p2976
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Lorraine
+p2977
+aVLanguedoc-Roussillon
+p2978
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_vallée_du_Haut_Douro
+p2979
+aVvignoble du Beaujolais
+p2980
+aVhttp://fr.dbpedia.org/resource/Plateau_suisse
+p2981
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_vallée_du_rhône
+p2982
+aVCastille-et-Léon
+p2983
+aVhttp://fr.dbpedia.org/resource/Campanie
+p2984
+aVhttp://fr.dbpedia.org/resource/Viticulture_dans_le_canton_de_Vaud
+p2985
+aVvignoble de Corse20px
+p2986
+aVAtlas
+p2987
+aVValais
+p2988
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Catalogne
+p2989
+aVVignoble d'Andalousie
+p2990
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Languedoc-Roussillon
+p2991
+aVhttp://fr.dbpedia.org/resource/Bourgogne
+p2992
+aV20
+p2993
+aVhttp://fr.dbpedia.org/resource/North_Coast_(AVA)
+p2994
+aVhttp://fr.dbpedia.org/resource/Catalogne
+p2995
+aVAragon
+p2996
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Bourgogne
+p2997
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_vallée_du_Rhône
+p2998
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Transdanubie_septentrionale
+p2999
+aVvignoble de Savoie
+p3000
+aVhttp://fr.dbpedia.org/resource/Communauté_autonome_de_Catalogne
+p3001
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Balaton
+p3002
+aVvignoble du Bugey
+p3003
+aVhttp://fr.dbpedia.org/resource/Vignoble_d'Eger
+p3004
+aVhttp://fr.dbpedia.org/resource/Alsace
+p3005
+aVÎle de la Réunion
+p3006
+aVCatalogne
+p3007
+aVhttp://fr.dbpedia.org/resource/Vignoble_d'Alsace
+p3008
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Champagne
+p3009
+aVVignoble de l'Andalousie
+p3010
+aVhttp://fr.dbpedia.org/resource/Central_Coast_(AVA)
+p3011
+aVvignoble de Provence
+p3012
+aVhttp://fr.dbpedia.org/resource/Napa_Valley_(AVA)
+p3013
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Bordeaux
+p3014
+aVvignobles de Savoie et du Bugey
+p3015
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_l'Alföld
+p3016
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Bugey
+p3017
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_la_vallée_de_la_Loire
+p3018
+aVhttp://fr.dbpedia.org/resource/Clear_Lake_(AVA)
+p3019
+aVvignoble des Charentes
+p3020
+aVAndalousie
+p3021
+aVvignoble du Sud-Ouest
+p3022
+aVhttp://fr.dbpedia.org/resource/South_Coast_(AVA)
+p3023
+aVhttp://fr.dbpedia.org/resource/Lombardie
+p3024
+aVPays de la Loire, Centre, Auvergne et Rhône-Alpes
+p3025
+aV15
+p3026
+aVLanguedoc-Roussillon et vallée du Rhône
+p3027
+aVVins de la Hesse rhénane
+p3028
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Castille_et_León
+p3029
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Provence
+p3030
+aVhttp://fr.dbpedia.org/resource/Chablais
+p3031
+aVhttp://fr.dbpedia.org/resource/Vignobles_du_Pays_basque
+p3032
+aVhttp://fr.dbpedia.org/resource/Minho_(province_historique)
+p3033
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Transdanubie_méridionale
+p3034
+aVhttp://fr.dbpedia.org/resource/Vignoble_de_Savoie
+p3035
+aVVignoble de Catalogne
+p3036
+aVhttp://fr.dbpedia.org/resource/Vignoble_du_Jura
+p3037
+atRp3038
+sS'vins'
+p3039
+g3
+((lp3040
+Vhttp://fr.dbpedia.org/resource/Vin_jaune
+p3041
+aVegri bikavér, egri leányka, debr\u0151i hárslevel\u0171
+p3042
+aVhttp://fr.dbpedia.org/resource/Vin_mousseux
+p3043
+aVmousseux 90 % blancs et 10 % rosés
+p3044
+aVmousseux blancs ou rosés
+p3045
+aVmousseux et pétillants, vins blancs, vins rouges et rosés
+p3046
+aVblancs, jaunes et de paille
+p3047
+aVrouge
+p3048
+aVrouges, gris, blancs et mousseux
+p3049
+aVmousseux, rouges, rosés et blancs
+p3050
+aVvins doux naturels blancs et rouges
+p3051
+aVrouge, blanc et rosé
+p3052
+aVrouge, rosé et blanc
+p3053
+aVrouges, blancs et moelleux
+p3054
+aVrouges, rosés, blancs et mousseux
+p3055
+aVtranquilles rouge et blanc, mousseux
+p3056
+aVrouges, rosés, blancs, vins doux naturels, vins de liqueur et mousseux
+p3057
+aVvins doux naturels rouges, rosés et blancs
+p3058
+aVPorto vintage
+p3059
+aVvin de liqueur et VDN blancs
+p3060
+aVmousseux ou pétillants, rouges et blancs
+p3061
+aVhttp://fr.dbpedia.org/resource/Mono-cépage
+p3062
+aVrouges, blancs et vins de paille
+p3063
+aV59
+p3064
+aV58
+p3065
+aVPorto Tawny avec indication d'âge
+p3066
+aVrouges et blanc
+p3067
+aVrouges, rosés, blancs, mousseux et liquoreux
+p3068
+aVblancs, pétillants et mousseux
+p3069
+aV51
+p3070
+aV55
+p3071
+aVrouge, rosé, blanc, muscat , résinés, momensavia
+p3072
+aVVin rouge
+p3073
+aVblanc, rosé ou rouge
+p3074
+aVeffervescents blancs et rosés
+p3075
+aVrouge , blanc  et rosé
+p3076
+aVrouges, blancs et liquoreux
+p3077
+aVhttp://fr.dbpedia.org/resource/Vin_rosé
+p3078
+aV985
+p3079
+aVValtellina rosso, rosato et bianco
+p3080
+aV89
+p3081
+aVPorto Tawny
+p3082
+aV82
+p3083
+aV83
+p3084
+aV80
+p3085
+aV81
+p3086
+aV86
+p3087
+aV87
+p3088
+aV85
+p3089
+aVRouges, Blancs
+p3090
+aVPorto Ruby
+p3091
+aVblancs et moelleux
+p3092
+aV3
+aVrouge, rosé, blanc, muscat, mousseux
+p3093
+aVblanc
+p3094
+aVblancs, mousseux, rouges et rosés
+p3095
+aVjaunes
+p3096
+aVvins blancs, vins rouges et effervescents
+p3097
+aVrouges, rosés, blancs, moelleux, liquoreux ou mousseux
+p3098
+aVVin Blanc
+p3099
+aVrosé, rosé mousseux, rosé primeur ou nouveau, rosé sur lie
+p3100
+aVhttp://fr.dbpedia.org/resource/Vin_doux_naturel
+p3101
+aVrouges, blancs, rosés
+p3102
+aVrouges et blancs
+p3103
+aVblancs et rouges
+p3104
+aV100
+p3105
+aVrouges et rosés
+p3106
+aVeaux-de-vie de vin vieillies ou blanches
+p3107
+aVvins doux naturels blancs, rosés et rouges
+p3108
+aVVin blanc
+p3109
+aV31
+p3110
+aVrosés et rouges
+p3111
+aVvins doux naturels blancs
+p3112
+aVRouge, rosé et blanc
+p3113
+aVmousseux blancs
+p3114
+aVrouges, blancs, moelleux et liquoreux
+p3115
+aVhttp://fr.dbpedia.org/resource/Vin_effervescent
+p3116
+aVrouges ou rosés
+p3117
+aVVin rosé
+p3118
+aVhttp://fr.dbpedia.org/resource/Vin_liquoreux
+p3119
+aVrouge, rouge mousseux et rouge primeur ou nouveau
+p3120
+aV60
+p3121
+aV64
+p3122
+aV65
+p3123
+aVrouge, blanc, mousseux, brandy
+p3124
+aVhttp://fr.dbpedia.org/resource/Vin_moelleux
+p3125
+aV975
+p3126
+aVVin gris
+p3127
+aVblancs et mousseux
+p3128
+aVrouges, quelques blancs, des liquoreux et des mousseux
+p3129
+aVBadacsonyi Szürkebarát
+p3130
+aVRouges, Blancs, Rosés
+p3131
+aVvins de liqueur  blancs et rosés
+p3132
+aVhttp://fr.dbpedia.org/resource/Vin_rouge
+p3133
+aVgris, gris de gris, gris de gris primeur ou nouveau, gris de gris sur lie, gris primeur ou nouveau, gris sur lie
+p3134
+aV2
+aVmono-cépages, assemblages
+p3135
+aVgris, blancs et rouges
+p3136
+aVblancs, moelleux et liquoreux
+p3137
+aVrouges , rosés , blancs
+p3138
+aVhttp://fr.dbpedia.org/resource/Meritage
+p3139
+aVvin mousseux 85 % blancs et 15 % rosés
+p3140
+aV99
+p3141
+aV98
+p3142
+aV91
+p3143
+aV90
+p3144
+aV92
+p3145
+aV95
+p3146
+aV94
+p3147
+aV97
+p3148
+aV96
+p3149
+aVblanc tranquille, blanc mousseux, blanc primeur ou nouveau, blanc sur lie,
+p3150
+aVrouges, quelques rosés et blancs
+p3151
+aVrouges, gris et blancs
+p3152
+aVblancs sec
+p3153
+aVrouge et rosé
+p3154
+aV605
+p3155
+aV30
+p3156
+aVblancs, rosés et rouges
+p3157
+aVvin blanc
+p3158
+aVvins doux naturels blancs , ambrés et rouges
+p3159
+aVrosés et blancs
+p3160
+aVvins doux naturels rouges ou blancs
+p3161
+aVblancs secs
+p3162
+aVblancs, moelleux ou liquoreux
+p3163
+aVCserszegi f\u0171szeres
+p3164
+aVrouges, rosés, blancs, moelleux et liquoreux
+p3165
+aVrouges, rosés, blancs, mousseux et vins doux naturels
+p3166
+aVblancs, rouges, jaunes et de paille
+p3167
+aVrouges, blancs et rosés
+p3168
+aVhttp://fr.dbpedia.org/resource/Vin_blanc
+p3169
+aVGalluccio bianco, rosso et rosato
+p3170
+aV47
+p3171
+aV42
+p3172
+aV40
+p3173
+aVblancs et vin de liqueur
+p3174
+aVeffervescents rouges
+p3175
+aVrouges,blancs, vins mousseux rouge et rosé
+p3176
+aVhttp://fr.dbpedia.org/resource/Vin_muté
+p3177
+aVetyeki chardonnay, telki királyleányka, etyeki muskotály, etyeki olaszrizling, etyeki rajnai rizling, budai sauvignon blanc
+p3178
+aVrouges et vins doux naturels
+p3179
+aV76
+p3180
+aV75
+p3181
+aVrouges, rosés et blancs
+p3182
+aV70
+p3183
+aVrouges, rosés, blancs et vins doux naturels
+p3184
+aVvin de liqueur blanc, rosé ou rouge
+p3185
+aVVins rouge, rosé et blanc
+p3186
+aV49
+p3187
+aVezerjó
+p3188
+aVPorto blanc
+p3189
+aVhttp://fr.dbpedia.org/resource/Dôle_(vin)
+p3190
+atRp3191
+sS'rendement'
+p3192
+g3
+((lp3193
+V18000.0
+p3194
+aV162000.0
+p3195
+aV187200.0
+p3196
+aV45
+p3197
+aV244800.0
+p3198
+aV154800.0
+p3199
+aV190800.0
+p3200
+aV226800.0
+p3201
+aV198000.0
+p3202
+aV54000.0
+p3203
+aV432000.0
+p3204
+aV237600.0
+p3205
+aV100800.0
+p3206
+aV262800.0
+p3207
+aV1206000.0
+p3208
+aV208800.0
+p3209
+aVmaximum 50 à  par hectare
+p3210
+aV180000.0
+p3211
+aV90000.0
+p3212
+aV234000.0
+p3213
+aV,
+aV40
+p3214
+aV230400.0
+p3215
+aV275609.0
+p3216
+aV43200.0
+p3217
+aV324000.0
+p3218
+aV273600.0
+p3219
+aV72000.0
+p3220
+aV10400
+p3221
+aV205200.0
+p3222
+aV255600.0
+p3223
+aV277200.0
+p3224
+aV108000.0
+p3225
+aV360000.0
+p3226
+aV176400.0
+p3227
+aVmaximum 10400 à  de raisins à l'hectare, soit 65 à  par hectare
+p3228
+aVvariant selon l'appellation
+p3229
+aV306000.0
+p3230
+aVmaximum 57 à  par hectare
+p3231
+aV270000.0
+p3232
+aV172800.0
+p3233
+aVvariant selon les appellations
+p3234
+aVde 58 à 68 pour les premiers crus
+p3235
+aV144000.0
+p3236
+aVvariant selon les appellations,
+p3237
+aV194400.0
+p3238
+aV223200.0
+p3239
+aV288000.0
+p3240
+aV151200.0
+p3241
+aV216000.0
+p3242
+aV219600.0
+p3243
+aV60
+p3244
+aV147600.0
+p3245
+aV248400.0
+p3246
+aV252000.0
+p3247
+aV55
+p3248
+aV126000.0
+p3249
+aV165600.0
+p3250
+aVvariable selon l'appellation
+p3251
+aV280800.0
+p3252
+aV50
+p3253
+aVmaximum variant selon les appellations, de  par hectare  à  par hectare
+p3254
+aV259200.0
+p3255
+aV241200.0
+p3256
+aV345600.0
+p3257
+aV316800.0
+p3258
+aVmaximum variant selon l'appellation
+p3259
+aV450000.0
+p3260
+aV201600.0
+p3261
+aV158400.0
+p3262
+aVmaximum variant selon les appellations
+p3263
+atRp3264
+sS'subject'
+p3265
+g3
+((lp3266
+Vhttp://fr.dbpedia.org/resource/Catégorie:Histoire_de_l'Archevêché_de_Strasbourg
+p3267
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_espagnole
+p3268
+aVhttp://fr.dbpedia.org/resource/Catégorie:Territoire_riverain_du_lac_Léman
+p3269
+aVhttp://fr.dbpedia.org/resource/Catégorie:Région_viticole_américaine_(AVA)
+p3270
+aVhttp://fr.dbpedia.org/resource/Catégorie:Boisson_vendéenne
+p3271
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_la_vallée_du_Rhône
+p3272
+aVhttp://fr.dbpedia.org/resource/Catégorie:Limoux
+p3273
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Slovaquie
+p3274
+aVhttp://fr.dbpedia.org/resource/Catégorie:Épernay
+p3275
+aVhttp://fr.dbpedia.org/resource/Catégorie:Tourisme_dans_l'Aube
+p3276
+aVhttp://fr.dbpedia.org/resource/Catégorie:Province_de_Málaga
+p3277
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_franc-comtoise
+p3278
+aVhttp://fr.dbpedia.org/resource/Catégorie:Forez
+p3279
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_de_la_Drôme_provençale
+p3280
+aVhttp://fr.dbpedia.org/resource/Catégorie:Géographie_du_canton_de_Vaud
+p3281
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_des_Côtes_du_Rhône
+p3282
+aVhttp://fr.dbpedia.org/resource/Catégorie:Cépage_blanc
+p3283
+aVhttp://fr.dbpedia.org/resource/Catégorie:Jerez_de_la_Frontera
+p3284
+aVhttp://fr.dbpedia.org/resource/Catégorie:Madère
+p3285
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Corse
+p3286
+aVhttp://fr.dbpedia.org/resource/Catégorie:Cerdon_(Ain)
+p3287
+aVhttp://fr.dbpedia.org/resource/Catégorie:Pessac
+p3288
+aVhttp://fr.dbpedia.org/resource/Catégorie:Province_de_Cadix
+p3289
+aVhttp://fr.dbpedia.org/resource/Catégorie:Paysage,_site_ou_monument_naturel_d'importance_nationale
+p3290
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_drômoise
+p3291
+aVhttp://fr.dbpedia.org/resource/Catégorie:Alpes-de-Haute-Provence
+p3292
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Bugey
+p3293
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_aveyronnaise
+p3294
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Bordeaux
+p3295
+aVhttp://fr.dbpedia.org/resource/Catégorie:Chitry
+p3296
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_la_vallée_de_la_Loire
+p3297
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_de_l'Allier
+p3298
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Vaucluse
+p3299
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_du_Loiret
+p3300
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_du_Toulois
+p3301
+aVhttp://fr.dbpedia.org/resource/Catégorie:Maury_(Pyrénées-Orientales)
+p3302
+aVhttp://fr.dbpedia.org/resource/Catégorie:Culture_du_massif_du_Jura
+p3303
+aVhttp://fr.dbpedia.org/resource/Catégorie:Pézenas
+p3304
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_ardéchoise
+p3305
+aVhttp://fr.dbpedia.org/resource/Catégorie:Loire_(département)
+p3306
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_en_Rhône-Alpes
+p3307
+aVhttp://fr.dbpedia.org/resource/Catégorie:Territoire_d'Émilie-Romagne
+p3308
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_d'Allemagne
+p3309
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gard
+p3310
+aVhttp://fr.dbpedia.org/resource/Catégorie:Appellation_d'origine_contrôlée
+p3311
+aVhttp://fr.dbpedia.org/resource/Catégorie:Dénomination_du_vignoble_du_Bugey
+p3312
+aVhttp://fr.dbpedia.org/resource/Catégorie:Indre-et-Loire
+p3313
+aVhttp://fr.dbpedia.org/resource/Catégorie:Boisson_angevine
+p3314
+aVhttp://fr.dbpedia.org/resource/Catégorie:Beaune
+p3315
+aVhttp://fr.dbpedia.org/resource/Catégorie:Culture_valaisanne
+p3316
+aVhttp://fr.dbpedia.org/resource/Catégorie:Lot-et-Garonne
+p3317
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_Santa_Cruz_(Californie)
+p3318
+aVhttp://fr.dbpedia.org/resource/Catégorie:Blaye
+p3319
+aVhttp://fr.dbpedia.org/resource/Catégorie:Bergerac
+p3320
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Médoc
+p3321
+aVhttp://fr.dbpedia.org/resource/Catégorie:Banyuls-sur-Mer
+p3322
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_Riverside
+p3323
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_du_massif_du_Jura
+p3324
+aVhttp://fr.dbpedia.org/resource/Catégorie:Agriculture_en_Camargue
+p3325
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_charentaise
+p3326
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_des_Landes
+p3327
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Algérie
+p3328
+aVhttp://fr.dbpedia.org/resource/Catégorie:Agriculture_au_Maroc
+p3329
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_espagnol
+p3330
+aVhttp://fr.dbpedia.org/resource/Catégorie:Saumur
+p3331
+aVhttp://fr.dbpedia.org/resource/Catégorie:Hautes-Alpes
+p3332
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_vaudoise
+p3333
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_lorraine
+p3334
+aVhttp://fr.dbpedia.org/resource/Catégorie:Liste_indicative_du_patrimoine_mondial_en_France
+p3335
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_portugais
+p3336
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Suisse
+p3337
+aVhttp://fr.dbpedia.org/resource/Catégorie:Cilaos
+p3338
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Saint-Émilion
+p3339
+aVhttp://fr.dbpedia.org/resource/Catégorie:Crémant
+p3340
+aVhttp://fr.dbpedia.org/resource/Catégorie:Tonnerre_(Yonne)
+p3341
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_portugais
+p3342
+aVhttp://fr.dbpedia.org/resource/Catégorie:Alpilles
+p3343
+aVhttp://fr.dbpedia.org/resource/Catégorie:Puy-de-Dôme
+p3344
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_en_Aquitaine
+p3345
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_de_l'Arménie
+p3346
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_Napa
+p3347
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_de_la_Grèce
+p3348
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Bas-Rhin
+p3349
+aVhttp://fr.dbpedia.org/resource/Catégorie:Dordogne
+p3350
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_par_pays
+p3351
+aVhttp://fr.dbpedia.org/resource/Catégorie:Jurançon
+p3352
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_de_pays
+p3353
+aVhttp://fr.dbpedia.org/resource/Catégorie:Sarthe
+p3354
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_des_Hautes-Pyrénées
+p3355
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Grèce
+p3356
+aVhttp://fr.dbpedia.org/resource/Catégorie:Chablais
+p3357
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_primeur
+p3358
+aVhttp://fr.dbpedia.org/resource/Catégorie:Région_naturelle_de_France
+p3359
+aVhttp://fr.dbpedia.org/resource/Catégorie:Tourisme_dans_l'Aisne
+p3360
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_du_Puy-de-Dôme
+p3361
+aVhttp://fr.dbpedia.org/resource/Catégorie:Appellation_du_vignoble_du_Bugey
+p3362
+aVhttp://fr.dbpedia.org/resource/Catégorie:Touraine
+p3363
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gers
+p3364
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_de_Maine-et-Loire
+p3365
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble
+p3366
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_en_Midi-Pyrénées
+p3367
+aVhttp://fr.dbpedia.org/resource/Catégorie:Les_Baux-de-Provence
+p3368
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_italien
+p3369
+aVhttp://fr.dbpedia.org/resource/Catégorie:Cuisine_savoyarde
+p3370
+aVhttp://fr.dbpedia.org/resource/Catégorie:Brem-sur-Mer
+p3371
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_au_Portugal
+p3372
+aVhttp://fr.dbpedia.org/resource/Catégorie:Tourisme_en_France
+p3373
+aVhttp://fr.dbpedia.org/resource/Catégorie:Région_de_Suisse
+p3374
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_français
+p3375
+aVhttp://fr.dbpedia.org/resource/Catégorie:Indication_géographique_protégée
+p3376
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_mousseux
+p3377
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Rhône-Alpes
+p3378
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Lorraine
+p3379
+aVhttp://fr.dbpedia.org/resource/Catégorie:Cognac_(boisson)
+p3380
+aVhttp://fr.dbpedia.org/resource/Catégorie:Type_de_vin
+p3381
+aVhttp://fr.dbpedia.org/resource/Catégorie:Géographie_du_Lot
+p3382
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_doux
+p3383
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Savoie
+p3384
+aVhttp://fr.dbpedia.org/resource/Catégorie:Chablis_(Yonne)
+p3385
+aVhttp://fr.dbpedia.org/resource/Catégorie:Mistelle
+p3386
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Bourgogne
+p3387
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Hongrie
+p3388
+aVhttp://fr.dbpedia.org/resource/Catégorie:Tourisme_en_Haute-Marne
+p3389
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Espagne
+p3390
+aVhttp://fr.dbpedia.org/resource/Catégorie:Quartier_de_Nice
+p3391
+aVhttp://fr.dbpedia.org/resource/Catégorie:Hérault
+p3392
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Val-de-Loire
+p3393
+aVhttp://fr.dbpedia.org/resource/Catégorie:Guebwiller
+p3394
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_basque
+p3395
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_Sonoma
+p3396
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_hongrois
+p3397
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Beaujolais
+p3398
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_AOC
+p3399
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_français
+p3400
+aVhttp://fr.dbpedia.org/resource/Catégorie:Saint-Émilion
+p3401
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_en_Arménie
+p3402
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_de_la_province_de_Caserte
+p3403
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_Santa_Clara
+p3404
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Sauternes
+p3405
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Sud-Ouest
+p3406
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Provence
+p3407
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_de_la_province_de_Sondrio
+p3408
+aVhttp://fr.dbpedia.org/resource/Catégorie:Mot_gascon
+p3409
+aVhttp://fr.dbpedia.org/resource/Catégorie:Région_viticole
+p3410
+aVhttp://fr.dbpedia.org/resource/Catégorie:Communauté_de_communes_du_canton_de_Rosheim
+p3411
+aVhttp://fr.dbpedia.org/resource/Catégorie:Chalosse
+p3412
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_d'Alsace
+p3413
+aVhttp://fr.dbpedia.org/resource/Catégorie:Viticulture_aux_États-Unis
+p3414
+aVhttp://fr.dbpedia.org/resource/Catégorie:Sancerrois
+p3415
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_andalouse
+p3416
+aVhttp://fr.dbpedia.org/resource/Catégorie:AO.VDQS
+p3417
+aVhttp://fr.dbpedia.org/resource/Catégorie:Bouches-du-Rhône
+p3418
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_de_la_Charente-Maritime
+p3419
+aVhttp://fr.dbpedia.org/resource/Catégorie:Thann
+p3420
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Jura
+p3421
+aVhttp://fr.dbpedia.org/resource/Catégorie:Boisson_bretonne
+p3422
+aVhttp://fr.dbpedia.org/resource/Catégorie:Joigny
+p3423
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_des_Landes
+p3424
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Graves
+p3425
+aVhttp://fr.dbpedia.org/resource/Catégorie:Portugal
+p3426
+aVhttp://fr.dbpedia.org/resource/Catégorie:Bourgogne
+p3427
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_Lake_(Californie)
+p3428
+aVhttp://fr.dbpedia.org/resource/Catégorie:Arbois
+p3429
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_de_la_province_de_Plaisance
+p3430
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gironde
+p3431
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Pomerol
+p3432
+aVhttp://fr.dbpedia.org/resource/Catégorie:Nice
+p3433
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_réunionnaise
+p3434
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_de_Champagne
+p3435
+aVhttp://fr.dbpedia.org/resource/Catégorie:AOC_de_la_Côte-d'Or
+p3436
+aVhttp://fr.dbpedia.org/resource/Catégorie:Jeudi
+p3437
+aVhttp://fr.dbpedia.org/resource/Catégorie:Nièvre
+p3438
+aVhttp://fr.dbpedia.org/resource/Catégorie:Rhône_(département)
+p3439
+aVhttp://fr.dbpedia.org/resource/Catégorie:Armagnac_(eau-de-vie)
+p3440
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vin_de_Catalogne
+p3441
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vaucluse
+p3442
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Languedoc-Roussillon
+p3443
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_morvandelle
+p3444
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_l'Entre-Deux-Mers
+p3445
+aVhttp://fr.dbpedia.org/resource/Catégorie:Agriculture_du_Var
+p3446
+aVhttp://fr.dbpedia.org/resource/Catégorie:Économie_de_la_Haute-Savoie
+p3447
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_des_Pyrénées-Atlantiques
+p3448
+aVhttp://fr.dbpedia.org/resource/Catégorie:Comté_de_San_Mateo
+p3449
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_de_Champagne
+p3450
+aVhttp://fr.dbpedia.org/resource/Catégorie:Agriculture_à_La_Réunion
+p3451
+aVhttp://fr.dbpedia.org/resource/Catégorie:Columbia
+p3452
+aVhttp://fr.dbpedia.org/resource/Catégorie:Gastronomie_castillane
+p3453
+aVhttp://fr.dbpedia.org/resource/Catégorie:Portail:Morvan/Articles_liés
+p3454
+aVhttp://fr.dbpedia.org/resource/Catégorie:Haute-Savoie
+p3455
+aVhttp://fr.dbpedia.org/resource/Catégorie:Vignoble_du_Haut-Rhin
+p3456
+aVhttp://fr.dbpedia.org/resource/Catégorie:Rivesaltes
+p3457
+atRp3458
+s.
