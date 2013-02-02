@@ -58,3 +58,9 @@ java -cp "target/neo4j-console-jar-with-dependencies.jar" org.neo4j.community.co
 
 For instance, you can set <port> to 7475 and <path-to-local-db> to http://localhost
 to access the GUI at http://localhost:7475/.
+
+### Install Python drivers
+
+```
+easy_install py2neo
+```
