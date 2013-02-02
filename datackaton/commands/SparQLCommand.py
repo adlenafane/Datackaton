@@ -9,7 +9,6 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from datackaton.commands.BaseCommand import BaseCommand
 
 from optparse import make_option
-from optparse import OptionParser
 
 import sys
 
