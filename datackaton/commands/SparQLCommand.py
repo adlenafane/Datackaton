@@ -33,20 +33,24 @@ class SparQLCommand(BaseCommand):
     
     def handle(self, *args, **options):
     
-        sparql = SPARQLWrapper("http://dbpedia.org/sparql")
-        sparql.setQuery("""
-            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-            SELECT ?label
-            WHERE { <http://dbpedia.org/resource/Asturias> rdfs:label ?label }
+        sparql = SPARQLWrapper("http://fr.dbpedia.org/sparql")
+        sparql.setQuery(u"""
+            PREFIX dbo: <http://dbpedia.org/ontology/> 
+            PREFIX res: <http://dbpedia.org/resource/> 
+            PREFIX dbp: <http://fr.dbpedia.org/property/> 
+            SELECT ?appelation ?cepages
+            WHERE { 
+            { 
+                ?appelation prop-fr:wikiPageUsesTemplate <http://fr.dbpedia.org/resource/Modèle:Infobox_Région_viticole> .
+                ?appelation prop-fr:cépages ?cepages
+            } 
+            }
         """)
         sparql.setReturnFormat(JSON)
+        
         results = sparql.query().convert()
-
         for result in results["results"]["bindings"]:
-            try:
-                print(result["label"]["value"])
-            except:
-                pass
+            print(result["appelation"]["value"], result["cepages"]["value"])
     
     
     
