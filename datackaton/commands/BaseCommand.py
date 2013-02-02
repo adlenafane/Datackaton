@@ -31,4 +31,5 @@ class BaseCommand(object):
 
     def execute(self, *args, **options):
         self.handle(*args, **options)
+        self.handleRegionmereSousregionAppelation(*args, **options)
 

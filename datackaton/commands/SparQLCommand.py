@@ -52,7 +52,28 @@ class SparQLCommand(BaseCommand):
         for result in results["results"]["bindings"]:
             print(result["appelation"]["value"], result["cepages"]["value"])
     
+    def handleRegionmereSousregionAppelation(self, *args, **options):
     
+        sparql = SPARQLWrapper("http://fr.dbpedia.org/sparql")
+        sparql.setQuery(u"""
+            PREFIX dbo: <http://dbpedia.org/ontology/> 
+            PREFIX res: <http://dbpedia.org/resource/> 
+            PREFIX dbp: <http://fr.dbpedia.org/property/> 
+            SELECT ?x ?mere ?sous ?appelation
+            WHERE { 
+            { 
+                ?x prop-fr:wikiPageUsesTemplate <http://fr.dbpedia.org/resource/Modèle:Infobox_Région_viticole> .
+                ?x prop-fr:régionMère ?mere .
+                ?x prop-fr:sousRégions ?sous .
+                ?x prop-fr:appellations ?appelation
+            } 
+            }
+        """)
+        sparql.setReturnFormat(JSON)
+        
+        results = sparql.query().convert()
+        for result in results["results"]["bindings"]:
+            print(result['mere']['value'], result["sous"]["value"], result['appelation']['value'])
     
 if __name__== "__main__" :
     command = SparQLCommand()
