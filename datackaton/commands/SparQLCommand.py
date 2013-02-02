@@ -23,6 +23,9 @@ class SparQLCommand(BaseCommand):
     help = """
         Performs a query against a SparQL endpoint. 
         http://sparql-wrapper.sourceforge.net/
+        
+        Example use :
+        python datackaton/commands/SparQLCommand.py
     """
     
     option_list = BaseCommand.option_list + (
