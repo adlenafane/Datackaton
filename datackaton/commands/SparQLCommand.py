@@ -40,10 +40,8 @@ class SparQLCommand(BaseCommand):
             PREFIX dbp: <http://fr.dbpedia.org/property/> 
             SELECT ?appelation ?cepages
             WHERE { 
-            { 
                 ?appelation prop-fr:wikiPageUsesTemplate <http://fr.dbpedia.org/resource/Modèle:Infobox_Région_viticole> .
                 ?appelation prop-fr:cépages ?cepages
-            } 
             }
         """)
         sparql.setReturnFormat(JSON)
