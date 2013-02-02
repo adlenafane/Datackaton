@@ -24,13 +24,14 @@ class SparQLCommand(BaseCommand):
         http://sparql-wrapper.sourceforge.net/
         
         Example use :
-        python datackaton/commands/SparQLCommand.py --regions
+        python datackaton/commands/SparQLCommand.py --region=1
     """
     
     option_list = BaseCommand.option_list + (
         make_option('--region', action='store', dest='region', default=False, help='Loads the list of regions', type="int"),
         make_option('--cepage', action='store', dest='cepage', default=False, help='Loads the list of cepages', type="int"),
     )
+    
     
     def handle(self, *args, **options):
         """
@@ -40,8 +41,6 @@ class SparQLCommand(BaseCommand):
     
         self.sparql = SPARQLWrapper("http://fr.dbpedia.org/sparql")
         self.sparql.setReturnFormat(JSON)
-        
-        print(options)
         
         if options['region']:
             self.load_region()
@@ -70,6 +69,7 @@ class SparQLCommand(BaseCommand):
             print(result["uri"]["value"])
         print len(results)
         
+        return results
         
         
     def load_region(self):
@@ -91,6 +91,10 @@ class SparQLCommand(BaseCommand):
         for result in results["results"]["bindings"]:
             print(result["uri"]["value"])
         print len(results)
+    
+        return results
+    
+    
     
     
 if __name__== "__main__" :
