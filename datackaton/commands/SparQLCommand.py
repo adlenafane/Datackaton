@@ -46,6 +46,7 @@ class SparQLCommand(BaseCommand):
             try:
                 print(result["label"]["value"])
             except:
+                print "Cannot display, encoding issue"
                 pass
     
     
