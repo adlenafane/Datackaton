@@ -15,16 +15,30 @@ app = Flask(__name__)
 AUTH = HTTPDigestAuth("Datackathon","31c622990a5aa4912341af729f8e418abd0bb56d")
 
 @app.route('/')
-def home_page():                                                                    
-	return render_template('layout.html')
+def home_page():
+	url = "http://api.mobimenu.fr/restaurants/1.json"
+	res = requests.get(url, auth=AUTH)
+	res_json = res.json()
+	return render_template('layout_restaurant.html', next_page = "2", restaurants = res_json['restaurant'])
 
-@app.route('/getResults')
-def getResults():
-	restaurant = request.args.get('restaurant', '')
+@app.route('/<page>')
+def restaurant_page(page):
+	url = "http://api.mobimenu.fr/restaurants/"+str(page)+".json"
+	res = requests.get(url, auth=AUTH)
+	res_json = res.json()
+	next = int(page)+1
+	next = str(next)
+	return render_template('layout_restaurant.html', next_page = next, restaurants = res_json['restaurant'])
+
+@app.route('/getResults/<restaurant>')
+def getResults(restaurant):
+	rest_id = restaurant
 
 	'''Get restaurant ID A FAAAAAAAIRE'''
-	rest_id = int(restaurant)
+	rest_id = int(rest_id)
 	url = "http://api.mobimenu.fr/restaurant/"+str(rest_id)+".json"
+	resMenu = requests.get(url, auth=AUTH)
+
 	res = requests.get(url, auth=AUTH)
 	res_json = res.json()
 	listMenuID = res.json()['restaurant']['menu']['menu_id']
@@ -66,11 +80,11 @@ def getResults():
 					except:
 						for indices2 in range(0, len(dishes)):
 							dishes = subcategory[indices2]['dishes']
-						for dish in dishes:
-							dish = dishes['dish']
-							for indices in range(len(dish)):
-								labels = dish[indices]['label']
-								allLabels.append(labels)
+							for dish in dishes:
+								dish = dishes['dish']
+								for indices in range(len(dish)):
+									labels = dish[indices]['label']
+									allLabels.append(labels)
 
 
 	return render_template('layout_plat.html', plats = allLabels, test='')
@@ -81,5 +95,4 @@ def getBestWine(plat):
 	return render_template("layout_wine.html", plat=plat, wines = vins)
 
 if __name__ == '__main__':
-    #init_db()
     app.run(debug=True)
