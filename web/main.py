@@ -9,17 +9,25 @@
 
 from flask import Flask, render_template, request
 import requests, pprint
+import cPickle
 from requests.auth import HTTPDigestAuth
+from dataRetrieving import getAllRestaurants
 
 app = Flask(__name__)
 AUTH = HTTPDigestAuth("Datackathon","31c622990a5aa4912341af729f8e418abd0bb56d")
+'''
+with open('data/restaurants.json', 'rb') as f:
+	restaurantJson = json.load(f)'''
+with open('data/restaurants2.txt', 'rb') as f:
+	restaurantsJsonFlat = f.readlines()
 
 @app.route('/')
 def home_page():
 	url = "http://api.mobimenu.fr/restaurants/1.json"
 	res = requests.get(url, auth=AUTH)
 	res_json = res.json()
-	return render_template('layout_restaurant.html', next_page = "2", restaurants = res_json['restaurant'])
+	
+	return render_template('layout_restaurant.html', next_page = "2", restaurants = res_json['restaurant'], restaurantsJsonFlat = restaurantsJsonFlat)
 
 @app.route('/<page>')
 def restaurant_page(page):
@@ -91,6 +99,10 @@ def getResults(restaurant):
 							pass
 
 	return render_template('layout_plat.html', plats = allLabels, test='')
+
+@app.route('/test')
+def test():
+	return render_template('layout.html')
 
 @app.route('/getWine/<plat>')
 def getBestWine(plat):

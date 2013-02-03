@@ -1,27 +1,20 @@
 <!DOCTYPE html>
+<html>
 <head>
-	<meta charset="utf-8" />
-	<title>Winekipedia</title>
-	<link href="{{url_for('static', filename='bootstrap.css')}}" rel="stylesheet" type="text/css" /> 
+    <meta charset="utf-8" />
+    <title>Bootstrap typeahead with options example by w3resource</title>
+    <link href="/static/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-	<div class='well'>
-	  	<h1>Recommandation</h1>
-	  	<div class=searchZone>
-	  		<form action="getResults" method="get">
-	  			<p>
-		  			<label for="restaurant">Restaurants: </label>
-		  			<input type="text" class='span3' name='restaurant' id='restaurant' data-provide="typeahead" data-items="4"/>
-		  			<input type="submit" class='btn' type='submit' value="Submit"/>
-		  		</p>
-	  		</form>
-	  	</div>
+	
+	<div class="well">
+		<input type="text" class="span3" id="search" data-provide="typeahead" data-items="4" />
 	</div>
-	<script src="{{ url_for('static', filename='jquery.js') }}"</script>
-	<script src="{{ url_for('static', filename='bootstrap-typeahead.js') }}"></script>
-  	<script>
-		var subjects = ['PHP', 'MySQL', 'SQL', 'PostgreSQL', 'HTML', 'CSS', 'HTML5', 'CSS3', 'JSON'];
-		$('#restaurant').typeahead()
+	<script src="/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/js/jquery.js"></script>
+	<script src="/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/js/bootstrap-typeahead.js"></script>
+	<script>
+		var subjects = ['PHP', 'MySQL', 'SQL', 'PostgreSQL', 'HTML', 'CSS', 'HTML5', 'CSS3', 'JSON']; 
+		$('#search').typeahead({source: subjects})
 	</script>
 </body>
 </html>

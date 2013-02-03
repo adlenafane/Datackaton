@@ -2,11 +2,20 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Winekipedia</title>
-	<link href="{{url_for('static', filename='bootstrap.css')}}" rel="stylesheet" type="text/css" /> 
+	<link href="/static/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet" type="text/css" /> 
 </head>
 <body>
 	<div class='well'>
 	  	<h1>Liste des restaurants disponibles</h1>
+	  	<div class=searchZone>
+	  		<form action="getResults" method="get">
+	  			<p>
+		  			<label for="restaurant">Restaurants: </label>
+		  			<input type="text" class='span3' name='restaurant' id='restaurant_id' data-provide="typeahead" data-items="4"/>
+		  			<input type="submit" class='btn' type='submit' value="Submit"/>
+		  		</p>
+	  		</form>
+	  	</div>
 	  	<ul class=entries>
 	  		<li><a href="/getResults/1">A Casaluna</a></li>
 	  		<li><a href="/getResults/100">Casa Candido</a></li>
@@ -19,7 +28,21 @@
 	<div class='well'>
 		<a href="/{{next_page}}">Page suivante</a>
 	</div>
-	<script src="{{ url_for('static', filename='jquery.js') }}"</script>
-	<script src="{{ url_for('static', filename='bootstrap-typeahead.js') }}"></script>
+	<script src="/static/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/js/jquery.js"></script>
+	<script src="/static/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/js/bootstrap-typeahead.js"></script>	
+	<script>
+		var subjects = ['PHP', 'MySQL', 'SQL', 'PostgreSQL', 'HTML', 'CSS', 'HTML5', 'CSS3', 'JSON'];
+		var jsonString = {{restaurantsJsonFlat}}
+		var restaurantsJson = $.parseJSON(jsonString);
+		var sourceArray = [];
+		//$('#restaurant_id').typeahead({source: subjects});
+		for(var i=0; i<restaurantsJson.length; i++) {
+			sourceArray.push(restaurantsJson[i].name);
+			console.log(restaurantsJson[i].name);
+		}
+		$('#restaurant_id').typeahead({
+			source: sourceArray
+		});
+	</script>
 </body>
 </html>
