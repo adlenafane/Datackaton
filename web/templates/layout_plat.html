@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8" />
+	<title>Winekipedia</title>
+	<link href="{{url_for('static', filename='bootstrap.css')}}" rel="stylesheet" type="text/css" /> 
+</head>
+<body>
+	<div class='well'>
+	  	<h1>Liste des plats disponibles</h1>
+	  	<ul class=entries>
+	  	{% for plat in plats %}
+		  	<li><a href="/getWine/{{plat}}">{{plat}}</a>
+		{% else %}
+			<li><em>Incroyable. Nous n'avons pas trouvé de menu</em>
+		{% endfor %}
+		{{test}}
+	</div>
+	<script src="{{ url_for('static', filename='jquery.js') }}"</script>
+	<script src="{{ url_for('static', filename='bootstrap-typeahead.js') }}"></script>
+</body>
+</html>
