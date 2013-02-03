@@ -60,6 +60,7 @@ def getResults(restaurant):
 								dish = dishes['dish']
 								for indices in range(len(dish)):
 									labels = dish[indices]['label']
+
 									allLabels.append(labels)
 						except:
 							for indices2 in range(0, len(dishes)):
@@ -78,14 +79,16 @@ def getResults(restaurant):
 								labels = dish[indices]['label']
 								allLabels.append(labels)
 					except:
-						for indices2 in range(0, len(dishes)):
-							dishes = subcategory[indices2]['dishes']
-							for dish in dishes:
-								dish = dishes['dish']
-								for indices in range(len(dish)):
-									labels = dish[indices]['label']
-									allLabels.append(labels)
-
+						try:
+							for indices2 in range(0, len(dishes)):
+								dishes = subcategory[indices2]['dishes']
+								for dish in dishes:
+									dish = dishes['dish']
+									for indices in range(len(dish)):
+										labels = dish[indices]['label']
+										allLabels.append(labels)
+						except:
+							pass
 
 	return render_template('layout_plat.html', plats = allLabels, test='')
 
