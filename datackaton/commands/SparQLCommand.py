@@ -154,7 +154,31 @@ class SparQLCommand(BaseCommand):
         with open('rawVertex.txt', 'wb') as fp:
             cPickle.dump(dicOfAllVertex, fp)
 
+    def getAppelationList(self, *args, **options):
+        appelationList = []
+        sparql = SPARQLWrapper("http://fr.dbpedia.org/sparql")
+        sparql.setQuery(u"""
+            PREFIX dbo: <http://dbpedia.org/ontology/> 
+            PREFIX res: <http://dbpedia.org/resource/> 
+            PREFIX dbp: <http://fr.dbpedia.org/property/> 
+            SELECT ?appelation
+            WHERE { 
+            { 
+                ?x prop-fr:wikiPageUsesTemplate <http://fr.dbpedia.org/resource/Modèle:Infobox_Région_viticole> .
+                ?x prop-fr:appellations ?appelation
+                FILTER regex(?appelation, "^http://")
+            } 
+            }
+        """)
+        sparql.setReturnFormat(JSON)
+     
+        results = sparql.query().convert()
+        for result in results["results"]["bindings"]:
+            appelationList.append(result['appelation']['value'])
+        appelationList = set(appelationList)
+        pprint.pprint(appelationList)
+
 
 if __name__== "__main__" :
     command = SparQLCommand()
-    command.run_from_argv(sys.argv)
+    command.run_from_argv(sys.argv) 
