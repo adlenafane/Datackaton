@@ -8,13 +8,18 @@
 """
 
 from flask import Flask, render_template, request
-import config1001
+import requests
+from requests.auth import HTTPDigestAuth
 
 app = Flask(__name__)
+AUTH = HTTPDigestAuth("Datackathon","31c622990a5aa4912341af729f8e418abd0bb56d")
 
 @app.route('/')
-def home_page():
-	return render_template('layout.html')
+def home_page():                                                                    
+	url = "http://api.mobimenu.fr/restaurant/45.json"
+	res = requests.get(url, auth=AUTH)
+
+	return render_template('layout.html', test = res.json())
 
 @app.route('/getResults')
 def getResults():
