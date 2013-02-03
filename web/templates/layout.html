@@ -1,15 +1,29 @@
-<!doctype html>
-<title>Recommandations de vins</title>
-<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
-<div class=page>
-  	<h1>Recommandation du meilleur vin</h1>
-  	<div class=searchZone>
-  		<form action="getResults" method="get">
-  			<label for="Plat">Plat: </label>
-  			<input type=text name=plat id='Plat'>
-  			<input type="submit" value="Submit">
-  		</form>
-  	</div>
-  	{{test}}
-  {% block body %}{% endblock %}
-</div>
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8" />
+	<title>Winepedia</title>
+	<link href="{{url_for('static', filename='bootstrap.css')}}" rel="stylesheet" type="text/css" /> 
+	<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+	<div class='well'>
+	  	<h1>Recommandation</h1>
+	  	<div class=searchZone>
+	  		<form action="getResults" method="get">
+	  			<label for="restaurant">Restaurants: </label>
+	  			<input type="text" class='span3' name='restaurant' id='restaurant' data-provide="typeahead" data-items="10"/>
+	  			<input type="submit" value="Submit"/>
+	  		</form>
+	  	</div>
+	</div>
+	<script src="{{ url_for('static', filename='jquery.js') }}"</script>
+	<script src="{{ url_for('static', filename='bootstrap-typeahead.js') }}"></script>
+  	<script>  
+		$(function() {
+			var subjects = ['PHP', 'MySQL', 'SQL', 'PostgreSQL', 'HTML', 'CSS', 'HTML5', 'CSS3', 'JSON'];   
+			$('#restaurant').typeahead({source: subjects});
+		});
+		
+	</script>
+</body>
+</html>

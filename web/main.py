@@ -4,7 +4,7 @@
     Wine suggestion
     ~~~~~~
     Datackathon - Application pour suggérer le meilleure vin pour un plate donné
-    Utilisation d'API ded 1001 menus
+    Utilisation d'API de 1001 menus
 """
 
 from flask import Flask, render_template, request
@@ -16,10 +16,7 @@ AUTH = HTTPDigestAuth("Datackathon","31c622990a5aa4912341af729f8e418abd0bb56d")
 
 @app.route('/')
 def home_page():                                                                    
-	url = "http://api.mobimenu.fr/restaurant/45.json"
-	res = requests.get(url, auth=AUTH)
-
-	return render_template('layout.html', test = res.json())
+	return render_template('layout.html')
 
 @app.route('/getResults')
 def getResults():
